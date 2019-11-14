@@ -1,0 +1,782 @@
+imdb key	countries	country codes	genres	kind	language codes	languages	rating	runtimes	title	votes	year
+0000417	France	fr	Short,Action,Adventure,Comedy,Fantasy,Sci-Fi	movie	fr	French	8.2	13	A Trip to the Moon	39887	1902
+0006333	United States	us	Action,Adventure,Sci-Fi	movie	en	English	6.2	105	20,000 Leagues Under the Sea	1437	1916
+0008100	Denmark	dk	Adventure,Fantasy,Sci-Fi	movie			6.6	97	A Trip to Mars	551	1918
+0012651	Germany	de	Crime,Drama,Horror,Mystery	movie	de	German	6.3	75	The Haunted Castle	1270	1921
+0015214	France	fr	Short,Sci-Fi	movie	fr	French	7.2	35	At 3:25	1441	1924
+0016123	United States	us	Comedy,Horror,Mystery,Romance,Sci-Fi	movie	en	English	6.2	86	The Monster	874	1925
+0017621	Germany	de	Drama,Fantasy,Horror,Sci-Fi	movie	de	German	6.1	108	A Daughter of Destiny	264	1928
+0020198	United States	us	Adventure,Romance,Sci-Fi	movie	en	English	6.1	95	The Mysterious Island	540	1929
+0020629	United States	us	Drama,War	movie	en,fr,de,la	English,French,German,Latin	8.0	136	All Quiet on the Western Front	54174	1930
+0024240	United States	us	Comedy,Drama	movie	en,es	English,Spanish	7.4	96	Lady for a Day	3508	1933
+0024727	United States	us	Drama,Horror,Mystery,Romance,Sci-Fi	movie	en	English	5.7	65	The Vampire Bat	1995	1933
+0024916	United States	us	Comedy,Drama	movie	en	English	6.7	104	Broadway Bill	830	1934
+0026040	Soviet Union	suhh	Drama	movie	ru	Russian	6.1	82	Frontier	334	1935
+0027977	United States	us	Comedy,Drama,Family,Romance	movie	en	English	8.5	87	Modern Times	197049	1936
+0029811	United Kingdom	gb	Crime,Mystery,Romance,Thriller	movie	en,la	English,Latin	6.9	80	Young and Innocent	7903	1937
+0031505	United Kingdom	gb	Adventure,Crime	movie	en	English	6.3	108	Jamaica Inn	8212	1939
+0032484	United States	us	Action,Romance,Thriller,War	movie	en,nl,de,lv	English,Dutch,German,Latvian	7.5	120	Foreign Correspondent	16842	1940
+0032976	United States	us	Drama,Mystery,Romance,Thriller	movie	en,fr	English,French	8.1	130	Rebecca	113097	1940
+0033152	United Kingdom,United States	gb,us	Adventure,Family,Fantasy,Romance	movie	en	English	7.5	106	The Thief of Bagdad	10989	1940
+0039826	United States	us	Adventure,Fantasy,Romance	movie	en	English	6.2	116	Sinbad, the Sailor	1694	1947
+0043338	United States	us	Drama,Film-Noir	movie	en,es,la	English,Spanish,Latin	8.2	111	Ace in the Hole	25654	1951
+0043539	United States	us	Drama,Horror,Sci-Fi	movie	en	English	6.3	93	Five	1069	1951
+0044744	United Kingdom	gb	Comedy,Drama	movie	en	English	7.5	95	The Importance of Being Earnest	4802	1952
+0048424	United States	us	Crime,Drama,Film-Noir,Thriller	movie	en	English	8.0	92	The Night of the Hunter	76535	1955
+0048434	France	fr	Documentary,Short,History,War	movie	fr	French	8.6	32	Night and Fog	15856	1956
+0048919	United States	us	Crime,Mystery,Thriller	movie	en	English	6.9	103	23 Paces to Baker Street	1758	1956
+0049369	United Kingdom	gb	Comedy	movie	en	English	5.3	87	The Iron Petticoat	939	1956
+0050850	France,Italy	fr,it	Crime,Drama,Romance	movie	fr	French	7.2	95	The Gates of Paris	482	1957
+0052156	United States	us	Action,Adventure,Fantasy,Horror	movie	en	English	3.1	66	The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent	1099	1957
+0057012	United Kingdom,United States	gb,us	Comedy	movie	en,ru	English,Russian	8.4	95	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	422745	1964
+0060608	Italy,Spain,Turkey	it,es,tr	Adventure,Crime	movie	it	Italian	5.9	98	Kriminal	230	1966
+0061646	Italy,France,West Germany,Yugoslavia	it,fr,xwg,xyu	Action,Adventure,Crime,Fantasy	movie	it	Italian	5.9	94	The Three Fantastic Supermen	172	1967
+0062622	United Kingdom,United States	gb,us	Adventure,Sci-Fi	movie	en,ru	English,Russian	8.3	149	2001: A Space Odyssey	556178	1968
+0063598	Japan	jp	Comedy,Drama	movie	ja	Japanese	6.4	96	Diary of a Shinjuku Thief	558	1969
+0064622	United Kingdom	gb	Comedy	movie	en	English	6.1	92	The Magic Christian	2892	1969
+0066511	Italy,Yugoslavia	it,xyu	Drama,War	movie	it	Italian	7.6	101	Many Wars Ago	1212	1970
+0066921	United Kingdom,United States	gb,us	Crime,Drama,Sci-Fi	movie	en	English	8.3	136	A Clockwork Orange	705376	1971
+0067277	United States	us	Drama,War	movie	en	English	7.9	111	Johnny Got His Gun	14452	1971
+0068555	United States	us	Comedy	movie	en,it	English,Italian	6.8	88	Everything You Always Wanted to Know About Sex * But Were Afraid to Ask	36247	1972
+0069995	United Kingdom,Italy	gb,it	Drama,Horror,Thriller	movie	en,it	English,Italian	7.3	110	Don't Look Now	44590	1973
+0070458	United States	us	Horror	tv movie	en	English	6.4	72	The Norliss Tapes	1040	1973
+0071691	West Germany	xwg	Biography,Drama,History	movie	de	German	7.8	110	The Enigma of Kaspar Hauser	15272	1974
+0074860	United States	us	Crime,Thriller	movie	en,fr,de,es,yi	English,French,German,Spanish,Yiddish	7.5	125	Marathon Man	53855	1976
+0075276	West Germany	xwg	Comedy,Drama	movie	de,en,tr	German,English,Turkish	7.9	115	Stroszek	11970	1977
+0076164	Hong Kong	hk	Action,Adventure,Horror,Sci-Fi	movie	cmn	Mandarin	5.3	86	The Mighty Peking Man	1515	1977
+0078106	United States	us	Documentary,Short	movie	en	English	8.0	9	Powers of Ten	1958	1977
+0079641	West Germany,France	xwg,fr	Drama,Horror	movie	de,en,rom	German,English,Romany	7.5	107	Nosferatu the Vampyre	29589	1979
+0080149	West Germany	xwg	Drama	movie	de	German	7.1	80	Woyzeck	8214	1979
+0081103	United States	us	Action,Adventure,Crime,Drama,Mystery	episode	en	English	7.9	46	Don't Eat the Snow in Hawaii	931	1980
+0082694	Australia	au	Action,Adventure,Sci-Fi,Thriller	movie	en	English	7.6	96	Mad Max 2: The Road Warrior	157206	1981
+0083658	United States	us	Action,Sci-Fi,Thriller	movie	en,de,yue,ja,hu,ar	English,German,Cantonese,Japanese,Hungarian,Arabic	8.1	117	Blade Runner	642687	1982
+0084787	United States	us	Horror,Mystery,Sci-Fi	movie	en,no	English,Norwegian	8.1	109	The Thing	340389	1982
+0085933	United Kingdom,New Zealand,Japan	gb,nz,jp	Drama,War	movie	en,ja	English,Japanese	7.3	123	Merry Christmas Mr. Lawrence	13629	1983
+0087332	United States	us	Action,Comedy,Fantasy	movie	en	English	7.8	105	Ghostbusters	330441	1984
+0087553	United Kingdom	gb	Biography,Drama,History,War	movie	en,fr,km,ru	English,French,Khmer,Russian	7.8	141	The Killing Fields	48234	1984
+0092991	United States	us	Comedy,Horror	movie	en,la	English,Latin	7.8	84	Evil Dead II	138629	1987
+0093223	United States	us	Crime,Thriller	movie	en	English	7.3	102	House of Games	19214	1987
+0094955	United Kingdom	gb	Drama,Romance,Thriller	movie	en	English	6.0	97	The Dawning	309	1988
+0095475	Hungary	hu	Crime,Drama,Romance	movie	hu	Hungarian	7.8	120	Damnation	4585	1988
+0098368	Canada	ca	Drama,Romance	movie	en	English	6.7	93	Speaking Parts	1198	1989
+0104782	Canada,France	ca,fr	Comedy,Drama	movie	fr	French	7.5	107	Léolo	6424	1992
+0107206	United States	us	Action,Crime,Drama,Thriller	movie	en	English	7.2	128	In the Line of Fire	86602	1993
+0110912	United States	us	Crime,Drama	movie	en,es,fr	English,Spanish,French	8.9	154	Pulp Fiction	1689149	1994
+0111403	Spain,France	es,fr	Comedy,Romance	movie	ca,es,fr	Catalan,Spanish,French	6.4	90	La teta y la luna	2750	1994
+0112716	Portugal,France	pt,fr	Drama,Mystery	movie	fr,en,pt,de	French,English,Portuguese,German	6.1	91	The Convent	896	1995
+0116313	United States	us	Comedy	movie	en	English	6.4	103	The First Wives Club	39426	1996
+0116367	United States,Mexico	us,mx	Action,Crime,Horror	movie	en,es	English,Spanish	7.2	108	From Dusk Till Dawn	268741	1996
+0118826	Australia	au	Comedy,Drama	movie	en	English	7.7	85	The Castle	14040	1997
+0119116	France	fr	Action,Adventure,Sci-Fi	movie	en,sv,de,ar,egy	English,Swedish,German,Arabic,Egyptian (Ancient)	7.7	126	The Fifth Element	410186	1997
+0120202	France,United States	fr,us	Comedy,Drama	movie	en,it	English,Italian	6.7	105	State and Main	19708	2000
+0120685	United States,Japan	us,jp	Action,Sci-Fi,Thriller	movie	en,fr,ja,ru,es	English,French,Japanese,Russian,Spanish	5.4	139	Godzilla	174534	1998
+0121766	United States	us	Action,Adventure,Fantasy,Sci-Fi	movie	en	English	7.5	140	Star Wars: Episode III - Revenge of the Sith	653297	2005
+0133093	United States	us	Action,Sci-Fi	movie	en	English	8.7	136	The Matrix	1549013	1999
+0149677	Italy	it	Adventure,Sci-Fi	movie	en	English	2.9	89	War of the Planets	714	1977
+0178148	Japan	jp	Animation,Action,Comedy,Fantasy,Sci-Fi,Sport	tv series	ja	Japanese	6.8	23	M.U.S.C.L.E.	126	1983
+0182503	Turkey	tr	Comedy,Sci-Fi	movie	tr	Turkish	7.4	72	Turist Ömer Uzay Yolu'nda	3005	1973
+0182662	Italy,West Germany	it,xwg	Adventure	movie	it	Italian	6.4		3 Supermen a Tokio	53	1968
+0200264	Italy	it	Crime,Drama,Mystery	episode	it	Italian	7.6	100	The Sound of the Violin	195	1999
+0200588	Turkey	tr	Fantasy,Horror	movie	tr	Turkish	6.6	102	Dracula in Istanbul	355	1953
+0204526	Soviet Union	suhh	Crime,Drama,Sci-Fi,Thriller	movie	et,ru	Estonian,Russian	6.8	80	Dead Mountaineer's Hotel	1022	1979
+0205873	Australia	au	Comedy,Drama,History	movie	en	English	7.1	101	The Dish	14572	2000
+0250258	Germany	de	Drama,Thriller	movie	de,en	German,English	7.7	120	The Experiment	87819	2001
+0265426	Spain	es	Comedy,Drama	movie	es	Spanish	7.2	89	Women	51	2000
+0274932	Turkey	tr	Action,Adventure,Fantasy,History	movie	tr	Turkish	6.4	86	Tarkan and the Blood of the Vikings	1692	1971
+0290591	Spain	es	Documentary	movie	es,ca,ar	Spanish,Catalan,Arabic	7.5	125	En construcción	718	2001
+0292568	United States	us	Documentary,Short	tv short	en	English	6.9	45	Journey's End: The Saga of Star Trek - The Next Generation	197	1994
+0292963	United States	us	Crime,Drama,Thriller	movie	en	English	7.3	117	Before the Devil Knows You're Dead	91115	2007
+0311585	Spain	es	Documentary	movie	ru,es	Russian,Spanish	8.0	93	The Children of Russia	64	2001
+0315733	United States	us	Crime,Drama,Thriller	movie	en	English	7.7	124	21 Grams	215116	2003
+0317268	United States	us	Action,Crime	movie	en	English	6.9	88	Criminal Minds	83	1998
+0318202	France	fr	Documentary,Family	movie	fr	French	7.9	104	To Be and to Have	7293	2002
+0327597	United States	us	Animation,Drama,Fantasy,Thriller	movie	en,ru	English,Russian	7.7	100	Coraline	181854	2009
+0330229	Japan	jp	Drama,Romance	movie	ja	Japanese	7.6	114	Dolls	15013	2002
+0337377	Italy	it	Comedy,Horror,Sci-Fi	movie			6.0	80	The Mechanical Man	200	1921
+0363589	United States	us	Crime,Drama,Thriller	movie	en,de	English,German	7.2	81	Elephant	81608	2003
+0369400	United Kingdom	gb	Drama,Music	tv movie	en	English	7.6	129	Eroica	496	2003
+0369441	United States	us	Comedy,Crime	movie	en,es	English,Spanish	6.1	90	Fun with Dick and Jane	126942	2005
+0371246	United States	us	Comedy,Drama,Romance	movie	en,es	English,Spanish	6.4	131	Spanglish	74704	2004
+0382944	United States	us	Crime,Drama,Thriller	tv movie	en	English	6.2	173	Reversible Errors	717	2004
+0385700	Japan	jp	Animation,Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller	movie	ja	Japanese	7.2	101	Final Fantasy VII: Advent Children	53673	2005
+0392276	Turkey	tr	Adventure,Crime,Fantasy	movie	tr	Turkish	6.8	93	Kilink: Strip and Kill	87	1967
+0392818	Turkey	tr	Adventure,Fantasy,Sci-Fi	movie	tr	Turkish	3.7	67	The Return of Superman	485	1979
+0399877	United States	us	Documentary,Comedy,Drama,Fantasy,Mystery,Sci-Fi	movie	en,de,es	English,German,Spanish	5.3	109	What the #$*! Do We (K)now!?	12894	2004
+0402850	Germany,Canada,New Zealand,United States	de,ca,nz,us	Comedy,Crime,Drama	movie	en	English	6.4	100	The Big White	13544	2005
+0418129	Belgium,Chile,France,Germany,Spain,Mexico	be,cl,fr,de,es,mx	Documentary,Biography	movie	es,fr,en	Spanish,French,English	7.7	100	Salvador Allende	638	2004
+0424789	Denmark	dk	Drama,Romance,Sci-Fi	movie	da	Danish	6.6	88	Allegro	1833	2005
+0442933	United States,United Kingdom	us,gb	Animation,Action,Adventure,Fantasy	movie	en,ang	English,Old English	6.2	115	Beowulf	156496	2007
+0443272	United States,India	us,in	Biography,Drama,History,War	movie	en	English	7.3	150	Lincoln	232115	2012
+0449487	United States,Canada	us,ca	Drama,Fantasy,Horror,Mystery,Romance,Thriller	movie	en	English	5.9	93	Passengers	32517	2008
+0454876	United States,Taiwan,United Kingdom,Canada	us,tw,gb,ca	Adventure,Drama,Fantasy	movie	ar,en,ta,fr,ja,hi,zh	Arabic,English,Tamil,French,Japanese,Hindi,Chinese	7.9	127	Life of Pi	545908	2012
+0460740	United Kingdom	gb	Comedy,Drama,Romance	movie	en,es	English,Spanish	7.2	102	Cashback	80349	2006
+0462396	United Kingdom,France,Slovakia,Tunisia,Italy,Bulgaria	gb,fr,sk,tn,it,bg	Action,Adventure,War	movie	en	English	5.4	101	The Last Legion	32968	2007
+0466399	Australia	au	Adventure,Comedy,Drama	movie	qac,en	Aboriginal,English	7.0	90	Ten Canoes	4210	2006
+0479566	United States	us	Documentary	video movie	en	English	8.1	58	Where No Fan Has Gone Before: The Making of 'Free Enterprise'	16	1999
+0498380	United States	us	Action,Adventure,Drama,History,War	movie	ja,en	Japanese,English	7.9	141	Letters from Iwo Jima	147786	2006
+0502266	United States	us	Action,Crime,Drama,Thriller	episode	en	English	9.2	42	Day 5: 7:00 a.m.-8:00 a.m.	1186	2006
+0502268	United States	us	Action,Crime,Drama,Thriller	episode	en	English	8.8	43	Day 5: 8:00 a.m.-9:00 a.m.	911	2006
+0502270	United States	us	Action,Crime,Drama,Thriller	episode	en,ru	English,Russian	8.8	42	Day 5: 9:00 a.m.-10:00 a.m.	880	2006
+0550485	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	6.8	42	Blood Hungry	2196	2005
+0550486	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.8	42	Broken Mirror	1692	2005
+0550487	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.7	42	Compulsion	1757	2005
+0550488	United States	us	Crime,Drama,Mystery,Thriller	episode	en,es	English,Spanish	8.0	42	Derailed	2320	2005
+0550489	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.9	42	Extreme Aggressor	2132	2005
+0550490	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.4	42	L.D.S.K.	2166	2005
+0550491	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.5	42	Natural Born Killer	1596	2005
+0550492	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.8	42	Plain Sight	1618	2005
+0550493	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.3	42	Poison	1502	2006
+0550494	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.7	42	The Popular Kids	2038	2005
+0550495	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.9	42	The Fox	1634	2005
+0550496	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.9	42	Unfinished Business	1493	2006
+0550497	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.4	60	What Fresh Hell?	1408	2006
+0550498	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.3	43	Won't Get Fooled Again	1827	2005
+0562828	United Kingdom	gb	Adventure,Drama,Family,Sci-Fi	episode	en	English	8.3	23	An Unearthly Child	1239	1963
+0602004			Documentary,History	episode			8.1		Beginnings	34	2000
+0606035	United States	us	Drama,Mystery	episode	en	English	8.6	43	Pilot	3869	2004
+0606111	United States	us	Comedy,Romance	episode	en	English	8.2	22	Purple Giraffe	3469	2005
+0639633	United States	us	Action,Adventure,Crime,Drama,Mystery	episode	en	English	7.6	50	China Doll	323	1980
+0701990	United States	us	Comedy,Drama	episode	en	English	8.9	60	Falling into Place	1065	2004
+0702013	United States	us	Comedy,Drama	episode	en	English	7.9	60	The Black Forest	783	2004
+0702030	United States	us	Comedy,Drama	episode	en	English	9.1	60	Untitled	1077	2004
+0708486	United States	us	Action,Adventure,Sci-Fi	episode	en	English	7.6	50	What Are Little Girls Made Of?	2683	1966
+0708946			Action,Adventure,Sci-Fi	episode	en	English	7.1	46	Phage	1246	1995
+0758177	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.9	42	Riding the Lightning	2864	2006
+0759098	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.5	42	The Tribe	1656	2006
+0760469	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.5	42	Somebody's Watching	2442	2006
+0764319	United States	us	Crime,Drama,Mystery,Thriller	episode	en,es	English,Spanish	7.3	42	Machismo	1614	2006
+0765120	China,France,Hong Kong,United States	cn,fr,hk,us	Drama,Romance	movie	en	English	6.6	95	My Blueberry Nights	49857	2007
+0772168	United States	us	Drama,Family	movie	en	English	6.7	85	Grace Is Gone	8848	2007
+0775431	United States	us	Comedy,Romance	episode	en,fr,yue	English,French,Cantonese	8.3	23	Pilot	4783	2007
+0780210	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.8	42	A Real Rain	1517	2006
+0800241	United Kingdom,Germany,Spain,Lithuania	gb,de,es,lt	Crime,Drama,Mystery,Thriller	movie	en,ru,es,cmn,fr	English,Russian,Spanish,Mandarin,French	6.7	111	Transsiberian	48356	2008
+0806910	West Germany,Austria	xwg,at	Crime,Drama,Thriller	tv series	de	German	7.1	90	Tatort	2143	1970
+0807840	Netherlands	nl	Animation,Short,Sci-Fi	video movie	en	English	5.7	9	Elephants Dream	1259	2006
+0813547	Austria,Germany	at,de	Crime,Drama,War	movie	de,ru,en,he	German,Russian,English,Hebrew	7.6	99	The Counterfeiters	41375	2007
+0814106	United States	us	Animation,Short	movie	en	English	6.9	34	Flatland: The Movie	737	2007
+0861689	Canada,Brazil,Japan	ca,br,jp	Drama,Mystery,Sci-Fi,Thriller	movie	en,ja	English,Japanese	6.6	121	Blindness	66782	2008
+0877328	New Zealand	nz	Documentary,Short	tv short	en	English	8.1	28	Burt Munro: Offerings to the God of Speed	69	1971
+0929632	United States	us	Drama	movie	en,it	English,Italian	7.3	110	Precious	101268	2009
+0944835	United States	us	Action,Mystery,Thriller	movie	en,ru,ko	English,Russian,Korean	6.4	100	Salt	280713	2010
+0982049	United States	us	Comedy,Music,Musical	episode	en	English	8.9	27	Mugged	645	2007
+0993916			Action,Adventure,Drama,Sci-Fi	episode			8.5	44	No Exit	1191	2009
+1002166			Comedy,Drama,History	episode					Què em passa doctor?		2007
+1004298	United States	us	Comedy,Music,Musical	episode	en	English	8.6	25	Yoko	529	2007
+1006987	United States	us	Comedy,Music,Musical	episode	en	English	8.3	28	Sally	714	2007
+1010048	United Kingdom,India	gb,in	Drama,Romance	movie	en,hi,fr,de	English,Hindi,French,German	8.0	120	Slumdog Millionaire	757874	2008
+1011396	United States	us	Comedy,Music,Musical	episode	en	English	8.5	28	Girlfriends	476	2007
+1026405			Comedy,Drama,History	episode					Esclaus i senyors		2007
+1027718	United States	us	Drama	movie	en	English	6.2	133	Wall Street: Money Never Sleeps	94402	2010
+1027862	United States	us	Comedy,Drama	movie	en	English	6.1	120	Swing Vote	17039	2008
+1030715			Comedy,Drama,History	episode					El somni d'una nit d'abril		2007
+1031780	United States	us	Comedy,Music,Musical	episode	en	English	8.6	26	Drive By	498	2007
+1033815	United States	us	Comedy,Music,Musical	episode	en	English	8.4	26	New Fans	445	2007
+1034827	United States	us	Comedy,Music,Musical	episode	en	English	8.3	27	Bret Gives Up the Dream	561	2007
+1036019	United States	us	Comedy,Music,Musical	episode	en	English	8.4	26	What Goes on Tour	447	2007
+1036920			Comedy,Drama,History	episode					El banquet		2007
+1041156			Comedy,Drama,History	episode					A vida o mort		2007
+1046980	United Kingdom	gb	Documentary	tv movie	en	English	6.1	60	Scouting for Boys	9	2007
+1047195	United States	us	Comedy,Music,Musical	episode	en	English	8.2	27	Bowie	509	2007
+1047196	United States	us	Comedy,Music,Musical	episode	en	English	8.2	27	Sally Returns	474	2007
+1048997			Comedy,Drama,History	episode					A bodes em convides		2007
+1054106			Comedy,Drama,History	episode					Vetes i fills		2007
+1054833	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en,ja	English,Japanese	8.0	43	Chapter Twelve 'Our Father'	1055	2008
+1054834	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en,ja	English,Japanese	7.6	43	Chapter Thirteen 'Dual'	1073	2008
+1054836	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en	English	7.5	41	Chapter Two 'Trust and Blood'	952	2009
+1054837	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en,ja,hi	English,Japanese,Hindi	7.2	43	Chapter Three 'Building 26'	908	2009
+1054838	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en	English	7.1	42	Chapter Four 'Cold Wars'	873	2009
+1054842	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en,ja	English,Japanese	8.0	43	Chapter Seven 'Cold Snap'	1027	2009
+1054843	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en	English	7.4	44	Chapter Eight 'Into Asylum'	900	2009
+1054844	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en,ja	English,Japanese	7.5	43	Chapter Nine 'Turn and Face the Strange'	854	2009
+1057433			Comedy,Drama,History	episode					No sense el meu fill		2007
+1064932	France	fr	Comedy,Romance	movie	fr	French	7.1	106	Welcome to the Sticks	37137	2008
+1065053			Comedy,Drama,History	episode					Més clar que l'aigua		2007
+1069917			Comedy,Drama,History	episode					Ni per tot l'or del món		2007
+1074105			Comedy,Drama,History	episode					La nit del foc		2007
+1074880			Comedy,Drama,History	episode					Amor/Roma		2007
+1078392	United States	us	Comedy,Music,Musical	episode	en	English	8.2	27	The Third Conchord	443	2007
+1087870	United States	us	Documentary	tv movie	en	English	8.0		Secret Law of Attraction	45	2007
+1091289	United States	us	Comedy,Romance	episode	en,ru,it,hi	English,Russian,Italian,Hindi	8.4	21	The Big Bran Hypothesis	3754	2007
+1091290	United States	us	Comedy,Romance	episode	en	English	7.8	22	The Fuzzy Boots Corollary	3290	2007
+1091291	United States	us	Comedy,Romance	episode	en,haw	English,Hawaiian	8.2	21	The Luminous Fish Effect	3346	2007
+1091292	United States	us	Comedy,Romance	episode	en	English	8.0	20	The Hamburger Postulate	3152	2007
+1091293	United States	us	Comedy,Romance	episode	en,it	English,Italian	8.5	21	The Middle Earth Paradigm	3314	2007
+1095775	United States	us	Comedy,Music,Musical	episode	en	English	8.6	29	The Actor	447	2007
+1099212	United States	us	Drama,Fantasy,Romance	movie	en	English	5.2	122	Twilight	400528	2008
+1127389	United States	us	Comedy,Romance	episode	en,he	English,Hebrew	8.3	21	The Grasshopper Experiment	3123	2007
+1127390	United States	us	Comedy,Romance	episode	en,cmn	English,Mandarin	8.1	20	The Cooper-Hofstadter Polarization	3016	2008
+1130988	Belgium,Luxembourg,France	be,lu,fr	Comedy,Crime,Drama	movie	fr,en	French,English	7.1	97	JCVD	36448	2008
+1136041	United States	us	Comedy,Romance	episode	en,es,yue,fr	English,Spanish,Cantonese,French	8.2	21	The Dumpling Paradox	3101	2007
+1139797	Sweden	se	Drama,Horror,Romance	movie	sv,es	Swedish,Spanish	7.9	114	Let the Right One In	197354	2008
+1141836	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.1	40	You Got Your Prom Date Pregnant	247	2009
+1172203	United States	us	Animation,Comedy,Fantasy,Musical,Romance	movie	en	English	7.6	82	Sita Sings the Blues	4259	2008
+1179031	United States,France	us,fr	Crime,Thriller	movie	en	English	6.8	109	Cold in July	32604	2014
+1185909	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en	English	7.5	42	Chapter Eleven 'The Eclipse - Part 2'	986	2008
+1185919	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en,ja	English,Japanese	7.5	42	Chapter Nine 'It's Coming'	992	2008
+1216523	United States	us	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	7.9	49	The Target	912	2009
+1247462			Action,Drama,History,War	episode	en,fr	English,French	9.2	64	Bastogne	5199	2001
+1247463			Action,Drama,History,War	episode	en	English	9.0	62	Carentan	4987	2001
+1247464			Action,Drama,History,War	episode	en	English	8.9	53	Crossroads	4635	2001
+1247465			Action,Drama,History,War	episode	en	English	9.2	49	Day of Days	5507	2001
+1247466			Action,Drama,History,War	episode	en	English	9.2	59	Points	4408	2001
+1247467			Action,Drama,History,War	episode	en	English	8.9	57	Replacements	4704	2001
+1247468			Action,Drama,History,War	episode	en	English	9.4	69	The Breaking Point	4954	2001
+1247469			Action,Drama,History,War	episode	en	English	8.8	56	The Last Patrol	4273	2001
+1247470			Action,Drama,History,War	episode	en,de,sr,fr	English,German,Serbian,French	9.5	55	Why We Fight	5342	2001
+1248537	United States	us	Drama,Mystery,Sci-Fi,Thriller	episode	en,de	English,German	8.2	82	Pilot	3398	2008
+1248542	United States	us	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	7.7	51	The Same Old Story	2402	2008
+1257493	United States	us	Biography,Drama,History	episode	en	English	8.4	71	Join or Die	637	2008
+1259521	United States	us	Horror	movie	en,ja	English,Japanese	7.0	95	The Cabin in the Woods	346329	2011
+1292590	United States	us	Comedy,Music,Musical	episode	en	English	8.2	27	A Good Opportunity	424	2009
+1313334	United States	us	Comedy,Music,Musical	episode	en	English	8.8	27	New Cup	443	2009
+1313335	United States	us	Comedy,Music,Musical	episode	en	English	8.6	27	The Tough Brets	412	2009
+1313336	United States	us	Comedy,Music,Musical	episode	en	English	8.2	28	Murray Takes It to the Next Level	376	2009
+1313337	United States	us	Comedy,Music,Musical	episode	en	English	8.9	27	Unnatural Love	513	2009
+1316540	Hungary,France,Switzerland,Germany,United States	hu,fr,ch,de,us	Drama	movie	hu,de	Hungarian,German	7.8	155	The Turin Horse	13898	2011
+1331718	United States	us	Drama,Sci-Fi	episode	en	English	7.7	60	First Night	142	2009
+1331719	United States	us	Drama,Sci-Fi	episode	en	English	7.8	60	Insurrection	135	2009
+1333381	United States	us	Drama,Sci-Fi	episode	en	English	8.4	120	Goliath: Part One	256	2009
+1343092	Australia,United States	au,us	Drama,Romance	movie	en	English	7.3	143	The Great Gatsby	442474	2013
+1355997	United States	us	Comedy,Music,Musical	episode	en	English	8.5	28	Love Is a Weapon of Choice	392	2009
+1355998	United States	us	Comedy,Music,Musical	episode	en	English	8.4	28	Prime Minister	369	2009
+1357679	United States	us	Comedy,Music,Musical	episode	en	English	8.3	28	Evicted	322	2009
+1357680	United States	us	Comedy,Music,Musical	episode	en	English	8.0	25	New Zealand Town	337	2009
+1357681	United States	us	Comedy,Music,Musical	episode	en	English	8.0	27	Wingmen	299	2009
+1371111	Germany,United States,Hong Kong,Singapore,China	de,us,hk,sg,cn	Action,Drama,Mystery,Sci-Fi	movie	en,es,uk	English,Spanish,Ukrainian	7.4	172	Cloud Atlas	330475	2012
+1392190	Australia,United States,South Africa	au,us,za	Action,Adventure,Sci-Fi,Thriller	movie	en,ru	English,Russian	8.1	120	Mad Max: Fury Road	801847	2015
+1410261	Japan	jp	Comedy,Fantasy,Mystery	movie	ru,ja,es,en	Russian,Japanese,Spanish,English	7.1	93	Symbol	3116	2009
+1413496	United States	us	Documentary	movie	en	English	7.2	90	Revenge of the Electric Car	1700	2011
+1423915	Spain	es	Documentary,Biography	movie	ca,es	Catalan,Spanish	5.8	77	Cataluña Espanya	31	2009
+1444421	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	9.8	51	The Getaway	9802	2009
+1467635	United States	us	Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller	episode	en	English	8.2	105	The End	9034	2010
+1480055	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.0	62	Winter Is Coming	37624	2011
+1486301	United States	us	Drama,Fantasy,Sci-Fi,Thriller	episode	en,ja	English,Japanese	7.6	47	Chapter One 'Orientation/Jump, Push, Fall'	928	2009
+1501864	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.0	42	Haunted	1955	2009
+1558250	United States	us	Documentary	movie	en	English	7.7	107	GasLand	10002	2010
+1602620	Austria,France,Germany	at,fr,de	Drama,Romance	movie	fr,en	French,English	7.9	127	Amour	86389	2012
+1621032	Spain	es	Documentary	movie	en,ar	English,Arabic	8.1	112	To Shoot an Elephant	90	2009
+1635951	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.8	60	Lysergic Acid Diethylamide	1795	2011
+1668746	United States,Ireland,United Kingdom	us,ie,gb	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	56	The Kingsroad	28514	2011
+1670744	Denmark	dk	Drama	episode	da	Danish	8.1	58	Dyden i midten	301	2010
+1683084	United States	us	Crime,Drama,Thriller	episode	en	English	9.2	48	Box Cutter	14364	2011
+1683085	United States	us	Crime,Drama,Thriller	episode	en	English	9.6	47	Salud	16879	2011
+1697043	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.9	42	Cackle-Bladder Blood	791	2010
+1701804	United States	us	Comedy,Romance	episode	en	English	8.2	22	Big Days	2476	2010
+1703516	Canada	ca	Drama,Fantasy	episode	en	English	8.1	45	Vexed	307	2010
+1707386	United Kingdom,United States	gb,us	Drama,History,Musical,Romance,War	movie	en	English	7.6	158	Les Misérables	290623	2012
+1719109	Denmark	dk	Drama	episode	da	Danish	8.1	58	Tæl til 90	237	2010
+1726592	United Kingdom,United States,France,Sweden	gb,us,fr,se	Drama,Horror,Mystery,Thriller	movie	en	English	6.3	92	Before I Go to Sleep	66218	2014
+1727587	Netherlands	nl	Animation,Short,Fantasy	movie	en	English	7.5	14	Sintel	3222	2010
+1750200			Documentary	episode					Reel Injun		2010
+1790076	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.6	54	Those Kinds of Things	4002	2011
+1790933	Sweden,Denmark	se,dk	Crime,Mystery,Thriller	episode	da,sv	Danish,Swedish	8.0	57	Episode #1.5	695	2011
+1804262	United States	us	Drama,Horror,Thriller	episode	en	English	8.6	43	18 Miles Out	8762	2012
+1804264	United States	us	Drama,Horror,Thriller	episode	en	English	9.1	43	Better Angels	10614	2012
+1829101	Denmark,Sweden	dk,se	Crime,Mystery,Thriller	episode	sv,da	Swedish,Danish	8.0	57	Episode #1.1	961	2011
+1829103	Sweden,Denmark	se,dk	Crime,Mystery,Thriller	episode	da,sv	Danish,Swedish	7.9	58	Episode #1.2	809	2011
+1829104	Sweden,Denmark	se,dk	Crime,Mystery,Thriller	episode	sv,da	Swedish,Danish	8.0	57	Episode #1.3	747	2011
+1829105	Sweden,Denmark	se,dk	Crime,Mystery,Thriller	episode	da,sv	Danish,Swedish	8.1	57	Episode #1.4	709	2011
+1829106	Sweden,Denmark	se,dk	Crime,Mystery,Thriller	episode	sv,da	Swedish,Danish	8.0	57	Episode #1.6	684	2011
+1829108	Sweden,Denmark	se,dk	Crime,Mystery,Thriller	episode	da,sv	Danish,Swedish	8.2	57	Episode #1.8	685	2011
+1829109	Denmark,Sweden	dk,se	Crime,Mystery,Thriller	episode	da,sv	Danish,Swedish	8.7	57	Episode #1.9	757	2011
+1829962	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.7	58	Lord Snow	26975	2011
+1829963			Action,Adventure,Drama,Fantasy,Romance	episode	ru,en	Russian,English	8.8	56	Cripples, Bastards, and Broken Things	25576	2011
+1829964			Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	55	The Wolf and the Lion	26639	2011
+1837862			Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.2	53	A Golden Crown	26356	2011
+1837863	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.2	58	You Win or You Die	26854	2011
+1837864	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.0	59	The Pointy End	24938	2011
+1851397	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.5	53	Fire and Blood	30970	2011
+1851398	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.6	57	Baelor	35265	2011
+1853728	United States	us	Drama,Western	movie	en,de,fr,it	English,German,French,Italian	8.4	165	Django Unchained	1245204	2012
+1869619433											
+1907668	United States,United Arab Emirates	us,ae	Drama,Thriller	movie	en	English	7.3	138	Flight	307626	2012
+1942299	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.2	44	Neither Here Nor There	1750	2011
+1942612	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	9.5	89	A Scandal in Belgravia	32889	2012
+1942614	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	9.7	88	The Reichenbach Fall	31764	2012
+1971833	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	53	The North Remembers	24202	2012
+1977181	United States	us	Action,Comedy,Drama	episode	en	English	8.3	44	Chuck Versus the Zoom	1039	2011
+1988308	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.0	50	Grace	2960	2011
+1988309	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.0	49	Clean Skin	2726	2011
+1996306923											
+1996307241											
+2005604			Animation,Comedy,Sci-Fi	episode	en	English	8.0	22	Fry and Leela's Big Fling	855	2013
+2010087	United Kingdom	gb	Crime,Drama	episode	en	English	7.6	54	Episode #1.2	53	2012
+2010088	United Kingdom	gb	Crime,Drama	episode	en	English	7.7	55	Episode #1.3	43	2012
+2013293	Japan	jp	Animation,Biography,Drama,History,Romance,War	movie	ja,de,it,fr	Japanese,German,Italian,French	7.8	126	The Wind Rises	62677	2013
+2023901			Action,Comedy,Drama	episode	en	English	8.4	44	Chuck Versus the Business Trip	748	2011
+2032722	United States	us	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.2	44	Novation	1373	2011
+2043149	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.8	58	The Weekend	2834	2011
+2057762			Comedy,Drama,Fantasy,Romance,Sci-Fi	episode			7.9	50	Episode #3.2	593	2011
+2062960	United States	us	Animation,Family,Sci-Fi	video movie	en	English	6.0	36	Flatland 2: Sphereland	99	2012
+2069318	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.5	54	The Night Lands	22858	2012
+2069319	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	51	Garden of Bones	21828	2012
+2070135	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	53	What Is Dead May Never Die	22572	2012
+2074658	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	55	The Ghost of Harrenhal	22010	2012
+2080688	United States	us	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.6	44	Back to Where You've Never Been	1398	2012
+2081647	United States	us	Crime,Drama,Thriller	episode	en	English	9.3	43	Live Free or Die	17126	2012
+2081742	United States	us	Crime,Drama,Mystery,Thriller	episode	en,ar	English,Arabic	8.1	49	Crossfire	2404	2011
+2084342			Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.7	55	Blackwater	38676	2012
+2085238	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	54	The Old Gods and the New	23012	2012
+2085239	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.9	56	A Man Without Honor	22411	2012
+2085240			Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	54	The Prince of Winterfell	22145	2012
+2089051	United Kingdom	gb	Drama,Sci-Fi,Thriller	episode	en	English	7.8	44	The National Anthem	42646	2011
+2089229			Comedy,Crime,Drama	episode			7.6	48	My Kind of Town	354	2012
+2089230			Comedy,Crime,Drama	episode			7.7	47	Pack Your Lederhosen	339	2012
+2089231			Comedy,Crime,Drama	episode			7.8	48	The Babysitter	334	2012
+2100961	United States	us	Crime,Drama,Mystery,Thriller	episode	en,ar	English,Arabic	8.4	55	The Smile	2863	2012
+2104513	United States	us	Adventure,Fantasy,Romance	episode	en	English	8.4	45	7:15 A.M.	1870	2012
+2104514	United States	us	Adventure,Fantasy,Romance	episode	en	English	8.1	45	Fruit of the Poisonous Tree	1778	2012
+2107929			Action,Comedy,Drama	episode	en	English	9.1	44	Chuck Versus Sarah	1109	2012
+2107930			Action,Comedy,Drama	episode	en	English	9.3	45	Chuck Versus the Goodbye	1934	2012
+2112510			Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.4	64	Valar Morghulis	27397	2012
+2114648	United Kingdom	gb	Drama,Romance	episode	en	English	8.6	68	Episode #3.1	1503	2012
+2119638	United States	us	Comedy,Crime	episode	en	English	7.8	43	Hot for Teacher	61	2012
+2120462			Comedy,Crime,Drama	episode			7.8	47	The Flamingo	464	2012
+2120463			Comedy,Crime,Drama	episode			7.6	48	The Midwife	353	2012
+2120464			Comedy,Crime,Drama	episode			8.0	47	Trolls	361	2012
+2125653	Netherlands,United Kingdom,Germany,Japan,Australia,United States	nl,gb,de,jp,au,us	Documentary	movie	en	English	7.9	108	The House I Live In	5050	2012
+2169286	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	7.9	52	The Rave	1578	2013
+2171651	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	7.8	56	We'll Meet Again	992	2012
+2177786	United States,Canada	us,ca	Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.5	42	Death March	614	2012
+2178772	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.6	56	Dark Wings, Dark Words	21886	2013
+2178782	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	55	Valar Dohaeris	24217	2013
+2178784	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.9	51	The Rains of Castamere	84800	2013
+2178788	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.0	57	Kissed by Fire	22510	2013
+2178796	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	63	Mhysa	25165	2013
+2178798	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.6	53	And Now His Watch Is Ended	30178	2013
+2178802	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.9	56	Walk of Punishment	22088	2013
+2178806	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.0	56	Second Sons	22205	2013
+2178812	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	53	The Climb	22379	2013
+2178814	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.7	58	The Bear and the Maiden Fair	21639	2013
+2186112			Comedy,Crime,Drama	episode			8.1	45	Millwall Brick	315	2013
+2186628			Comedy,Drama,Mystery	episode			7.6	22	Control	181	2012
+2189771	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	9.0	88	The Empty Hearse	26494	2014
+2198566	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.2	51	The Kindred	1332	2013
+2222152	United Kingdom	gb	Adventure,Drama,Family,Mystery,Sci-Fi	episode	en	English	8.0	45	The Bells of Saint John	4452	2013
+2222882	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.3	42	In Absentia	1210	2012
+2245918	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.1	45	Dispossessed	4178	2013
+2245920	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.4	45	Trial	4055	2013
+2245922	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.3	44	Raid	3937	2013
+2245926	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.3	45	Burial of the Dead	3869	2013
+2245928	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.5	45	A King's Ransom	3884	2013
+2245930	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	7.9	45	Sacrifice	3874	2013
+2245932	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	7.9	45	All Change	3795	2013
+2253600	United States	us	Drama,Horror,Thriller	episode	en	English	8.2	43	Walk with Me	8589	2012
+2255900	United States	us	Action,Crime,Drama,Mystery,Sci-Fi,Thriller	episode	en,nl	English,Dutch	9.2	44	The Contingency	2887	2012
+2263944	Japan	jp	Animation,Action,Adventure,Comedy,Family,Fantasy,Sci-Fi	movie	ja	Japanese	7.2	85	Dragon Ball Z: Battle of Gods	24713	2013
+2272320	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.8	49	Meet the New Boss	1678	2013
+2272322	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.7	53	Wicks	1390	2013
+2284610	United Kingdom	gb	Adventure,Drama,Family,Mystery,Sci-Fi	episode	en	English	7.4	46	The Rings of Akhaten	4841	2013
+2288524	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	8.0	52	Who Are You, Really?	1446	2013
+2301443	United States	us	Crime,Drama,Thriller	episode	en	English	9.2	48	Buried	16049	2013
+2301445	United States	us	Crime,Drama,Thriller	episode	en	English	9.6	48	Confessions	19940	2013
+2301447	United States	us	Crime,Drama,Thriller	episode	en	English	9.2	48	Rabid Dog	16762	2013
+2301449	United States	us	Crime,Drama,Thriller	episode	en	English	9.8	47	To'hajiilee	28585	2013
+2301451	United States	us	Crime,Drama,Thriller	episode	en	English	10.0	48	Ozymandias	107941	2013
+2301455	United States	us	Crime,Drama,Thriller	episode	en	English	9.9	55	Felina	78239	2013
+2301457	United States	us	Crime,Drama,Thriller	episode	en,de,es	English,German,Spanish	8.9	48	Madrigal	14227	2012
+2301459	United States	us	Crime,Drama,Thriller	episode	en	English	8.9	48	Hazard Pay	13759	2012
+2301461	United States	us	Crime,Drama,Thriller	episode	en	English	8.9	48	Fifty-One	13850	2012
+2301463	United States	us	Crime,Drama,Thriller	episode	en	English	9.7	48	Dead Freight	20843	2012
+2301471	United States	us	Crime,Drama,Thriller	episode	en	English	9.5	48	Blood Money	18625	2013
+2307993	United Kingdom	gb	Crime,Drama,Thriller	episode	en	English	8.0	60	Dark Descent	1619	2013
+2307995			Crime,Drama,Thriller	episode	en	English	8.0	61	Darkness Visible	1361	2013
+2307997	United Kingdom	gb	Crime,Drama,Thriller	episode	en	English	8.1	62	Insolence & Wine	1257	2013
+2310910	United States,Canada	us,ca	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.2	45	Honor Thy Father	5254	2012
+2310914	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.4	45	Lone Gunmen	4908	2012
+2313681	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.3	60	Pilot	1950	2013
+2317659	United Kingdom	gb	Adventure,Drama,Family,Mystery,Sci-Fi	episode	en	English	7.4	45	Dinosaurs on a Spaceship	4747	2012
+2338426	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.6	45	Damaged	4570	2012
+2340185	United States,Canada	us,ca	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.5	45	Pilot	6957	2012
+2340501			Adventure,Drama,Family,Mystery,Sci-Fi	episode			7.4	44	A Town Called Mercy	4524	2012
+2346207	United States	us	Comedy,Romance	episode	en	English	8.0	22	Now We're Even	2121	2012
+2349740	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.3	64	Pilot	2325	2013
+2356588	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en,uk	English,Ukrainian	8.6	49	We Shall Live Forever	1308	2013
+2371798	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.5	44	Behold a Pale Rider	1318	2013
+2372062	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.5	45	Always the Cowboy	1250	2013
+2378951			Adventure,Drama,Family,Mystery,Sci-Fi	episode			9.0	44	The Angels Take Manhattan	6350	2012
+2383819	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.3	43	Transilience Thought Unifier Model-11	1639	2012
+2385246	United Kingdom	gb	Drama,Romance	episode	en	English	8.3	48	Episode #3.6	1028	2012
+2385260			Drama,Romance	episode			8.2	48	Episode #3.7	1017	2012
+2385306	United Kingdom	gb	Drama,Romance	episode	en	English	8.2	92	A Journey to the Highlands	1494	2012
+2385581	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	9.0	48	Beirut Is Back	2835	2012
+2385738	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.8	42	Through the Looking Glass and What Walter Found There	1299	2012
+2386296	United Kingdom	gb	Drama,Sci-Fi,Thriller	episode	en	English	6.7	43	The Waldo Moment	30433	2013
+2392675	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.2	57	Half Deaf Is Better Than All Dead	1385	2013
+2393111	United Kingdom	gb	Adventure,Drama,Fantasy	episode	en	English	8.6	43	Arthur's Bane: Part Two	545	2012
+2395358	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.2	45	Muse of Fire	4250	2012
+2397391	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	7.7	45	Rites of Passage	5433	2013
+2399633			Adventure,Drama,Family,Mystery,Sci-Fi	episode			7.5	41	The Power of Three	4354	2012
+2401094	United States	us	Drama,Horror,Thriller	episode	en	English	8.7	43	Home	8784	2013
+2401230	United States	us	Adventure,Fantasy,Romance	episode	en	English	8.5	44	Tallahassee	1618	2012
+2402301			Adventure,Drama,Family,Mystery,Sci-Fi	episode			8.6	49	Asylum of the Daleks	5809	2012
+2402539	United States	us	Horror	tv movie	en	English	3.8	83	American Horror House	700	2012
+2403698	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.0	57	A Mixture of Madness	1549	2013
+2411942	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.5	42	The Human Kind	1224	2012
+2411946	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	9.1	43	Liberty	1480	2013
+2411948	Canada,United States	ca,us	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.8	42	The Boy Must Live	1279	2013
+2411954	Canada,United States	ca,us	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	9.4	43	An Enemy of Fate	2750	2013
+2423266	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.2	42	Vendetta	4135	2012
+2445770	United States	us	Comedy,Romance	episode	en	English	7.6	22	Twelve Horny Women	2190	2012
+2448164	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.4	45	Year's End	3938	2012
+2454912	United States	us	Action,Adventure,Drama,Sci-Fi	episode	en	English	7.7	43	Kashmir	806	2012
+2460610	United States	us	Comedy,Romance	episode	en,fr	English,French	7.5	22	The Autumn of Breakups	2402	2012
+2467064	United States,Canada	us,ca	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	7.9	45	Burned	4043	2013
+2476592	Spain	es	Documentary	movie	en,ur,tr,bs,fa	English,Urdu,Turkish,Bosnian,Persian		52	Unveiled Views		2008
+2488496	United States	us	Action,Adventure,Sci-Fi	movie	en	English	7.9	138	Star Wars: Episode VII - The Force Awakens	798005	2015
+2496078	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.2	45	Trust But Verify	3861	2013
+2510426	Canada	ca	Action,Drama,Sci-Fi	episode	en	English	8.3	45	Natural Selection	2177	2013
+2513378	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.3	45	Invasion	3388	2014
+2516452	United States	us	Drama,Horror,Thriller	episode	en	English	8.4	49	Bitchcraft	4756	2013
+2521162	United States	us	Drama,Horror,Thriller	episode	en	English	7.8	43	Arrow on the Doorpost	8174	2013
+2521168	United States	us	Drama,Horror,Thriller	episode	en	English	8.0	43	Prey	8162	2013
+2521182	United States	us	Drama,Horror,Thriller	episode	en	English	8.2	43	Welcome to the Tombs	9661	2013
+2527342	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.6	45	Betrayal	3996	2013
+2531958			Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.6	42	Search and Recover	542	2013
+2531960			Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.8	43	At All Costs	564	2013
+2536272	United Kingdom	gb	Adventure,Drama,Fantasy	episode	en	English	8.6	43	The Drawing of the Dark	435	2012
+2542420	United Kingdom	gb	Drama,Sci-Fi,Thriller	episode	en	English	8.1	42	White Bear	36137	2013
+2545702	Canada	ca	Action,Drama,Sci-Fi	episode	en	English	8.4	44	Effects of External Conditions	1567	2013
+2550114	France	fr	Drama,Fantasy,Horror,Mystery	episode	fr	French	8.2	56	Camille	681	2012
+2561472	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.9	45	The Odyssey	4255	2013
+2605292	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.1	45	Dodger	3803	2013
+2608846			Comedy,Crime,Drama	episode			8.2	45	Out of Africa	311	2013
+2618238	United Kingdom	gb	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.2	48	Episode #1.4	659	2013
+2618240	United Kingdom	gb	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.5	48	Episode #1.5	635	2013
+2618242	United Kingdom	gb	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	9.0	62	Episode #1.6	734	2013
+2636834	United States	us	Comedy,Romance	episode	en	English	7.9	20	The Cooper/Kripke Inversion	2317	2013
+2654070	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.2	43	The Huntress Returns	3814	2013
+2657398	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	9.0	58	The Long Bright Dark	16605	2014
+2667178	United States	us	Action,Adventure,Drama,Sci-Fi	episode	en	English	7.9	43	The Song Remains the Same	694	2013
+2668726	United States	us	Comedy,Romance	episode	en	English	8.1	22	Weekend at Barney's	2343	2013
+2676388	United States	us	Comedy,Romance	episode	en	English	7.6	22	Bad Crazy	2149	2013
+2677194	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	7.7	58	You're No Good	948	2013
+2702686	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	8.5	42	I Know What You Did Last Summer	1937	2013
+2702698	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.8	42	City of Heroes	5115	2013
+2704380	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.9	59	Seeing Things	14279	2014
+2712100	United States	us	Comedy,Romance	episode	en	English	7.8	22	The Ashtray	2163	2013
+2712930	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.3	43	Unfinished Business	3643	2013
+2718080	United States	us	Action,Adventure,Drama,Sci-Fi	episode	en	English	7.8	43	Ghosts	711	2013
+2722620			Crime,Drama,Mystery,Thriller	episode	en	English	8.3	43	Hope Kills	684	2013
+2734238	United States	us	Action,Crime,Drama,Mystery,Sci-Fi,Thriller	episode	en	English	9.0	44	In Extremis	2139	2013
+2751228			Action,Adventure,Sci-Fi	episode			8.0		Pilgrim of Eternity	377	2013
+2758746	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	8.3	56	At Last	1000	2013
+2761428	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.8	42	The Undertaking	3973	2013
+2764598	Germany	de	Action,Drama,History,War	episode	de	German	8.2	91	Eine andere Zeit	602	2013
+2764606	Germany	de	Action,Drama,History,War	episode	de,ru,pl	German,Russian,Polish	8.2	89	Ein anderer Krieg	532	2013
+2764620	Germany	de	Action,Drama,History,War	episode	de,pl,ru	German,Polish,Russian	8.3	95	Ein anderes Land	499	2013
+2777232	United States	us	Comedy,Romance	episode	en,fr	English,French	8.0	22	The Fortress	2146	2013
+2779318	United Kingdom	gb	Adventure,Drama,Family,Mystery,Sci-Fi	episode	en	English	9.4	77	The Day of the Doctor	16208	2013
+2781042	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	9.0	86	The Sign of Three	23203	2014
+2781046	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	9.3	89	His Last Vow	25902	2014
+2784494	United States	us	Comedy,Romance	episode	en	English	8.1	20	The Tenure Turbulence	2324	2013
+2790174	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	9.7	56	Who Goes There	20825	2014
+2790184	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	9.2	60	The Locked Room	13758	2014
+2795750	United States	us	Drama,Horror,Thriller	episode	en	English	8.2	43	30 Days Without an Accident	10191	2013
+2802532	United States	us	Comedy,Romance	episode	en	English	7.8	21	The Locket	3057	2013
+2806510	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	ja,en	Japanese,English	8.2	56	Don't You Feel Me	950	2013
+2807576	United States	us	Drama,Fantasy,Horror,Mystery	episode	en	English	8.4	60	Kiss of the Muse	794	2013
+2813706	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.2	50	Little Fish	1257	2014
+2813708	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.9	58	The Thunder Man	1267	2014
+2815916	United States	us	Comedy,Romance	episode	en,it	English,Italian	7.4	21	Romeward Bound	2099	2013
+2816136	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	58	Two Swords	28700	2014
+2821472	United States	us	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	7.0	44	Let the Games Begin	1233	2013
+2821620	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	7.4	53	Radioactive	1187	2013
+2821634	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	7.7	58	Dead Meat	883	2013
+2821664	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	7.9	57	In the Evening	902	2013
+2821726	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	8.0	54	Life Matters	1124	2013
+2832378	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.7	52	The Lion and the Rose	45057	2014
+2832792	United States	us	Action,Crime,Drama,Mystery,Sci-Fi,Thriller	episode	en,ar,ru,mk	English,Arabic,Russian,Macedonian	9.6	44	God Mode	3360	2013
+2847436	United States	us	Comedy,Romance	episode	en,yue	English,Cantonese	8.7	22	The Bro Mitzvah	2771	2013
+2848462	United States,Mexico	us,mx	Crime,Drama,Mystery,Thriller	episode	en,es	English,Spanish	7.7	51	Calaca	449	2013
+2861116	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.7	52	The Warrior Class	1165	2014
+2870808	United States	us	Comedy,Drama,Romance	movie	en	English	6.2	93	Life Partners	7921	2014
+2871034	Sweden,Denmark	se,dk	Crime,Mystery,Thriller	episode	sv,da	Swedish,Danish	8.2	57	Episode #2.1	704	2013
+2916284	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	7.3	48	Uh... Oh... Ah...	2556	2013
+2916300	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.2	49	Game On	2455	2013
+2916304	United States	us	Crime,Drama,Mystery,Thriller	episode	en,fa	English,Persian	8.0	48	Still Positive	2137	2013
+2916308	United States	us	Crime,Drama,Mystery,Thriller	episode	en,fa	English,Persian	8.2	48	Gerontion	2113	2013
+2916312	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.5	57	One Last Thing	2293	2013
+2916314	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.8	46	Good Night	2437	2013
+2920002	United States,Mexico	us,mx	Crime,Drama,Mystery,Thriller	episode	en,es	English,Spanish	8.0	37	Old Friends	292	2013
+2928310	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.7	54	Bloodlines	1103	2014
+2928312	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.9	46	Armies of One	1193	2014
+2928324	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.7	51	Evil for Evil	1053	2014
+2928336	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.1	46	The Truth About Unicorns	1375	2014
+2928338	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.7	47	Ways to Bury a Man	1071	2014
+2931446	United States	us	Drama,Horror,Thriller	episode	en	English	8.4	43	Infected	8619	2013
+2933998	United States	us	Comedy,Romance	episode	en	English	8.1	21	The Deception Verification	2577	2013
+2943886			Drama,Western	episode	en	English	8.3	43	Range War	407	2013
+2948630	United States	us	Drama,Horror,Thriller	episode	en	English	7.8	42	Live Bait	8469	2013
+2948634	United States	us	Drama,Horror,Thriller	episode	en	English	7.8	42	Dead Weight	8229	2013
+2948638	United States	us	Drama,Horror,Thriller	episode	en	English	9.7	43	Too Far Gone	20975	2013
+2971408			Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.7	43	Badlands	564	2013
+2972426	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.9	57	Breaker of Chains	24128	2014
+2972428	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	55	Oathkeeper	23174	2014
+2991722	Canada	ca	Drama,Fantasy,Horror	episode	en	English	8.1	52	Night Work	3463	2014
+2991728			Drama,Fantasy,Horror	episode			8.4	55	Séance	2977	2014
+2991730			Drama,Fantasy,Horror	episode	en	English	8.0	47	Resurrection	2485	2014
+2991742			Drama,Fantasy,Horror	episode			8.2	50	What Death Can Join Together	2079	2014
+2991746			Drama,Fantasy,Horror	episode			7.8	59	Demimonde	2454	2014
+2991752			Drama,Fantasy,Horror	episode			8.7	54	Closer Than Sisters	2890	2014
+2991762			Drama,Fantasy,Horror	episode			8.6	56	Grand Guignol	2171	2014
+2991764			Drama,Fantasy,Horror	episode			9.0	59	Possession	2653	2014
+3042572	United States	us	Drama	episode	en	English	8.3	65	Pharmacy	622	2014
+3053838	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.0	49	Homecoming	1125	2014
+3053842	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.4	60	Bullets and Tears	1576	2014
+3058984	United States	us	Drama,Fantasy,Mystery,Romance,Thriller	episode	en	English	7.1	51	Jesus Gonna Be Here	1259	2014
+3060782	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.7	52	The Mountain and the Viper	45077	2014
+3060856	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.7	53	First of His Name	22411	2014
+3060858	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.6	51	The Watchers on the Wall	37782	2014
+3060860	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.7	65	The Children	37175	2014
+3060870			Drama,Western	episode			8.4	42	Get Behind the Mule	469	2013
+3060876	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	51	Mockingbird	24987	2014
+3060910	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.7	51	The Laws of Gods and Men	41280	2014
+3077106	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.5	42	Identity	4087	2013
+3111660	United States	us	Comedy,Romance	episode	en	English	7.9	21	The Hofstadter Insufficiency	2647	2013
+3126166	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.8	42	Broken Dolls	4190	2013
+3126168	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.7	42	Crucible	4068	2013
+3128398	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.8	45	League of Assassins	4101	2013
+3140688	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	8.1	42	Monster's Ball	1038	2013
+3146184			Crime,Mystery,Thriller	episode			7.9	57	Episode #2.2	587	2013
+3146200			Crime,Mystery,Thriller	episode			8.2	57	Episode #2.3	565	2013
+3146242			Crime,Mystery,Thriller	episode			8.0	58	Episode #2.4	546	2013
+3146248			Crime,Mystery,Thriller	episode			8.2	57	Episode #2.5	553	2013
+3146250			Crime,Mystery,Thriller	episode			8.2	57	Episode #2.6	541	2013
+3146252			Crime,Mystery,Thriller	episode			8.1	57	Episode #2.7	532	2013
+3146258			Crime,Mystery,Thriller	episode			8.9	40	Episode #2.10	765	2013
+3171010	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	8.6	42	Ora facciamo i Conte	435	2014
+3175800	United States	us	Drama,Horror,Thriller	episode	en	English	8.1	41	Boy Parts	3440	2013
+3176656	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	8.7	46	Gelsomina Verde	454	2014
+3176664	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	8.2	47	La scheda bianca	423	2014
+3176682	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	8.1	53	Il clan dei Savastano	627	2014
+3178718	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	8.2	43	Sangue africano	456	2014
+3180136	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	8.1	47	L'omm 'e casa	469	2014
+3184638	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	8.4	55	Roulette spagnola	455	2014
+3184640	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	9.0	49	Cento modi per uccidere	472	2014
+3184646	Italy,Germany	it,de	Crime,Drama,Thriller	episode	it,nap	Italian,Neapolitan	9.1	46	Gli Immortali	551	2014
+3186508	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	8.2	42	For Whom the Bell Tolls	1120	2013
+3211572			Drama,Mystery,Thriller	episode			7.6	58	Episode Four	102	2014
+3213080	United States	us	Drama,Horror,Thriller	episode	en	English	8.3	43	Fearful Pranks Ensue	3153	2013
+3213082	United States	us	Drama,Horror,Thriller	episode	en	English	8.3	40	Burn, Witch. Burn!	3163	2013
+3213782	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.5	45	Keep Your Enemies Closer	3786	2013
+3213864	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.6	45	State v. Queen	3910	2013
+3218670	United States	us	Comedy,Romance	episode	en	English	8.8	21	The Scavenger Vortex	3098	2013
+3220926	United States,Mexico	us,mx	Crime,Drama,Mystery,Thriller	episode	en,es	English,Spanish	7.7	49	Yankee	279	2014
+3221722	United States	us	Comedy,Romance	episode	en	English	8.0	21	The Raiders Minimization	2330	2013
+3223256	United States	us	Drama,Horror,Thriller	episode	en	English	7.9	41	The Axeman Cometh	2929	2013
+3223258	United States	us	Drama,Horror,Thriller	episode	en	English	7.9	48	The Dead	2877	2013
+3223260	United States	us	Drama,Horror,Thriller	episode	en	English	8.5	43	Head	3096	2013
+3223262	United States	us	Drama,Horror,Thriller	episode	en	English	7.9	44	The Sacred Taking	2794	2013
+3223264	United States	us	Drama,Horror,Thriller	episode	en	English	7.8	45	The Magical Delights of Stevie Nicks	2934	2014
+3223266	United States	us	Drama,Horror,Thriller	episode	en	English	7.9	45	Protect the Coven	2787	2014
+3223270	United States	us	Drama,Horror,Thriller	episode	en	English	8.2	45	Go to Hell	2869	2014
+3223272	United States	us	Drama,Horror,Thriller	episode	en	English	7.7	48	The Seven Wonders	3459	2014
+3229392	United States	us	Comedy,Romance	episode	en	English	7.8	19	The Workplace Proximity	2213	2013
+3229394	United States	us	Comedy,Romance	episode	en,tlh	English,Klingon	8.5	21	The Romance Resonance	2653	2013
+3229396	United States	us	Comedy,Romance	episode	en	English	7.8	20	The Proton Displacement	2252	2013
+3229412	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.1	45	The Scientist	4557	2013
+3229414	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.3	45	Three Ghosts	5329	2013
+3229416			Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.3	45	Blast Radius	3598	2014
+3233560	United States	us	Short,Comedy,Drama	episode	en	English	7.4	30	Pilot	938	2014
+3237738	United States	us	Drama,Sci-Fi,Thriller	episode	en	English	7.3	41	Re-Entry	750	2014
+3240764			Action,Adventure,Drama,Sci-Fi	episode	en	English	8.5	42	Everyone Says I Love You	666	2013
+3244030	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	7.9	42	Dead Man on Campus	981	2013
+3244046	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	7.9	43	The Devil Inside	978	2014
+3244076	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	8.0	42	Man on Fire	834	2014
+3244080	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	8.7	41	Promised Land	1107	2014
+3244082	United States	us	Drama,Fantasy,Horror,Mystery,Romance,Thriller	episode	en	English	9.0	42	Home	1710	2014
+3247720	United States	us	Comedy,Romance	episode	en	English	8.3	22	Platonish	2798	2013
+3260594	United States	us	Drama,Horror,Thriller	episode	en	English	8.2	42	Inmates	8269	2014
+3260612	United States	us	Drama,Horror,Thriller	episode	en	English	9.2	42	A	12585	2014
+3263824	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.7	45	Tremors	3648	2014
+3268356	United States	us	Comedy,Romance	episode	en	English	7.3	22	The Lighthouse	2439	2013
+3280584	United States,Canada	us,ca	Drama,Mystery,Sci-Fi,Thriller	episode	en	English	8.3	42	Do Not Discuss Your Life Before	1947	2015
+3280734			Comedy,Crime,Drama	episode			7.8	44	The Black Toe	230	2013
+3282270			Comedy,Crime,Drama	episode			7.8	44	The Freezer	227	2013
+3282272			Comedy,Crime,Drama	episode			8.5	44	Ghosts	301	2013
+3296848	United States	us	Crime,Drama,Thriller	episode	en	English	8.5	52	The Rooster Prince	6768	2014
+3300334			Comedy,Drama,Music,Musical	episode	en	English	8.1	46	The Hurt Locker: Part 2	747	2015
+3303726	United States	us	Comedy,Romance	episode	en	English	7.7	21	The Itchy Brain Simulation	2242	2013
+3307310	United States	us	Action,Adventure,Sci-Fi	episode			8.5		Lolani	319	2014
+3307722	United States	us	Action,Adventure,Drama,Sci-Fi	episode	en	English	8.1	42	Mis Dos Padres	561	2014
+3310590	United States	us	Action,Adventure,Drama,Sci-Fi	episode	en	English	8.2	42	Captain Trips	546	2014
+3311208	United Kingdom	gb	Adventure,Drama,Fantasy,Romance	episode	en	English	7.3	44	The Rules of Engagement	170	2013
+3316794	United States	us	Drama,Horror,Thriller	episode	en	English	8.3	42	Claimed	8014	2014
+3316798	United States	us	Drama,Horror,Thriller	episode	en	English	8.1	42	After	9122	2014
+3317604	United States	us	Drama,Horror,Thriller	episode	en	English	8.3	61	Monsters Among Us	4791	2014
+3336036	United States	us	Action,Crime,Drama,Sci-Fi	episode	en	English	8.2	43	Arrhythmia	714	2013
+3337656	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	8.8	42	Time of Death	3942	2014
+3337658	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.2	45	The Promise	4578	2014
+3337660	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.6	45	Suicide Squad	3750	2014
+3337662	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	8.3	45	Birds of Prey	3512	2014
+3337666	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.1	42	The Man Under the Hood	4073	2014
+3337668	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.4	42	Seeing Red	5742	2014
+3337670	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.0	42	City of Blood	4330	2014
+3337672	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.3	42	Streets of Fire	4645	2014
+3337674	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.5	45	Unthinkable	6596	2014
+3337724	United States	us	Comedy,Romance	episode	en	English	8.2	21	The Cooper Extraction	2374	2013
+3337728	United States	us	Comedy,Romance	episode	en	English	7.5	21	The Hesitation Ramification	2198	2014
+3337730	United States	us	Comedy,Romance	episode	en	English	7.6	21	The Occupation Recalibration	2177	2014
+3338358	United States	us	Comedy,Romance	episode	en	English	7.7	20	The Discovery Dissipation	2116	2013
+3345178			Comedy	episode			7.6	22	If I Were a Rich Man	69	2013
+3345180	United States	us	Comedy	episode	en	English	8.0	22	Woman on Top	76	2013
+3350750	United States	us	Action,Adventure,Drama,Sci-Fi	episode	en	English	8.1	42	Three Amigos	580	2014
+3353092	United States	us	Comedy,Romance	episode	en,it,fr	English,Italian,French	7.8	20	The Rehearsal Dinner	2644	2013
+3358048	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.7	48	Brother's War	4174	2014
+3358052	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.6	45	Treachery	3499	2014
+3358054	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.6	45	Answers in Blood	3269	2014
+3358056	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.5	45	Eye for an Eye	3306	2014
+3358060	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.6	47	Unforgiven	3342	2014
+3370408	United States	us	Drama	episode	en	English	8.0	43	FUD	725	2014
+3390212	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.6	45	Blood Eagle	3557	2014
+3390214	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.7	46	The Choice	3419	2014
+3390216	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	8.1	45	Boneless	3039	2014
+3390240	Ireland,Canada	ie,ca	Action,Adventure,Drama,History,Romance,War	episode	en	English	9.3	46	The Lord's Prayer	5814	2014
+3415288	United States	us	Comedy,Romance	episode	en	English	8.0	21	Rally	2425	2014
+3415296	United States	us	Comedy,Romance	episode	en,it	English,Italian	8.5	22	Daisy	2728	2014
+3415298	United States	us	Comedy,Romance	episode	en	English	8.3	22	Gary Blauman	2811	2014
+3415300	United States	us	Comedy,Romance	episode	en	English	8.9	22	The End of the Aisle	3654	2014
+3468290	United States	us	Crime,Drama,Thriller	episode	en	English	8.7	54	The Heap	5645	2014
+3477310	United States	us	Comedy,Romance	episode	en	English	8.3	20	The Locomotive Manipulation	2541	2014
+3507240	United States	us	Comedy,Romance	episode	en	English	7.7	20	The Table Polarization	2078	2014
+3517894	United States	us	Comedy,Romance	episode	en	English	7.5	21	The Mommy Observation	2107	2014
+3518774	United States	us	Comedy,Fantasy,Romance	episode	en	English	7.1	25	Lizard	488	2015
+3519062	United States	us	Crime,Drama,Thriller	episode	en	English	8.7	50	A Muddy Road	6261	2014
+3535114	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en,ar	English,Arabic	9.3	42	Deathstroke	4768	2014
+3538760	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	7.6	88	The Six Thatchers	20783	2017
+3551076	United States	us	Crime,Drama,Thriller	episode	en	English	9.4	53	Buridan's Ass	7540	2014
+3554854	United States	us	Comedy,Romance	episode	en	English	8.1	21	The Relationship Diremption	2154	2014
+3572170	United States	us	Comedy,Romance	episode	en	English	7.6	19	The Anything Can Happen Recurrence	2029	2014
+3572182	United States	us	Comedy,Romance	episode	en	English	7.9	19	The Gorilla Dissolution	2149	2014
+3578722	United States	us	Crime,Drama,Thriller	episode	en	English	9.0	50	Eating the Blame	6207	2014
+3581990	United States	us	Comedy	episode	en	English	7.6	22	Unforgiven	62	2014
+3599918	United States	us	Crime,Drama,Thriller	episode	en	English	9.4	64	Morton's Fork	6989	2014
+3605172	United Kingdom,Iceland	gb,is	Drama,Horror,Mystery,Thriller	episode	en	English	7.4	91	Episode #1.1	780	2015
+3618600	United Kingdom,Iceland	gb,is	Drama,Horror,Mystery,Thriller	episode	en	English	7.6	48	Episode #1.3	487	2015
+3623674			Action,Adventure,Drama,History,Romance,War	episode	en	English	8.7	45	Mercenary	3949	2015
+3658012			Action,Adventure,Drama,Fantasy,Romance	episode			8.5	53	The Wars to Come	25505	2015
+3658014	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.5	50	The Red Woman	35241	2016
+3673440	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.7	50	The Fire Trials	1270	2015
+3675568	United States	us	Documentary	movie	en	English	7.7	96	Merchants of Doubt	3393	2014
+3676808	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.6	46	Snakes and Whatnot	1149	2015
+3684666			Action,Adventure,Drama,History,Romance,War	episode	en	English	8.3	44	The Wanderer	3112	2015
+3685792			Action,Adventure,Drama,History,Romance,War	episode	en	English	8.3	45	Warrior's Fate	2917	2015
+3685794			Action,Adventure,Drama,History,Romance,War	episode	en	English	8.3	44	Scarred	2920	2015
+3685798			Action,Adventure,Drama,History,Romance,War	episode	en	English	8.8	45	Born Again	3581	2015
+3685802			Action,Adventure,Drama,History,Romance,War	episode	en	English	8.2	44	Paris	2869	2015
+3685804			Action,Adventure,Drama,History,Romance,War	episode	en	English	9.3	44	To the Gates!	4857	2015
+3685808			Action,Adventure,Drama,History,Romance,War	episode	en,fr,non	English,French,Norse, Old	8.8	44	Breaking Point	3283	2015
+3685810			Action,Adventure,Drama,History,Romance,War	episode	en	English	9.2	44	The Dead	4725	2015
+3687732	United States	us	Drama,Horror,Thriller	episode	en	English	7.7	47	Test of Strength	2413	2014
+3728462	United Kingdom	gb	Short,Comedy,Crime,Family	movie	en	English	8.6	3	Game of Throne	60	2014
+3748528	United States	us	Action,Adventure,Sci-Fi	movie	en	English	7.8	133	Rogue One: A Star Wars Story	492362	2016
+3778054	United Kingdom,Iceland	gb,is	Drama,Horror,Mystery,Thriller	episode	en	English	7.7	48	Episode #1.6	452	2015
+3778056	United Kingdom,Iceland	gb,is	Drama,Horror,Mystery,Thriller	episode	en	English	7.7	48	Episode #1.5	481	2015
+3778060	United Kingdom,Iceland	gb,is	Drama,Horror,Mystery,Thriller	episode	en	English	7.7	48	Episode #1.4	500	2015
+3778066	United Kingdom,Iceland	gb,is	Drama,Horror,Mystery,Thriller	episode	en	English	7.4	47	Episode #1.2	509	2015
+3804654			Action,Adventure,Sci-Fi	episode			9.1		Fairest of Them All	299	2014
+3807172	United States	us	Comedy,Romance	episode	en	English	7.6	20	The Junior Professor Solution	2459	2014
+3842946	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.6	58	A Fixer of Sorts	2477	2015
+3842948	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.5	52	Tribal	1818	2015
+3845232	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en,fr	English,French	8.2	89	The Abominable Bride	30705	2016
+3846626			Action,Adventure,Drama,Fantasy,Romance	episode			8.5	56	The House of Black and White	22436	2015
+3860480	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.8	51	Real Life Is the Nightmare	1212	2015
+3860506	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.6	49	We Were All Someone Else Yesterday	1128	2015
+3864892	United States	us	Crime,Drama	episode	en	English	8.6	47	Hero	7361	2015
+3866826			Action,Adventure,Drama,Fantasy,Romance	episode			9.5	52	The Dance of Dragons	37360	2015
+3866836			Action,Adventure,Drama,Fantasy,Romance	episode			8.5	60	High Sparrow	21719	2015
+3866838			Action,Adventure,Drama,Fantasy,Romance	episode			8.7	51	Sons of the Harpy	22324	2015
+3866840			Action,Adventure,Drama,Fantasy,Romance	episode			8.6	57	Kill the Boy	22611	2015
+3866842			Action,Adventure,Drama,Fantasy,Romance	episode			8.0	54	Unbowed, Unbent, Unbroken	25659	2015
+3866846			Action,Adventure,Drama,Fantasy,Romance	episode			9.0	59	The Gift	24733	2015
+3866850			Action,Adventure,Drama,Fantasy,Romance	episode			9.9	61	Hardhome	85563	2015
+3866862			Action,Adventure,Drama,Fantasy,Romance	episode			9.1	60	Mother's Mercy	36239	2015
+3874544	United States	us	Animation,Adventure,Comedy,Family,Fantasy	movie	en,es	English,Spanish	6.3	97	The Boss Baby	97437	2017
+3884368			Drama	episode			8.3	66	Pilot	121	2014
+3886676			Drama	episode			8.5	44	...Through Resolution	61	2014
+3888782			Drama	episode			8.0	43	...Through Security	46	2014
+3891394			Drama	episode			7.9	43	...Through Competition	76	2014
+3897886			Drama	episode			8.1	44	...Through Exposure	59	2014
+3904080			Crime	episode			7.8	42	Down the Rabbit Hole	90	2015
+3904084			Crime	episode			7.8	42	Flowers in Hell	91	2015
+3907782			Drama	episode			7.9	43	...Through Terms and Conditions	48	2014
+3908124	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.1	56	You Can't Hide from the Dead	1328	2015
+3908126	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.2	47	All the Wisdom I Got Left	1251	2015
+3915096	United States	us	Action,Crime,Drama,Fantasy,Sci-Fi,Thriller	episode	en	English	9.0	53	Cut Man	9091	2015
+3915302			Drama	episode			8.1	44	...Through Partnership	63	2014
+3986488			Comedy,Drama,Music,Musical	episode	en	English	7.9	47	What the World Needs Now	693	2015
+3992234			Comedy,Drama,Music,Musical	episode	en	English	8.3	47	Transitioning	702	2015
+3999280			Comedy,Drama,Music,Musical	episode	en	English	9.2	46	2009	973	2015
+3999282			Comedy,Drama,Music,Musical	episode	en	English	7.8	47	Child Star	669	2015
+3999284			Comedy,Drama,Music,Musical	episode	en	English	7.9	47	The Rise and Fall of Sue Sylvester	683	2015
+4000512			Comedy,Drama,Music,Musical	episode	en	English	8.8	47	A Wedding	862	2015
+4016934	South Korea	kr	Drama,Romance,Thriller	movie	ko,ja	Korean,Japanese	8.1	145	The Handmaiden	85413	2016
+4077554	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.4	54	Home	41528	2016
+4086612	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.1	45	Even God Doesn't Know What to Make of You	1168	2015
+4086614	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	9.6	56	We All Pay Eventually	1794	2015
+4131606	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.7	52	Oathbreaker	29465	2016
+4202250	United States	us	Comedy,Fantasy,Romance	episode	en	English	8.3	24	Dram	236	2015
+4202282	United States	us	Comedy,Fantasy,Romance	episode	en	English	8.0	24	Traib	285	2015
+4208368	Norway	no	Drama,History,War	episode	no,de,en	Norwegian,German,English	7.5	44	Episode #1.1	211	2015
+4208376	Norway	no	Drama,History,War	episode	no	Norwegian	7.6	45	Episode #1.3	166	2015
+4208386	Norway	no	Drama,History,War	episode	no	Norwegian	8.2	45	Episode #1.4	180	2015
+4208388	Norway	no	Drama,History,War	episode	no	Norwegian	7.7	43	Episode #1.5	147	2015
+4208392	Norway	no	Drama,History,War	episode	no	Norwegian	7.6	43	Episode #1.6	147	2015
+4258318	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	6.9	59	Del X	98	2015
+4283016	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	59	Book of the Stranger	31708	2016
+4283028	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.7	57	The Door	62511	2016
+4283054	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.4	52	Blood of My Blood	29284	2016
+4283060	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.6	51	The Broken Man	28406	2016
+4283074	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.4	59	No One	32432	2016
+4283088	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.9	60	Battle of the Bastards	182639	2016
+4283094	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.9	68	The Winds of Winter	126774	2016
+4303270	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	7.1	59	Del II	143	2015
+4304482			Drama,Sci-Fi,Thriller	episode			7.5	43	Morphoses	273	2015
+4304496			Drama,Sci-Fi,Thriller	episode			7.1	44	Empathy for the Devil	226	2015
+4304498			Drama,Sci-Fi,Thriller	episode			7.4	42	Cracking the Code	229	2015
+4304500			Drama,Sci-Fi,Thriller	episode			7.3	44	The New Frontier	221	2015
+4305648			Drama,Sci-Fi,Thriller	episode			7.8	80	Double Vision	206	2015
+4305650			Drama,Sci-Fi,Thriller	episode			7.8	80	The Greater Good	237	2015
+4336556	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	7.0	59	Del III	121	2015
+4336558	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	7.1	59	Del I	155	2015
+4336576	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	7.1	58	Del IV	123	2015
+4336580	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	6.9	58	Del V	113	2015
+4336588	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	7.1	59	Del VI	110	2015
+4336590	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	6.9	59	Del VII	101	2015
+4336592	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	7.1	58	Del VIII	97	2015
+4336594	Sweden	se	Crime,Drama,Fantasy,Mystery,Thriller	episode	sv	Swedish	7.1	58	Del IX	92	2015
+4437320			Crime	episode			7.6	43	The First Blush	71	2015
+4499418	France	fr	Drama,Fantasy,Horror,Mystery	episode	fr	French	7.7	57	Virgil	180	2015
+4499426	France	fr	Drama,Fantasy,Horror,Mystery	episode	fr	French	7.7	53	Esther	171	2015
+4536424											
+4554702			Action,Adventure,Drama,History,Romance,War	episode			8.6	44	A Good Treason	3582	2016
+4698774			Action,Adventure,Sci-Fi	episode			7.9		Divided We Stand	188	2015
+4793694	Canada,Ireland	ca,ie	Action,Adventure,Drama,History,Romance,War	episode			8.4	44	Kill the Queen	2915	2016
+4853240			Drama,Fantasy,Horror,Thriller	episode			7.9	47	After the Fall	200	2016
+4862558	United States	us	Action,Adventure,Crime,Drama,Mystery,Sci-Fi	episode	en	English	7.0	42	Lost in the Flood	2746	2016
+5182166			Action,Adventure,Sci-Fi	episode			8.2		Come Not Between the Dragons	199	2016
+5182182			Action,Adventure,Sci-Fi	episode			7.7		Embracing the Winds	165	2016
+5193654			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	7.6	52	Original Sin	515	2016
+5335384			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	8.0	56	The Dome and the Domicile	411	2016
+5335392			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	7.9	51	Pestilence	362	2016
+5335396			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	8.0	55	Judgement Day	349	2016
+5335398			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	8.0	55	Temptation	336	2016
+5335400			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	8.4	53	Ascendancy	347	2016
+5335404			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	8.2	52	Purgatory	318	2016
+5335406			Biography,Drama,History,Mystery,Romance,Thriller	episode	en	English	8.6	53	Epiphany	382	2016
+5458136			Drama,Fantasy,Horror,Thriller	episode			7.9	46	The Reckoning	169	2016
+5467144			Drama,Fantasy,Horror,Thriller	episode			7.9	48	The Heart Is a Devil	174	2016
+5506042			Drama,Fantasy,Horror,Thriller	episode			7.6	44	Night's Black Agents	153	2016
+5513750	United States	us	Drama,Fantasy,Horror,Mystery	episode	en	English	9.1	43	Beginning of the End: Part 1	836	2016
+5527284			Drama,Fantasy,Horror,Thriller	episode			7.7	46	The Witch Is Back	150	2016
+5535216			Comedy	episode			8.6	23	The Vestal	110	2016
+5547530			Drama,Fantasy,Horror,Mystery,Thriller	episode	en	English	8.8	41	We Happy Few	2262	2016
+5569476			Drama,Fantasy,Horror,Thriller	episode			7.6	48	Wednesday's Child	153	2016
+5638370			Drama,Fantasy,Horror,Thriller	episode			7.9	43	The Man Who Was Thursday	150	2017
+5638396			Drama,Fantasy,Horror,Thriller	episode			7.8	45	Friday's Knights	137	2017
+5638400			Drama,Fantasy,Horror,Thriller	episode			7.8	46	Saturday Mourning	141	2017
+5643300			Drama,Fantasy,Horror,Thriller	episode			7.9	50	Black Sunday	181	2017
+5710598	Italy	it	Crime,Drama,Thriller	episode	it	Italian	8.0	58	Lacrime e sangue	387	2016
+6573684			Action,Adventure,Sci-Fi	episode			8.3	55	Still Treads the Shadow	129	2017
+7020048			Action,Adventure,Sci-Fi	episode			8.8		What Ships Are For	158	2017

@@ -1,0 +1,425 @@
+imdb key	countries	country codes	genres	kind	language codes	languages	rating	runtimes	title	votes	year
+0000832	United States	us	Short,Crime,Drama	movie	en	English	6.6	14	A Corner in Wheat	1976	1909
+0010323	Germany	de	Fantasy,Horror,Mystery,Thriller	movie	de	German	8.1	76	The Cabinet of Dr. Caligari	51551	1920
+0010930	United States	us	Comedy,Short	movie	en	English	6.4	10	Young Mr. Jazz	336	1919
+0011833	Germany	de	Drama,Thriller	movie	de	German	6.9	65	From Morn to Midnight	382	1920
+0012364	Sweden	se	Drama,Fantasy,Horror	movie	sv	Swedish	8.1	100	The Phantom Carriage	9304	1921
+0012650	Germany	de	Drama	movie	de	German	6.4	50	Scherben	199	1921
+0012651	Germany	de	Crime,Drama,Horror,Mystery	movie	de	German	6.3	75	The Haunted Castle	1270	1921
+0013373	Germany	de	Drama	movie	de	German	6.7	50	Marizza	49	1922
+0013442	Germany	de	Fantasy,Horror	movie	de	German	7.9	94	Nosferatu	82786	1922
+0014516	Germany	de	Drama	movie	de	German	7.0	74	The Street	324	1923
+0014972	United States	us	Drama,Romance,Thriller	movie	en	English	7.9	95	He Who Gets Slapped	2766	1924
+0015039	Soviet Union	suhh	Documentary	movie			7.2	78	Kino Eye	800	1924
+0017271	Soviet Union	suhh	Drama	movie	ru	Russian	7.7	80	By the Law	849	1926
+0017376	Soviet Union	suhh	Documentary	movie			7.3	68	The Sixth Part of the World	396	1926
+0017809	Soviet Union	suhh	Comedy,Drama,Romance	movie			7.2	60	Moscow That Weeps and Laughs	556	1927
+0017961	Soviet Union	suhh	Comedy,Drama	movie			7.5	95	Happiness	868	1935
+0018246	Soviet Union	suhh	Documentary,History	movie			6.6	90	The Fall of the Romanov Dynasty	254	1927
+0018455	United States	us	Drama,Romance	movie	en	English	8.1	94	Sunrise	44264	1927
+0018770	France	fr	Horror	movie	fr	French	7.3	63	The Fall of the House of Usher	3123	1928
+0018873	United States	us	Short,Horror	movie			6.9	13	The Fall of the House of Usher	1118	1928
+0019109	United States	us	Comedy,Drama,Romance	movie	en	English	7.8	69	Lonesome	1887	1928
+0019649	Soviet Union	suhh	Drama,War	movie	ru,uk	Russian,Ukrainian	7.2	90	Arsenal	1584	1929
+0019838	United Kingdom	gb	Documentary	movie			6.6	49	Drifters	296	1929
+0021375	Soviet Union	suhh	Documentary	movie			7.0	67	Enthusiasm	667	1931
+0021571	Soviet Union	suhh	Drama	movie			7.3	75	Earth	4413	1930
+0021818	Germany	de	Comedy,Drama,Musical	movie	de	German	7.4	112	The 3 Penny Opera	1834	1931
+0022183	Germany	de	Drama,Romance	movie	de	German	7.6	88	Mädchen in Uniform	2186	1931
+0022458	United States	us	Drama,Romance,Adventure	movie	en	English	7.5	86	Tabu: A Story of the South Seas	4523	1931
+0022718	France	fr	Comedy	movie	fr	French	7.4	85	Boudu Saved from Drowning	4800	1932
+0022725	United States	us	Drama	movie	en	English	7.6	76	Broken Lullaby	772	1932
+0023042	United States	us	Crime,Drama,Film-Noir	movie	en	English	8.2	92	I Am a Fugitive from a Chain Gang	10785	1932
+0023104	Germany	de	Drama	movie	de	German	6.6	71	Kuhle Wampe or Who Owns the World?	592	1932
+0023828	Belgium	be	Documentary,Short	movie	qbn,fr	Flemish,French	7.5	36	Misère au Borinage	333	1934
+0024676	Japan	jp	Drama	movie			7.1	47	Woman of Tokyo	714	1933
+0025610	United States	us	Drama,Romance	movie	en	English	7.0	80	Our Daily Bread	1264	1934
+0025911	Soviet Union	suhh	Documentary	movie	ru	Russian	6.5	61	Three Songs About Lenin	605	1934
+0027652	United States	us	Crime,Drama,Film-Noir,Thriller	movie	en	English	7.9	92	Fury	10437	1936
+0028464	France	fr	Drama,History	movie	fr	French	6.0	66	La vie est à nous	209	1936
+0028818	United Kingdom	gb	Drama,History,Romance	movie	en	English	7.3	81	The Edge of the World	1515	1937
+0031762	United States	us	Adventure,Drama,Romance	movie	en,es	English,Spanish	7.7	121	Only Angels Have Wings	11333	1939
+0031885	France	fr	Comedy,Drama	movie	fr,de,en	French,German,English	8.1	110	The Rules of the Game	24754	1939
+0031968	United Kingdom	gb	Thriller,War	movie	en,de	English,German	6.9	82	The Spy in Black	1788	1939
+0032156	Japan	jp	Drama,Romance	movie	ja	Japanese	7.9	143	The Story of the Last Chrysanthemum	2840	1939
+0035112	United States	us	Documentary,Drama,History	movie	en	English	6.4	80	Native Land	286	1942
+0036244	United States	us	Drama,Western	movie	en,es	English,Spanish	8.0	75	The Ox-Bow Incident	19451	1942
+0038107	United States	us	Drama	movie	en	English	7.1	92	The Southerner	2593	1945
+0038522	France	fr	Documentary	movie	oc	Occitan	7.4	90	Farrebique	187	1946
+0038969	United States	us	Animation,Comedy,Family,Fantasy,Musical	movie	en	English	7.1	94	Song of the South	10339	1946
+0039383	United States	us	Short,Drama,Horror	movie	en	English	7.0	20	Fireworks	2094	1949
+0040019	France	fr	Short,Comedy	movie	fr	French	7.3	16	The School for Postmen	1881	1947
+0040513	United States	us	Comedy,Musical,Western	movie	en	English	5.2	100	The Kissing Bandit	445	1948
+0041842	France	fr	Documentary,Short	movie	fr	French	7.8	22	Blood of the Beasts	2059	1949
+0042040	United Kingdom	gb	Comedy,Crime	movie	en,gd	English,Scottish Gaelic	7.2	80	Whisky Galore	4586	1949
+0042528	France	fr	Documentary,Short	movie	fr	French	7.0	13	Guernica	851	1951
+0042530	United States	us	Crime,Drama,Film-Noir,Romance,Thriller	movie	en	English	7.6	87	Gun Crazy	10407	1950
+0043075	United States	us	Crime,Drama,Film-Noir,Thriller	movie	en,es	English,Spanish	7.3	91	The Sound of Fury	945	1950
+0043539	United States	us	Drama,Horror,Sci-Fi	movie	en	English	6.3	93	Five	1071	1951
+0044733	France	fr	Documentary,Short	movie	fr	French	6.6	22	Hôtel des Invalides	308	1952
+0044876	United Kingdom	gb	Comedy,Drama,Sci-Fi	movie	en	English	7.3	85	The Man in the White Suit	8160	1951
+0045283	Finland	fi	Drama,Fantasy,Horror	movie	fi	Finnish	7.0	74	The White Reindeer	1251	1952
+0045708	United States	us	Animation,Short,Comedy,Family,Fantasy	movie	en	English	8.6	7	Duck Amuck	7557	1953
+0046187	United States	us	Crime,Film-Noir,Thriller	movie	en	English	7.7	80	Pickup on South Street	11717	1953
+0048488	United States	us	Crime,Drama,Film-Noir	movie	en	English	7.2	100	The Phenix City Story	2064	1955
+0049010	United States	us	Drama	movie	en	English	7.6	95	Bigger Than Life	6240	1956
+0049087	United States	us	Documentary,Drama	movie	en,af	English,Afrikaans	7.1	95	Come Back, Africa	283	1959
+0049263	United States	us	Comedy,Music	movie	en	English	6.8	99	The Girl Can't Help It	2826	1956
+0049843	United States	us	Drama,Romance	movie	en	English	7.5	84	There's Always Tomorrow	2253	1955
+0049869	France	fr	Documentary,Short	movie	fr	French	7.8	21	Toute la mémoire du monde	1256	1957
+0051390	Egypt	eg	Comedy,Crime,Drama	movie	ar	Arabic	7.7	77	Cairo Station	2716	1958
+0053459	France,Italy	fr,it	Drama,Horror	movie	fr	French	7.7	90	Eyes Without a Face	23771	1960
+0053632	Italy	it	Drama	movie	it	Italian	7.8	95	Bandits of Orgosolo	392	1961
+0053679	West Germany	xwg	Documentary,Short	movie	de	German	7.1	12	Brutality in Stone	207	1961
+0053967	Mexico	mx	Drama	movie	en	English	7.4	95	The Young One	2274	1960
+0054159	Poland	pl	Drama,War	movie	pl	Polish	7.5	62	Passenger	1346	1963
+0054460	Japan	jp	Crime,Drama,Thriller	movie	ja	Japanese	8.1	151	The Bad Sleep Well	9774	1960
+0054619	Soviet Union	suhh	Comedy	movie	ru	Russian	6.8	86	Alyonka	110	1962
+0054745	France	fr	Documentary	movie	fr	French	7.6	85	Chronicle of a Summer	2282	1961
+0054861	United States	us	Drama	movie	en	English	6.8	72	The Exiles	907	1961
+0055104	Canada	ca	Documentary,Short	movie	fr	French	7.2	28	La lutte	142	1961
+0055320	Italy	it	Drama	movie	it	Italian	8.0	93	Il Posto	3998	1961
+0055399	Italy	it	Crime,Drama,History,Mystery	movie	it	Italian	7.4	123	Salvatore Giuliano	2576	1962
+0055506	United Kingdom	gb	Drama	movie	en	English	7.5	101	A Taste of Honey	4341	1961
+0055981	Italy	it	Drama	movie	it	Italian	7.6	77	I Fidanzati	1607	1963
+0056119	France	fr	Short,Drama,Romance,Sci-Fi	movie	fr,de	French,German	8.3	28	La Jetée	27061	1962
+0056171	Italy,France	it,fr	Comedy,Drama	movie	it	Italian	7.0	122	Ro.Go.Pa.G.	1417	1963
+0056844	Czechoslovakia	cshh	Comedy,Family,Fantasy,Romance	movie	cs	Czech	7.2	91	When the Cat Comes	749	1963
+0057423	Canada	ca	Documentary	movie	fr	French	8.6	105	Pour la suite du monde	572	1963
+0057442	Italy	it	Documentary	movie	it	Italian	6.8	104	La rabbia	359	1963
+0057466	France,Cuba	fr,cu	Documentary,Animation,Short	movie	fr	French	7.3	30	Salut les Cubains	633	1964
+0057490	United Kingdom	gb	Drama	movie	en	English	7.9	116	The Servant	8270	1963
+0057495	United States	us	Drama,Mystery	movie	en	English	7.4	101	Shock Corridor	10102	1963
+0057982	United Kingdom	gb	Drama,History,War	tv movie	en,gd	English,Scottish Gaelic	7.8	69	Culloden	1305	1964
+0058006	Brazil	br	Adventure,Crime,Drama,Western	movie	pt	Portuguese	7.3	120	Black God, White Devil	3628	1964
+0058481	United States	us	Documentary	movie	en	English	7.8	97	Point of Order!	418	1964
+0058642	Soviet Union	suhh	Drama,Music,Romance	movie	uk	Ukrainian	8.0	97	Shadows of Forgotten Ancestors	5385	1964
+0058863	France,Spain	fr,es	War	movie	fr,vi	French,Vietnamese	7.5	100	The 317th Platoon	841	1965
+0059260	United Kingdom	gb	Adventure,Comedy,Musical	movie	en	English	7.2	92	Help!	16205	1965
+0059415	Czechoslovakia	cshh	Comedy,Romance,Drama	movie	cs	Czech	7.6	90	Loves of a Blonde	6742	1965
+0059894	United Kingdom	gb	Drama,War	tv movie	en	English	8.0	48	The War Game	5862	1966
+0059915	West Germany,Italy,Yugoslavia,France	xwg,it,xyu,fr	Action,Adventure,Western	movie	de	German	6.7	93	Winnetou: The Last Shot	2117	1965
+0060183	Senegal	sn	Short,Drama	movie	fr	French	7.1	20	Borom sarret	747	1963
+0060597	Czechoslovakia	cshh	Drama,War	movie	cs,de,ru	Czech,German,Russian	7.7	78	Carriage to Vienna	586	1966
+0060758	Senegal,France	sn,fr	Drama	movie	fr	French	7.4	65	Black Girl	2751	1966
+0060879	France	fr	Comedy,Drama	movie	fr,en	French,English	7.0	102	Who Are You, Polly Maggoo?	940	1966
+0061177	Japan,United States	jp,us	Adventure,Comedy,Crime,Thriller	movie	en,ja	English,Japanese	5.9	80	What's Up, Tiger Lily?	8737	1966
+0061589	United States	us	Documentary,Music	movie	en	English	8.0	96	Bob Dylan: Dont Look Back	7779	1967
+0061882	Japan	jp	Action,Crime,Drama,Thriller	movie	ja,en	Japanese,English	7.4	91	Branded to Kill	7177	1967
+0062262	United States	us	Western	movie	en	English	6.6	82	The Shooting	4024	1966
+0062374	United States	us	Documentary	movie	en	English	7.8	84	Titicut Follies	3668	1967
+0062864	United States	us	Comedy,Drama	movie	en	English	6.6	74	David Holzman's Diary	1305	1967
+0062952	United States	us	Drama	movie	en	English	7.7	130	Faces	8615	1968
+0063152	France	fr	Drama,Sci-Fi	movie	fr,nl,en	French,Dutch,English	7.2	94	Je t'aime, je t'aime	2244	1968
+0063268	France,Senegal	fr,sn	Drama	movie	fr,wo	French,Wolof	7.2	90	Mandabi	440	1968
+0063345	West Germany	xwg	War,Short	movie	de,en	German,English	6.8	25	The Inextinguishable Fire	257	1969
+0063555	Soviet Union	suhh	Biography,Drama,History,Music	movie	hy,az,ka	Armenian,Azerbaijani,Georgian	7.7	79	The Color of Pomegranates	7718	1969
+0063663	United States	us	Drama	movie	en	English	7.7	95	The Swimmer	8602	1968
+0063850	United Kingdom	gb	Crime,Drama	movie	en,la	English,Latin	7.6	111	If....	20592	1968
+0063854	France	fr	Documentary	movie	fr	French	6.9	55	Be Seeing You	95	1968
+0064099	United States	us	Documentary,Short,Music	movie	en	English	7.7	31	The Blues Accordin' to Lightnin' Hopkins	541	1970
+0064334	West Germany	xwg	Documentary	tv movie	de,en,sw	German,English,Swahili	6.6	45	The Flying Doctors of East Africa	404	1970
+0064482	United States	us	Documentary,War	movie	en	English	7.5	103	In the Year of the Pig	1455	1968
+0064874	Yugoslavia	xyu	Comedy,Drama	movie	qbo	Serbo-Croatian	7.0	87	Early Works	327	1969
+0064921	United States	us	Documentary,Drama	movie	en	English	7.8	91	Salesman	4284	1969
+0065531	France,Italy	fr,it	Crime,Drama,Thriller	movie	fr	French	8.0	140	Le Cercle Rouge	19695	1970
+0065780	United States	us	Documentary,Music,Thriller	movie	en	English	7.9	91	Gimme Shelter	9983	1970
+0065867	United States	us	Comedy,Drama	movie	en,fr,it,yue	English,French,Italian,Cantonese	7.4	131	Husbands	4624	1970
+0066530	France,Tunisia	fr,tn	Drama,War	movie	fr	French	6.8	90	Long Live Death	1166	1971
+0067388	United States	us	Adventure,Drama,Western	movie	en	English	6.8	104	Man in the Wilderness	2522	1971
+0067456	United States	us	Documentary,Biography,Crime	movie	en	English	7.4	88	The Murder of Fred Hampton	208	1971
+0067633	United States	us	Drama,Thriller	movie	en	English	7.8	91	Punishment Park	5701	1971
+0067810	United States	us	Action,Crime,Drama,Thriller	movie	en	English	5.5	97	Sweet Sweetback's Baadasssss Song	4222	1971
+0067893	United States	us	Drama	movie	en	English	7.2	102	Two-Lane Blacktop	10365	1971
+0067958	Yugoslavia,West Germany	xyu,xwg	Comedy,Drama,Fantasy	movie	qbo,en,ru,de	Serbo-Croatian,English,Russian,German	6.9	84	WR: Mysteries of the Organism	4201	1971
+0068634	West Germany,Italy	xwg,it	Drama,History	movie	de	German	6.5	85	History Lessons	217	1972
+0069172	United Kingdom,West Germany	gb,xwg	Documentary	movie	en,lt	English,Lithuanian	7.8	88	Reminiscences of a Journey to Lithuania	741	1972
+0069178	Switzerland,France	ch,fr	Drama	movie	fr	French	7.7	109	Return from Africa	57	1973
+0069682	United States	us	Documentary	movie			7.3	93	Seize the Time	10	1970
+0069970	France	fr	Comedy	movie	fr	French	7.0	90	La dialectique peut-elle casser des briques?	205	1973
+0070098	West Germany	xwg	Drama	movie	de	German	7.1	91	Part-Time Work of a Domestic Slave	251	1973
+0070712	France	fr	Documentary	movie	fr,en,de	French,English,German	7.4	88	The Society of the Spectacle	485	1974
+0070726	United States	us	Action,Drama,Crime	movie	en	English	7.1	102	The Spook Who Sat by the Door	1028	1973
+0070917	United Kingdom	gb	Horror,Mystery,Thriller	movie	en	English	7.5	88	The Wicker Man	61803	1973
+0071384	West Germany,France	xwg,fr	Documentary	movie	fr	French	7.5	80	Daguerréotypes	578	1976
+0071587	France	fr	Drama	movie	fr	French	7.4	82	The Mouth Agape	765	1974
+0071604	United States	us	Documentary,History,War	movie	en,fr,vi	English,French,Vietnamese	8.2	112	Hearts and Minds	4994	1974
+0071635	France	fr	Documentary	movie	fr	French	6.5	75	Humain, trop humain	257	1974
+0071690	France,Belgium	fr,be	Drama	movie	fr	French	6.8	86	Je Tu Il Elle	1521	1974
+0071691	West Germany	xwg	Biography,Drama,History	movie	de	German	7.8	110	The Enigma of Kaspar Hauser	15292	1974
+0071859	Iran	ir	Drama	movie	fa	Persian	7.5	83	The Traveler	1135	1974
+0071949	Canada	ca	Drama,History	movie	fr,en	French,English	8.2	109	Orderers	916	1974
+0072443	Soviet Union	suhh	Biography,Drama	movie	ru,es	Russian,Spanish	8.1	107	The Mirror	34030	1975
+0072902	Iran	ir	Short	movie	en,fa	English,Persian	6.6	5	Two Solutions for One Problem	760	1975
+0072976	West Germany	xwg	Drama,Romance	movie	de,en,fr	German,English,French	7.7	123	Fox and His Friends	4577	1975
+0073911	United Kingdom	gb	Biography,Drama,War	movie	en	English	7.0	95	Winstanley	273	1975
+0073915	Senegal	sn	Comedy,Drama	movie	fr,wo	French,Wolof	6.7	123	Xala	1461	1975
+0074851	United Kingdom	gb	Drama,Sci-Fi	movie	en	English	6.7	139	The Man Who Fell to Earth	22195	1976
+0075152	Italy	it	Action,Crime,Drama,Thriller	movie	it	Italian	6.9	95	The Tough Ones	992	1976
+0075276	West Germany	xwg	Comedy,Drama	movie	de,en,tr	German,English,Turkish	7.9	115	Stroszek	11993	1977
+0075414	United States	us	Drama	movie	en	English	6.1	93	We Can't Go Home Again	327	1973
+0076042	France	fr	Documentary	movie	fr,es,en,de,ja,vi	French,Spanish,English,German,Japanese,Vietnamese	8.0	240	A Grin Without A Cat	859	1977
+0076263	United States	us	Drama	movie	en	English	7.3	80	Killer of Sheep	5591	1978
+0076341	Philippines	ph	Comedy,Drama	movie	en	English	7.1	93	Perfumed Nightmare	384	1977
+0076452	France,Belgium,West Germany	fr,be,xwg	Documentary	movie	fr	French	7.5	85	News from Home	1186	1977
+0076741	West Germany	xwg	Documentary,Short,Biography	movie	de	German	7.6	30	La Soufrière	1735	1977
+0077154	United States	us	Documentary	movie	en	English	7.5	58	Always for Pleasure	346	1978
+0077309	Senegal	sn	Drama	movie	wo,en,ar	Wolof,English,Arabic	6.8	120	Ceddo	678	1977
+0077598	United States	us	Documentary,Comedy,Drama	movie	en	English	7.4	85	Gates of Heaven	5100	1978
+0077707	France	fr	Drama,Mystery	movie	fr	French	7.5	66	The Hypothesis of the Stolen Painting	887	1978
+0077914	United States	us	Drama,Horror	movie	en	English	7.1	95	Martin	9179	1977
+0078748	United Kingdom,United States	gb,us	Horror,Sci-Fi	movie	en	English	8.4	117	Alien	732772	1979
+0079470	United Kingdom	gb	Comedy	movie	en,la	English,Latin	8.1	94	Monty Python's Life of Brian	342204	1979
+0079601	France,Belgium	fr,be	Drama	movie	fr	French	5.8	105	Short Memory	108	1979
+0081291	Canada	ca	Drama	movie	en	English	7.2	94	Out of the Blue	2097	1980
+0081505	United Kingdom,United States	gb,us	Drama,Horror	movie	en	English	8.4	146	The Shining	811405	1980
+0081746	United States	us	Documentary,Short	movie	en	English	7.2	20	Werner Herzog Eats His Shoe	2055	1980
+0082092	Portugal	pt	Documentary	movie	pt	Portuguese	7.6	127	The Good People of Portugal	56	1980
+0082986	France	fr	Documentary	movie	fr,en	French,English	7.0	90	Reporters	119	1981
+0083230	France,Egypt	fr,eg	Documentary	movie	fr,de,ar	French,German,Arabic	5.6	100	Too Early/Too Late	454	1981
+0083590	United States	us	Documentary,History	movie	en	English	7.6	86	The Atomic Cafe	3736	1982
+0083727	France,West Germany	fr,xwg	Documentary	tv movie	en,fr,de,it,tr,pt	English,French,German,Italian,Turkish,Portuguese	6.5	45	Room 666	974	1982
+0083883	France	fr	Short	movie	fr	French	6.4	7	En rachâchant	402	1982
+0084577	United States	us	Documentary,Short	movie	en	English	6.5	40	Reassemblage: From the Firelight to the Screen	311	1983
+0084628	France	fr	Documentary,Drama	movie	fr,ja,en,yue,jsl	French,Japanese,English,Cantonese,Japanese Sign Language	8.0	104	Sans Soleil	8603	1983
+0084904	United States	us	Drama,Music	movie	en	English	7.1	82	Wild Style	2075	1983
+0086199	Finland	fi	Crime,Drama	movie	fi	Finnish	7.1	93	Crime and Punishment	1954	1983
+0086838	France	fr	Documentary,Short	movie	fr	French	6.8	10	2084: Video clip pour une réflexion syndicale et pour le plaisir	217	1984
+0088412	West Germany,Australia	xwg,au	Drama	movie	en	English	7.1	100	Where the Green Ants Dream	1879	1984
+0089960	France	fr	Drama,Romance	movie	fr,ar,en	French,Arabic,English	7.7	105	Vagabond	7333	1985
+0090315	United Kingdom	gb	Animation,Comedy,Drama,War	movie	en	English	7.7	84	When the Wind Blows	9119	1986
+0091943	United States	us	Documentary,Biography,Comedy,Romance	movie	en	English	7.3	157	Sherman's March	2200	1985
+0092963	Japan	jp	Documentary,War	movie	ja	Japanese	8.2	122	The Emperor's Naked Army Marches On	1313	1987
+0093139	Finland	fi	Comedy,Drama,Romance	movie	fi	Finnish	7.0	89	Hamlet Goes Business	1705	1987
+0093868	United Kingdom	gb	Drama	episode	en	English	7.8	67	Road	226	1987
+0094075	United States	us	Short,Biography,Drama,Music	movie	en	English	7.8	43	Superstar: The Karen Carpenter Story	2675	1988
+0095715	Czechoslovakia,Switzerland,United Kingdom,West Germany	cshh,ch,gb,xwg	Animation,Adventure,Fantasy,Horror,Thriller	movie	cs	Czech	7.5	86	Alice	10557	1988
+0096256	United States	us	Action,Horror,Sci-Fi,Thriller	movie	en	English	7.3	94	They Live	99884	1988
+0100234	Iran	ir	Biography,Crime,Drama	movie	fa,az	Persian,Azerbaijani	8.3	98	Close-Up	13151	1990
+0100624	United States	us	Documentary	movie	en	English	7.2	48	Sink or Swim	308	1990
+0100692	Switzerland,Germany	ch,de	Documentary,Music	movie	en,de	English,German	8.3	90	Step Across the Border	279	1990
+0103099	United States	us	Documentary	movie	en	English	6.7	55	Tongues Untied	868	1989
+0103793	Austria,Switzerland	at,ch	Crime,Drama	movie	de,en,ar,fr	German,English,Arabic,French	7.2	105	Benny's Video	12771	1992
+0104587	Kazakhstan	kz	Drama	movie	kk	Kazakh	7.1	72	Kairat	238	1992
+0104706	France,United Kingdom,Germany	fr,gb,de	Documentary,War	movie	de,en,ar	German,English,Arabic	8.0	54	Lessons of Darkness	4835	1992
+0105268	United States	us	Documentary,Biography	movie	en	English	5.8	63	Rock Hudson's Home Movies	358	1992
+0105618	France,Finland	fr,fi	Documentary,Biography,History	movie	fr,ru,en,de	French,Russian,English,German	8.0	120	The Last Bolshevik	566	1993
+0109020	Austria,Germany	at,de	Drama	movie	de,ro,en	German,Romanian,English	7.2	100	71 Fragments of a Chronology of Chance	6147	1994
+0110377	United Kingdom	gb	Documentary	movie	en	English	7.4	85	London	479	1994
+0111535	France	fr	Drama	episode	fr	French	7.9	58	US Go Home	478	1994
+0112769	France,Germany	fr,de	Crime,Drama,Mystery,Thriller	movie	fr	French	7.6	112	La Cérémonie	9103	1995
+0114915	United States	us	Short,Drama,Music	movie	en	English	6.2	13	When It Rains	431	1995
+0115537	Netherlands	nl	Documentary	movie	nl	Dutch	7.9	245	Amsterdam Global Village	105	1996
+0116587	Germany,Canada	de,ca	Drama,Romance	movie	en	English	5.9	79	Hustler White	1134	1996
+0116922	France,United States	fr,us	Mystery,Thriller	movie	en	English	7.6	134	Lost Highway	121168	1997
+0118635	Italy,France	it,fr	Biography,Comedy	movie	it,en,fr	Italian,English,French	7.0	78	Aprile	2675	1998
+0119844	Portugal,France,Denmark	pt,fr,dk	Drama	movie	pt	Portuguese	6.9	94	Ossos	1285	1997
+0121616	West Germany	xwg	Documentary,Short	movie	de	German	5.6	13	Oskar Langenfeld. 12 Mal	89	1966
+0124046	Soviet Union	suhh	Drama	movie	ka,ru	Georgian,Russian	7.2	95	Pastorali	396	1975
+0126943	United States	us	Drama,Thriller	movie	en	English	3.8	88	Hide and Seek	6	1997
+0130908	United States	us	Short	movie	en	English	6.9	36	Hapax Legomena I: Nostalgia	547	1971
+0132055	France,Portugal,Italy,Switzerland	fr,pt,it,ch	Documentary	movie	pt,fr	Portuguese,French	7.4	105	Torre Bela	82	1975
+0137439	France	fr	Comedy,Drama,Romance	movie	fr	French	7.5	112	Autumn Tale	3953	1998
+0139153	United Kingdom	gb	Short,Documentary	movie	en	English	7.0	40	A Diary for Timothy	623	1945
+0139612	United Kingdom,Czechoslovakia	gb,cshh	Documentary,Drama,Short,War	movie	en,cy	English,Welsh	7.0	36	The Silent Village	141	1943
+0145834	France	fr	Short,Animation	movie			6.8	25	The Idea	327	1932
+0158310	United Kingdom	gb	Documentary,Comedy	tv mini series	en	English	8.7	156	Unknown Chaplin	489	1983
+0168909	Soviet Union	suhh	Short,Drama	movie			7.3	25	July	91	1988
+0176117	France	fr	Documentary	movie	fr,it	French,Italian	7.6	90	San Clemente	87	1982
+0176227	Italy	it	Documentary	tv movie	it,ru	Italian,Russian	7.3	62	Voyage in Time	1357	1983
+0176568	Russia	ru	Documentary	movie	ru	Russian	7.4	55	Bread Day	145	1998
+0188589	France,Yugoslavia	fr,xyu	Drama,War	movie	fr,de	French,German	6.9	105	Enclosure	71	1961
+0190268	South Korea	kr	Drama	movie	ko	Korean	7.0	105	Birdcage Inn	1553	1998
+0190806	United States	us	Animation,Short,Documentary,Family	movie	en	English	5.8	10	The Story of Menstruation	382	1946
+0190882	South Korea	kr	Comedy,Crime,Drama	movie	ko,fr	Korean,French	6.2	105	Wild Animals	751	1997
+0192718	France,Tunisia	fr,tn	Drama	movie	fr	French	8.1	77	The Man Who Sleeps	2537	1974
+0194549	Germany	de	Documentary,Short	movie			6.6	10	Das Wolkenphänomen von Maloja	111	1924
+0195286	Canada	ca	Short	movie	en	English	6.5	11	Solidarity	23	1973
+0196528	Algeria,France	dz,fr	Documentary,Biography	movie	fr	French	5.7	75	Eldridge Cleaver, Black Panther	40	1970
+0197719	France	fr	Documentary,Short	movie	fr	French	6.0	44	Mediterranean	559	1963
+0199399	Australia	au	Documentary	movie	en	English	7.7	70	Cannibal Tours	227	1988
+0206115	France	fr	Short	movie	fr	French	6.8	14	Les mains négatives	140	1978
+0208683	France	fr	Short,Documentary	movie	fr	French	7.5	21	L'amour existe	480	1960
+0209077	United States,Netherlands,France	us,nl,fr	Drama	movie	en	English	5.9	93	Ken Park	27866	2002
+0216664	United States	us	Documentary	movie	en	English	6.1	49	Daughter Rite	85	1980
+0219935	France	fr	Documentary,Biography,Sport	movie	fr,en	French,English	7.6	120	Float Like a Butterfly, Sting Like a Bee	635	1969
+0230045	United States	us	Documentary,Short	movie	en	English	7.1	14	Black Panther	32	1969
+0230468	United States	us	Documentary,Short	movie	en	English	7.6	35	Lost Book Found	123	1996
+0233175	Syria	sy	Documentary	movie			7.0	80	Everyday Life in a Syrian Village	58	1976
+0234401	France	fr	Documentary,Short	movie	el,fr	Greek,French	7.7	44	Order	110	1973
+0234588	United States	us	Animation,Short,Comedy,Fantasy	movie	en,sv	English,Swedish	8.0	9	Rejected	7559	2000
+0239925	Japan	jp	Documentary,Biography,Crime	movie	ja	Japanese	7.2	86	Ryakushô: renzoku shasatsuma	130	1969
+0248103	Germany	de	Drama	movie	de,pt	German,Portuguese	7.0	106	The State I Am In	1871	2000
+0251293	United Kingdom	gb	Documentary	movie			6.7	90	The Nightcleaners	20	1975
+0255589	South Korea	kr	Drama,Thriller	movie	ko	Korean	7.0	90	The Isle	11857	2000
+0257489	United States	us	Documentary	episode	en	English	8.6	60	A Class Divided	148	1985
+0257497	France	fr	Drama,History,War	movie	fr	French	8.0	345	La Commune (Paris, 1871)	931	2000
+0258885	Hong Kong,China,Japan,France	hk,cn,jp,fr	Drama,History	movie	cmn,qau	Mandarin,Shanxi	7.4	154	Platform	2189	2000
+0267155	Portugal	pt	Drama	movie	pt	Portuguese	4.8	75	Branca de Neve	372	2000
+0269367	Albania	al	Documentary,Short	movie			7.4	25	Intervista	9	2000
+0269857	South Korea	kr	Crime,Drama	movie	ko	Korean	6.0	82	Real Fiction	1314	2000
+0270416	United States	us	Fantasy,Short	movie	en	English	7.4	10	Hour Glass	36	1971
+0276745	France,North Vietnam	fr,vdvn	Documentary,War	movie	fr	French	7.6	113	17th Parallel: Vietnam in War	104	1968
+0284815	South Korea	kr	Drama,War	movie	ko,en	Korean,English	7.2	117	Address Unknown	3197	2001
+0286978	France	fr	Documentary,History,War	movie	he,fr	Hebrew,French	7.3	95	Sobibór, October 14, 1943, 4 p.m.	443	2001
+0295259	France	fr	Drama	movie			7.2	80	Finis terrae	424	1929
+0296492	South Korea	kr	Drama	movie	ko	Korean	6.6	102	Crocodile	1450	1996
+0301481	Kazakhstan,France,Japan	kz,fr,jp	Drama	movie	kk	Kazakh	6.7	85	The Road	100	2001
+0301978	Iran,France	ir,fr	Drama	movie	fa	Persian	7.5	89	Ten	6357	2002
+0305700	France,Spain	fr,es	Short	movie	fr	French	5.7	37	Le jouet criminel	25	1969
+0307213	South Korea	kr	Drama	movie	ko	Korean	6.8	100	Bad Guy	8607	2001
+0308971	France	fr	Short,Drama,Fantasy	movie	fr	French	7.1	22	Le tempestaire	507	1947
+0310692	Italy	it	Adventure	movie	it	Italian	6.4	77	The Extraordinary Adventures of Saturnino Farandola	150	1913
+0311864	United States,United Kingdom	us,gb	Short,Comedy,Fantasy	movie	en,ru	English,Russian	6.6	25	Steps	140	1987
+0314855	France	fr		movie	fr	French	7.6	100	His Master's Voice	20	1978
+0327920	United States	us	Documentary,Music	movie	en	English	7.5	92	I Am Trying to Break Your Heart	1926	2002
+0332344	United States	us	Documentary,History	video movie	en	English	6.9	118	Red Hollywood	165	1996
+0336693	Iran	ir	Documentary,Short	movie	fa	Persian	7.9	20	The House Is Black	3625	1963
+0338135	Canada,France	ca,fr	Comedy,Crime,Drama,Mystery,Romance	movie	fr,en	French,English	7.6	99	The Barbarian Invasions	27224	2003
+0341384	South Korea	kr	Action,Drama,War	movie	ko	Korean	6.5	91	The Coast Guard	3099	2002
+0342570	United States	us	Documentary	movie	en	English	7.7	53	An Injury to One	155	2002
+0358456	United States	us	Documentary,Horror	movie	en	English	8.7	95	Earthlings	16504	2005
+0366960	France	fr	Documentary,Short	movie	fr	French	7.0	10	La reprise du travail aux usines Wonder	24	1968
+0370271	West Germany	xwg	Documentary,Short	movie	de	German	6.8	13	By the Dike Sluice	122	1962
+0371746	United States	us	Action,Adventure,Sci-Fi	movie	hu,ku,hi,en,fa,ur,ar	Hungarian,Kurdish,Hindi,English,Persian,Urdu,Arabic	7.9	126	Iron Man	886274	2008
+0373930	Italy	it	Drama	movie	it	Italian	6.7	89	Mi piace lavorare (Mobbing)	357	2004
+0374546	South Korea,Germany	kr,de	Drama,Romance	movie	ko	Korean	8.0	103	Spring, Summer, Fall, Winter... and Spring	72323	2003
+0379357	United States	us	Documentary,History	movie	en	English	8.0	169	Los Angeles Plays Itself	1996	2003
+0389448	China,Netherlands	cn,nl	Documentary	movie	cmn	Mandarin	8.4	551	Tie Xi Qu: West of the Tracks	924	2002
+0397619	South Korea	kr	Drama	movie	ko	Korean	7.1	95	Samaritan Girl	12535	2004
+0405835	France	fr	Documentary,Short	movie	fr	French	7.2	37	Classe de lutte	40	1969
+0412019	France,United States	fr,us	Comedy,Drama,Mystery,Romance	movie	en	English	7.2	106	Broken Flowers	93763	2005
+0416991	Senegal,Burkina Faso,Morocco,Tunisia,Cameroon,France	sn,bf,ma,tn,cm,fr	Drama	movie	bm,fr	Bambara,French	7.6	124	Moolaadé	3316	2004
+0417226	Finland,Russia,United Kingdom	fi,ru,gb	Documentary,Short	movie	ru	Russian	7.3	41	In the Dark	101	2004
+0423866	South Korea,Japan	kr,jp	Crime,Drama,Romance	movie	ko	Korean	8.0	88	3-Iron	45833	2004
+0437123	France	fr	Documentary	tv movie	fr,frs	French,Eastern Frisian	7.3	59	The Case of the Grinning Cat	444	2004
+0439123	France,Belgium,Spain,Italy	fr,be,es,it	Animation,Adventure,Family,Fantasy	movie	ar,fr	Arabic,French	7.3	99	Azur & Asmar: The Princes' Quest	2580	2006
+0449467	France,United States,Mexico	fr,us,mx	Drama	movie	en,ar,es,ja,ber,fr,ru,jsl	English,Arabic,Spanish,Japanese,Berber languages,French,Russian,Japanese Sign Language	7.4	143	Babel	276743	2006
+0456470	South Korea,Japan	kr,jp	Drama,Romance	movie	ko	Korean	7.2	90	The Bow	10114	2005
+0458339	United States	us	Action,Adventure,Sci-Fi	movie	en,no,fr	English,Norwegian,French	6.9	124	Captain America: The First Avenger	688020	2011
+0459934	France,Israel	fr,il	Documentary	movie	en,ar,he	English,Arabic,Hebrew	7.7	100	Avenge But One of My Two Eyes	200	2005
+0470951	Japan,France	jp,fr	Drama	movie	fr	French	6.7	104	A Perfect Couple	297	2005
+0478304	United States	us	Drama,Fantasy	movie	en	English	6.8	139	The Tree of Life	158709	2011
+0495040	Denmark	dk	Comedy,Drama	movie	da	Danish	7.4	106	The Art of Crying	2055	2006
+0497986	South Korea,Japan	kr,jp	Drama,Mystery,Romance	movie	ko	Korean	7.2	97	Time	11249	2006
+0765141	France	fr	Drama,History,Music,War	movie	fr	French	6.2	143	Heartbeat Detector	1120	2007
+0783612	United States	us	Documentary	tv mini series	en	English	8.5	255	When the Levees Broke: A Requiem in Four Acts	4010	2006
+0785280	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.8	53	Dexter	6745	2006
+0800080	United States	us	Action,Adventure,Sci-Fi	movie	en,pt,es	English,Portuguese,Spanish	6.7	112	The Incredible Hulk	411287	2008
+0800369	United States	us	Action,Adventure,Fantasy	movie	en	English	7.0	115	Thor	701558	2011
+0848228	United States	us	Action,Adventure,Sci-Fi	movie	en,ru,hi	English,Russian,Hindi	8.0	143	The Avengers	1205938	2012
+0898367	United States	us	Drama	movie	en	English	7.2	111	The Road	211275	2009
+0901475	South Korea	kr	Drama	movie	ko	Korean	6.9	84	Breath	4328	2007
+0924263	West Germany	xwg	Drama	movie	de	German	7.1	86	The Parallel Street	144	1962
+0986233	Ireland,United Kingdom	ie,gb	Biography,Drama	movie	en,ga	English,Irish	7.6	96	Hunger	62237	2008
+1068646	France	fr	Drama	movie	fr,bm,es	French,Bambara,Spanish	7.5	128	The Class	32650	2008
+1093842	Canada	ca	Documentary,Comedy,Drama,History	movie	en	English	7.6	80	My Winnipeg	4587	2007
+1129435	France	fr	Documentary,Biography	movie	fr,en	French,English	8.0	110	The Beaches of Agnès	2767	2008
+1149867	Germany,South Korea	de,kr	Documentary,Short	movie	zxx,de	None,German	7.9	40	Respite	77	2007
+1151339	United States	us	Comedy	movie	en	English	5.1	80	Goliath	365	2008
+1152850	United States	us	Drama	movie	en	English	7.1	80	Wendy and Lucy	15061	2008
+1158308	United States	us	Documentary	movie	zxx	None	6.8	58	Profit Motive and the Whispering Wind	154	2007
+1165253	South Korea	kr	Drama,Fantasy,Mystery,Romance	movie	ko,ja	Korean,Japanese	6.6	95	Dream	3456	2008
+1165293	Brazil	br	Documentary,Drama	movie	pt	Portuguese	8.5	100	Playing	901	2007
+1199787	United States	us	Drama,Mystery	movie	en	English	6.5	55	Oceania	20	2008
+1201131	France	fr	Documentary,Short	movie	fr	French	7.1	17	Afrique 50	215	1950
+1205489	Germany,United States	de,us	Drama	movie	en,hmn	English,Hmong	8.1	116	Gran Torino	681856	2008
+1228705	United States	us	Action,Adventure,Sci-Fi	movie	en,fr,ru	English,French,Russian	7.0	124	Iron Man 2	676283	2010
+1270707	France,Israel	fr,il	Documentary	movie	he	Hebrew	6.8	81	Z32	125	2008
+1284587	Iran	ir	Drama	movie	fa	Persian	6.7	92	Shirin	2075	2008
+1291573	France	fr	Drama	movie	fr	French		90	Le sujet ou Le secrétaire aux mille et un tiroirs		1975
+1300854	United States	us	Action,Adventure,Sci-Fi	movie	en	English	7.2	130	Iron Man 3	710834	2013
+1313104	United States	us	Documentary,Crime	movie	en,ja	English,Japanese	8.4	92	The Cove	45728	2009
+1380807	Germany	de	Documentary	movie	de	German	7.4	166	Material	37	2009
+1380817	Austria,Germany	at,de	Documentary	movie	zxx	None	8.3	61	Zum Vergleich	98	2009
+1408011	Argentina	ar	Documentary,War	movie	es,ar,en,ku	Spanish,Arabic,English,Kurdish	5.4	94	Iraqi Short Films	12	2008
+1412727	Canada	ca	Sci-Fi	movie	en	English	5.9	86	Infest Wisely	11	2007
+1413326	Japan	jp	Animation,Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi	episode	ja	Japanese	7.7	30	Hagane no renkinjutsushi (Fullmetal Alchemist)	853	2009
+1454523	Spain	es	Crime,Drama	movie	ca,es	Catalan,Spanish	6.9	108	Black Bread	4269	2010
+1478284	Portugal	pt	Documentary	movie	pt	Portuguese	6.7	60	Ruínas	96	2009
+1480055	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.0	62	Winter Is Coming	37681	2011
+1528312	United Kingdom,France,Italy,Belgium,Spain	gb,fr,it,be,es	Action,Drama,Thriller,War	movie	en,ar	English,Arabic	6.4	109	Route Irish	4068	2010
+1542344	United States,United Kingdom,France	us,gb,fr	Biography,Drama	movie	en,it	English,Italian	7.6	94	127 Hours	329878	2010
+1561402	United States	us	Documentary	movie	zh	Chinese	6.3	62	Chaiqian	15	2010
+1605783	Spain,United States,France	es,us,fr	Comedy,Fantasy,Romance	movie	en,fr,es,de	English,French,Spanish,German	7.7	94	Midnight in Paris	363104	2011
+1608844	United Kingdom	gb	Drama,Romance	episode	en	English	8.4	66	Episode #1.1	2026	2010
+1611787	United Kingdom	gb	Documentary	tv mini series	en	English	8.8	60	Wonders of the Solar System	4000	2010
+1617361	United Kingdom	gb	Drama,Romance	episode	en	English	8.4	47	Episode #1.2	1607	2010
+1617362	United Kingdom	gb	Drama,Romance	episode	en	English	8.5	47	Episode #1.3	1529	2010
+1617363	United Kingdom	gb	Drama,Romance	episode	en	English	8.3	47	Episode #1.4	1416	2010
+1617364	United Kingdom	gb	Drama,Romance	episode	en	English	8.6	49	Episode #1.5	1377	2010
+1617365	United Kingdom	gb	Drama,Romance	episode	en	English	8.6	48	Episode #1.6	1383	2010
+1617366	United Kingdom	gb	Drama,Romance	episode	en	English	8.9	64	Episode #1.7	1441	2010
+1621032	Spain	es	Documentary	movie	en,ar	English,Arabic	8.1	112	To Shoot an Elephant	90	2009
+1628841	United States	us	Action,Adventure,Sci-Fi	movie	en,cmn	English,Mandarin	5.2	120	Independence Day: Resurgence	158226	2016
+1655442	France,Belgium,United States	fr,be,us	Comedy,Drama,Romance	movie	en,fr	English,French	7.9	100	The Artist	219716	2011
+1661832	Portugal	pt	Documentary,History	movie	pt,de,fr	Portuguese,German,French	7.6	65	Fantasia Lusitana	104	2010
+1668746	United States,Ireland,United Kingdom	us,ie,gb	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	56	The Kingsroad	28554	2011
+1691535	United States	us	Crime,Drama,Mystery,Thriller	episode	en	English	8.5	49	Practically Perfect	2885	2010
+1710348	United States	us	Documentary,Short	movie	es,en	Spanish,English	6.0	22	Fake Fruit Factory	141	1986
+1710433	United States	us	Short	movie			6.9	10	New Improved Institutional Quality: In the Environment of Liquids and Nasals a Parasitic Vowel Sometimes Develops	63	1976
+1710589	United States	us	Short	movie			6.9	4	Odds & Ends	64	1959
+1802202	France	fr	Documentary	movie	cmn	Mandarin	6.7	53	Coal Money	50	2009
+1829962	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.7	58	Lord Snow	27009	2011
+1829963			Action,Adventure,Drama,Fantasy,Romance	episode	ru,en	Russian,English	8.8	56	Cripples, Bastards, and Broken Things	25612	2011
+1829964			Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	55	The Wolf and the Lion	26678	2011
+1836080	Portugal	pt	Short,Drama	movie	pt	Portuguese	6.4	23	O nosso Homem	88	2010
+1837862			Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.2	53	A Golden Crown	26395	2011
+1837863	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.2	58	You Win or You Die	26886	2011
+1837864	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.0	59	The Pointy End	24972	2011
+1843840	Portugal,France,Macao	pt,fr,mo	Crime,Drama,Musical,Mystery	movie	pt,yue,en	Portuguese,Cantonese,English	6.4	82	The Last Time I Saw Macao	419	2012
+1851397	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.5	53	Fire and Blood	31016	2011
+1851398	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.6	57	Baelor	35311	2011
+1851880	Spain	es	Comedy	movie	gl,es,de,en,ru	Gallegan,Spanish,German,English,Russian	5.8	85	Crebinsky	119	2011
+1869630392											
+1869630400											
+1896630671											
+1896630691											
+1896630692											
+1896630710											
+1966306235											
+1971833	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	53	The North Remembers	24234	2012
+1996306642											
+1996306830											
+1996306866											
+1996306923											
+1996307448											
+1996308186											
+1996308187											
+1996308380											
+1996308381											
+1996308382											
+1999570028											
+1999570568											
+2004422	Austria	at	Documentary,Short	movie	de,en	German,English		14	Vertov in Blum. An Investigation		2010
+2069318	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.5	54	The Night Lands	22885	2012
+2069319	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	51	Garden of Bones	21858	2012
+2070135	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	53	What Is Dead May Never Die	22599	2012
+2108075	United States	us	Comedy,Romance	episode	en	English	8.0	22	The Rebound Girl	2332	2011
+2140038999											
+2140039064											
+2261247	France	fr	Documentary,Drama	movie	de	German	7.4	81	Differently, Molussia	64	2012
+2368852	Netherlands	nl	Documentary,Music	movie	en	English	7.5	64	There Is No Authority But Yourself	57	2006
+2816136	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	58	Two Swords	28731	2014
+2832378	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.7	52	The Lion and the Rose	45106	2014
+2912308	United States	us	Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.6	44	Pilot	5945	2013
+2972426	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.9	57	Breaker of Chains	24155	2014
+2972428	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.8	55	Oathkeeper	23203	2014
+2981792	Soviet Union	suhh	Documentary	movie			7.5	50	Povelitel mukh	21	1991
+3060856	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	8.7	53	First of His Name	22441	2014
+3060858	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.6	51	The Watchers on the Wall	37833	2014
+3060876	United States	us	Action,Adventure,Drama,Fantasy,Romance	episode	en	English	9.1	51	Mockingbird	25022	2014
+3130186	United States	us	Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.5	43	The Asset	3660	2013
+3130816	United States	us	Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.2	42	0-8-4	4237	2013
+3181252	United States	us	Crime,Drama,History	episode	en,it	English,Italian	8.9	53	White Horse Pike	1263	2013
+3218318	United States	us	Action,Adventure,Drama,Sci-Fi,Thriller	episode	en	English	7.6	43	Eye Spy	3356	2013
+3220256	United States	us	Crime,Drama,History	episode	en	English	8.8	57	The Old Ship of Zion	1193	2013
+3220258	United States	us	Crime,Drama,History	episode	en	English	8.7	56	Marriage and Hunting	1152	2013
+3332546			Adventure,Drama,Family,Mystery,Sci-Fi	episode			9.1	7	The Night of the Doctor	3038	2013
+3377898	Palestine	ps	Documentary,Short	movie	ar	Arabic	7.9	25	They Do Not Exist	44	1974
+3589474	Netherlands	nl	Documentary,Short	movie	en,ar,nl	English,Arabic,Dutch	6.8	43	The Palestinians	18	1975
+3761040			Thriller	episode					Episode #1.8		2014
+4145582	United States	us	Documentary,Short	movie	en	English	6.7	34	Get Out of the Car	31	2010
+4630562	China,United States,Japan	cn,us,jp	Action,Adventure,Thriller	movie	en,ru	English,Russian	6.7	136	The Fate of the Furious	187834	2017
+4901306	Italy	it	Comedy,Drama	movie	it	Italian	7.8	97	Perfect Strangers	48208	2016
+5847580	Soviet Union	suhh	Drama	movie	ru	Russian		97	Krylya		1956

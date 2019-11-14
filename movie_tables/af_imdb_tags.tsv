@@ -1,0 +1,58 @@
+imdb key	countries	country codes	genres	kind	language codes	languages	rating	runtimes	title	votes	year
+0016847	Germany	de	Drama,Fantasy,Horror	movie	de	German	8.1	107	Faust	12953	1926
+0035521	France	fr	Drama,Fantasy,Romance	movie	fr	French	7.3	120	Les Visiteurs du Soir	1756	1942
+0048452	Denmark	dk	Drama,Fantasy	movie	da	Danish	8.4	126	Ordet	12535	1955
+0048624	Austria	at	Comedy,Drama,History,Romance	movie	de	German	7.0	102	Sissi	7107	1955
+0049762	Austria	at	Drama,History	movie	de,hu	German,Hungarian	6.7	107	Sissi: The Young Empress	5473	1956
+0050974	Austria	at	Drama,History,Romance	movie	de,el,hu,it,pt	German,Greek,Hungarian,Italian,Portuguese	6.6	109	Sissi: The Fateful Years of an Empress	4418	1957
+0051749	West Germany	xwg	War,Drama	movie	de	German	7.2	93	Stalingrad: Dogs, Do You Want to Live Forever?	632	1959
+0052644	France,Italy	fr,it	Action,Adventure	movie	fr	French	6.9	105	Le Bossu	1034	1959
+0053941	Austria,West Germany	at,xwg	Comedy,Musical,Romance	movie	de	German	5.9	103	The White Horse Inn	318	1960
+0075902	Poland	pl	Drama	movie	pl	Polish	7.8	165	Man of Marble	3560	1977
+0085829	Belgium,Netherlands	be,nl	War,Drama	movie	nl	Dutch	5.8	90	De leeuw van Vlaanderen	465	1985
+0087060	Netherlands	nl	Crime,Drama,Thriller	movie	nl	Dutch	7.0	180	Ciske the Rat	2476	1984
+0095295	West Germany	xwg	Drama,War	movie	de	German	6.8	111	Autumn Milk	367	1989
+0099607	France	fr	Drama	movie	fr	French	6.6	105	La fracture du myocarde	300	1990
+0102103	United Kingdom,France	gb,fr	Biography,Comedy,Music,Romance	movie	en	English	6.9	107	Impromptu	4442	1991
+0103190	France	fr	Biography,Drama	movie	fr	French	7.2	158	Van Gogh	2465	1991
+0109454	France	fr	Drama,History,Romance,War	movie	fr	French	6.9	110	Colonel Chabert	1615	1994
+0117040	France,Switzerland,Italy	fr,ch,it	Documentary	movie	fr	French	7.9	80	Microcosmos	10310	1996
+0119698	Japan	jp	Animation,Adventure,Fantasy	movie	ja	Japanese	8.4	134	Princess Mononoke	302748	1997
+0120802	Canada,Italy,United States,United Kingdom,Austria	ca,it,us,gb,at	Drama,Music,Mystery,Romance	movie	fr,en,cmn,it,de	French,English,Mandarin,Italian,German	7.6	130	The Red Violin	30339	1998
+0163180	France,Germany,Netherlands	fr,de,nl	Biography,Drama,History	movie	fr	French	6.4	103	Rembrandt	328	1999
+0252440	West Germany	xwg	Comedy,Music	tv movie	de	German	8.8	156	Die Fledermaus	55	1986
+0254376	West Germany	xwg	Music	movie	de	German		132	Haydn: Die Schöpfung		1986
+0299478	Sweden,Denmark,Norway,Italy,Finland,Germany,Austria	se,dk,no,it,fi,de,at	Drama,Music	tv movie	sv,en,de	Swedish,English,German	7.7	107	Saraband	6578	2003
+0322674	Netherlands,Luxembourg	nl,lu	Drama,Romance,War	movie	nl,de,en,fr	Dutch,German,English,French	7.4	137	Twin Sisters	6229	2002
+0349116	Russia,France	ru,fr	Drama	movie	ru	Russian	7.4	97	Babusya	541	2003
+0372824	France,Switzerland,Germany	fr,ch,de	Drama,Music	movie	fr	French	7.9	97	The Chorus	53498	2004
+0398883	Italy	it	Crime,Drama,Romance	movie	it	Italian	7.5	100	The Consequences of Love	13720	2004
+0405094	Germany	de	Drama,Thriller	movie	de	German	8.4	137	The Lives of Others	330405	2006
+0770828	United States,United Kingdom	us,gb	Action,Adventure,Sci-Fi	movie	en	English	7.1	143	Man of Steel	657455	2013
+0953318	Belgium,Netherlands	be,nl	Drama,Thriller	movie	qbn,nl	Flemish,Dutch	7.4	93	Ben X	17900	2007
+0996931	Austria	at	Music	tv movie	it	Italian	8.6		L'elisir d'amore	56	2005
+1082009	France,Germany	fr,de	Drama	movie	fr,en	French,English	6.9	97	Queen to Play	2513	2009
+1149968	Germany	de	Short	movie	de	German	5.0	20	Germanen gegen Pharaonen	5	1939
+1167600	Germany	de	Drama,War	tv movie	de	German	6.7	100	The Miracle of Berlin	442	2008
+1355623	France	fr	Fantasy	movie	fr	French	6.3	80	Bluebeard	1185	2009
+1455151	France	fr	Comedy,Drama	movie	fr,qbn	French,Flemish	7.2	82	My Afternoons with Margueritte	6386	2010
+1590013	Sweden,Norway	se,no	Biography,Drama	movie	sv	Swedish	6.1	126	The Last Sentence	600	2012
+1996308144											
+1996308219											
+2178941	Germany	de	Drama	movie	de	German	7.1	105	Barbara	11596	2012
+2207050	France	fr	Comedy,Drama	movie	fr,it	French,Italian	6.6	104	Bicycling with Molière	2570	2013
+2289526	France	fr	Drama	movie	fr	French	6.3	95	Going Away	748	2013
+2544766	Netherlands	nl	Action,Adventure,Biography,Drama,History	movie	nl,en,fr	Dutch,English,French	7.0	151	Admiral	8201	2015
+2764784	Germany,Poland	de,pl	Drama,History,Music,Romance	movie	de,en	German,English	7.3	98	Phoenix	15072	2014
+2790236	Germany,Austria,Switzerland	de,at,ch	Drama,History,Romance	movie	de,fr	German,French	6.1	138	Beloved Sisters	1301	2014
+2961332	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.1	44	Whiskey Tango Foxtrot	585	2013
+3106866	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	8.6	44	Past, Present, and Future	667	2013
+3118320	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	7.5	40	Under the Radar	441	2013
+3166472	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	7.8	44	Anonymous Was a Woman	471	2013
+3204144	France	fr	Comedy,Romance	movie	fr	French	6.6	98	Love at First Fight	4776	2014
+3218368	Netherlands,Belgium	nl,be	Drama	movie	nl	Dutch	6.8	94	Confetti Harvest	462	2014
+3219082	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	7.6	43	Once a Crook	417	2013
+3219088	United States	us	Action,Crime,Drama,Mystery,Thriller	episode	en	English	7.4	41	Oil and Water	424	2013
+3700392	Germany,Switzerland,South Africa	de,ch,za	Adventure,Drama,Family	movie	de,gsw,af	German,Swiss German,Afrikaans	7.4	111	Heidi	3781	2015
+3871798	Poland	pl	Comedy,Drama,History	movie	pl	Polish	5.7	104	Obywatel	460	2014
+3892822	Belgium	be	Drama	movie	nl	Dutch	6.8	98	Café Derby	430	2015
