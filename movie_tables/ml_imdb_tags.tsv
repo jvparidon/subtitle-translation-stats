@@ -1,380 +1,380 @@
 imdb key	countries	country codes	genres	kind	language codes	languages	rating	runtimes	title	votes	year
-0015648	Soviet Union	suhh	Drama,History,Thriller	movie	ru	Russian	8.0	75	Battleship Potemkin	49193	1925
-0032553	United States	us	Comedy,Drama,War	movie	en,eo	English,Esperanto	8.5	125	The Great Dictator	186463	1940
-0034583	United States	us	Drama,Romance,War	movie	en,fr,de,it	English,French,German,Italian	8.5	102	Casablanca	487446	1942
-0040522	Italy	it	Drama	movie	it,en	Italian,English	8.3	89	Bicycle Thieves	132056	1948
-0042876	Japan	jp	Crime,Drama,Mystery	movie	ja	Japanese	8.2	88	Rashomon	139372	1950
+0015648	Soviet Union	suhh	Drama,History,Thriller	movie	ru	Russian	8.0	75	Battleship Potemkin	49208	1925
+0032553	United States	us	Comedy,Drama,War	movie	en,eo	English,Esperanto	8.5	125	The Great Dictator	186509	1940
+0034583	United States	us	Drama,Romance,War	movie	en,fr,de,it	English,French,German,Italian	8.5	102	Casablanca	487540	1942
+0040522	Italy	it	Drama	movie	it,en	Italian,English	8.3	89	Bicycle Thieves	132097	1948
+0042876	Japan	jp	Crime,Drama,Mystery	movie	ja	Japanese	8.2	88	Rashomon	139430	1950
 0044905	United States	us	Drama	movie	en	English	6.8	102	The Miracle of Our Lady of Fatima	934	1952
-0046268	France,Italy	fr,it	Adventure,Drama,Thriller	movie	fr,en,es,de,it,ru	French,English,Spanish,German,Italian,Russian	8.1	131	The Wages of Fear	49672	1953
-0046912	United States	us	Crime,Thriller	movie	en	English	8.2	105	Dial M for Murder	144229	1954
-0047478	Japan	jp	Adventure,Drama	movie	ja	Japanese	8.6	207	Seven Samurai	291956	1954
-0047528	Italy	it	Drama	movie	it	Italian	8.0	108	La Strada	54084	1954
-0048021	France	fr	Crime,Thriller	movie	fr,it,en	French,Italian,English	8.2	118	Rififi	23534	1955
-0048434	France	fr	Documentary,Short,History,War	movie	fr	French	8.6	32	Night and Fog	15903	1956
-0048473	India	in	Drama	movie	bn	Bengali	8.6	125	Pather Panchali	19958	1955
-0048956	India	in	Drama	movie	bn,en	Bengali,English	8.3	110	Aparajito	9946	1956
-0050083	United States	us	Drama	movie	en	English	8.9	96	12 Angry Men	616967	1957
-0050976	Sweden	se	Drama,Fantasy	movie	sv,la	Swedish,Latin	8.2	96	The Seventh Seal	147764	1957
-0050986	Sweden	se	Drama,Romance	movie	sv,la	Swedish,Latin	8.2	91	Wild Strawberries	86629	1957
-0052027	United States	us	Adventure,Drama	movie	en	English	7.0	86	The Old Man and the Sea	6570	1958
-0052080	Poland	pl	Drama,Romance,War	movie	pl	Polish	7.9	103	Ashes and Diamonds	9531	1958
-0052572	India	in	Drama	movie	bn,en	Bengali,English	8.5	105	The World of Apu	10210	1959
-0052618	United States	us	Adventure,Drama,History	movie	en	English	8.1	212	Ben-Hur	205484	1959
-0052893	France,Japan	fr,jp	Drama,Romance	movie	fr,ja,en	French,Japanese,English	7.9	90	Hiroshima Mon Amour	25545	1959
-0053168	France	fr	Crime,Drama	movie	fr	French	7.7	76	Pickpocket	17567	1959
-0053198	France	fr	Crime,Drama	movie	fr,en	French,English	8.1	99	The 400 Blows	94836	1959
-0053472	France	fr	Crime,Drama	movie	fr,en	French,English	7.9	90	Breathless	66351	1960
-0054215	United States	us	Horror,Mystery,Thriller	movie	en	English	8.5	109	Psycho	554844	1960
-0054632	France,Italy	fr,it	Drama,Mystery	movie	fr	French	7.8	94	Last Year at Marienbad	18476	1961
-0055031	United States	us	Drama,War	movie	en,de	English,German	8.2	179	Judgment at Nuremberg	63473	1961
-0056111	Soviet Union	suhh	Drama,War	movie	ru,de	Russian,German	8.1	95	Ivan's Childhood	27383	1962
+0046268	France,Italy	fr,it	Adventure,Drama,Thriller	movie	fr,en,es,de,it,ru	French,English,Spanish,German,Italian,Russian	8.1	131	The Wages of Fear	49693	1953
+0046912	United States	us	Crime,Thriller	movie	en	English	8.2	105	Dial M for Murder	144271	1954
+0047478	Japan	jp	Action,Adventure,Drama	movie	ja	Japanese	8.6	207	Seven Samurai	292037	1954
+0047528	Italy	it	Drama	movie	it	Italian	8.0	108	La Strada	54094	1954
+0048021	France	fr	Crime,Thriller	movie	fr,it,en	French,Italian,English	8.2	118	Rififi	23544	1955
+0048434	France	fr	Documentary,Short,History,War	movie	fr	French	8.6	32	Night and Fog	15905	1956
+0048473	India	in	Drama	movie	bn	Bengali	8.6	125	Pather Panchali	19962	1955
+0048956	India	in	Drama	movie	bn,en	Bengali,English	8.3	110	Aparajito	9950	1956
+0050083	United States	us	Drama	movie	en	English	8.9	96	12 Angry Men	617176	1957
+0050976	Sweden	se	Drama,Fantasy	movie	sv,la	Swedish,Latin	8.2	96	The Seventh Seal	147796	1957
+0050986	Sweden	se	Drama,Romance	movie	sv,la	Swedish,Latin	8.2	91	Wild Strawberries	86650	1957
+0052027	United States	us	Adventure,Drama	movie	en	English	7.0	86	The Old Man and the Sea	6571	1958
+0052080	Poland	pl	Drama,Romance,War	movie	pl	Polish	7.8	103	Ashes and Diamonds	9532	1958
+0052572	India	in	Drama	movie	bn,en	Bengali,English	8.5	105	The World of Apu	10214	1959
+0052618	United States	us	Adventure,Drama,History	movie	en	English	8.1	212	Ben-Hur	205526	1959
+0052893	France,Japan	fr,jp	Drama,Romance	movie	fr,ja,en	French,Japanese,English	7.9	90	Hiroshima Mon Amour	25551	1959
+0053168	France	fr	Crime,Drama	movie	fr	French	7.7	76	Pickpocket	17576	1959
+0053198	France	fr	Crime,Drama	movie	fr,en	French,English	8.1	99	The 400 Blows	94864	1959
+0053472	France	fr	Crime,Drama	movie	fr,en	French,English	7.9	90	Breathless	66381	1960
+0054215	United States	us	Horror,Mystery,Thriller	movie	en	English	8.5	109	Psycho	554985	1960
+0054632	France,Italy	fr,it	Drama,Mystery	movie	fr	French	7.8	94	Last Year at Marienbad	18483	1961
+0055031	United States	us	Drama,War	movie	en,de	English,German	8.2	179	Judgment at Nuremberg	63495	1961
+0056111	Soviet Union	suhh	Drama,War	movie	ru,de	Russian,German	8.1	95	Ivan's Childhood	27393	1962
 0056160	Hungary	hu	Drama,Sport,War	movie	hu,de	Hungarian,German	8.1	140	Two Half-Times in Hell	867	1961
-0056291	Poland	pl	Drama,Thriller	movie	pl	Polish	7.5	94	Knife in the Water	18328	1962
-0057611	Sweden	se	Drama	movie	sv,en,de,fr,es	Swedish,English,German,French,Spanish	7.9	96	The Silence	16131	1963
-0058461	Italy,Spain,West Germany	it,es,xwg	Drama,Western	movie	it,es	Italian,Spanish	8.0	99	A Fistful of Dollars	182315	1964
-0058625	Japan	jp	Drama,Thriller	movie	ja	Japanese	8.5	123	Woman in the Dunes	15357	1964
-0058946	Italy,Algeria	it,dz	Drama,War	movie	fr,ar,en	French,Arabic,English	8.1	121	The Battle of Algiers	48320	1966
-0059113	United States,Italy,United Kingdom,Liechtenstein	us,it,gb,li	Drama,Romance,War	movie	en,ru,fr	English,Russian,French	8.0	197	Doctor Zhivago	65537	1965
-0059578	Italy,Spain,West Germany	it,es,xwg	Western	movie	it,en	Italian,English	8.3	132	For a Few Dollars More	212944	1965
+0056291	Poland	pl	Drama,Thriller	movie	pl	Polish	7.5	94	Knife in the Water	18331	1962
+0057611	Sweden	se	Drama	movie	sv,en,de,fr,es	Swedish,English,German,French,Spanish	7.9	96	The Silence	16134	1963
+0058461	Italy,Spain,West Germany	it,es,xwg	Drama,Western	movie	it,es	Italian,Spanish	8.0	99	A Fistful of Dollars	182363	1964
+0058625	Japan	jp	Drama,Thriller	movie	ja	Japanese	8.5	123	Woman in the Dunes	15363	1964
+0058946	Italy,Algeria	it,dz	Drama,War	movie	fr,ar,en	French,Arabic,English	8.1	121	The Battle of Algiers	48346	1966
+0059113	United States,Italy,United Kingdom,Liechtenstein	us,it,gb,li	Drama,Romance,War	movie	en,ru,fr	English,Russian,French	8.0	197	Doctor Zhivago	65554	1965
+0059578	Italy,Spain,West Germany	it,es,xwg	Western	movie	it,en	Italian,English	8.3	132	For a Few Dollars More	213002	1965
 0059776	Hungary	hu	Drama,History,War,Western	movie	hu	Hungarian	7.7	90	The Round-Up	2275	1966
-0060138	France,Sweden	fr,se	Drama	movie	fr,la	French,Latin	7.9	95	Au Hasard Balthazar	15796	1966
-0060196	Italy,Spain,West Germany	it,es,xwg	Western	movie	it,en,es	Italian,English,Spanish	8.8	161	The Good, the Bad and the Ugly	640442	1966
-0060802	Czechoslovakia	cshh	Comedy,Drama,Romance,War	movie	cs,de	Czech,German	7.7	92	Closely Watched Trains	10355	1966
-0060827	Sweden	se	Drama,Thriller	movie	sv,en	Swedish,English	8.1	85	Persona	90278	1966
-0062622	United Kingdom,United States	gb,us	Adventure,Sci-Fi	movie	en,ru	English,Russian	8.3	149	2001: A Space Odyssey	557784	1968
-0064116	Italy,United States	it,us	Western	movie	it,es	Italian,Spanish	8.5	165	Once Upon a Time in the West	278994	1968
-0065234	France,Algeria	fr,dz	Crime,Drama,History,Thriller	movie	fr,ru,en	French,Russian,English	8.3	127	Z	21855	1969
-0065531	France,Italy	fr,it	Crime,Drama,Thriller	movie	fr	French	8.0	140	Le Cercle Rouge	19711	1970
-0068182	West Germany,Mexico,Peru	xwg,mx,pe	Action,Adventure,Biography,Drama,History	movie	en,qu,es,de	English,Quechua,Spanish,German	8.0	95	Aguirre, the Wrath of God	47938	1972
-0068646	United States	us	Crime,Drama	movie	en,it,la	English,Italian,Latin	9.2	175	The Godfather	1481124	1972
-0069467	Sweden	se	Drama	movie	sv,de,da	Swedish,German,Danish	8.1	91	Cries & Whispers	26717	1972
-0071562	United States	us	Crime,Drama	movie	en,it,es,la,scn	English,Italian,Spanish,Latin,Sicilian	9.0	202	The Godfather: Part II	1031239	1974
-0072241	Hungary	hu	Drama	movie	hu	Hungarian	7.0	70	Electra, My Love	574	1974
-0074896	Lebanon,Libya,Kuwait,Morocco,United Kingdom,Saudi Arabia	lb,ly,kw,ma,gb,sa	Biography,Drama,History,War	movie	en,ar	English,Arabic	8.2	177	The Message	40849	1976
-0075314	United States	us	Crime,Drama	movie	en,es	English,Spanish	8.3	114	Taxi Driver	660604	1976
+0060138	France,Sweden	fr,se	Drama	movie	fr,la	French,Latin	7.9	95	Au Hasard Balthazar	15797	1966
+0060196	Italy,Spain,West Germany	it,es,xwg	Western	movie	it,en,es	Italian,English,Spanish	8.8	161	The Good, the Bad and the Ugly	640590	1966
+0060802	Czechoslovakia	cshh	Comedy,Drama,Romance,War	movie	cs,de	Czech,German	7.7	92	Closely Watched Trains	10360	1966
+0060827	Sweden	se	Drama,Thriller	movie	sv,en	Swedish,English	8.1	85	Persona	90314	1966
+0062622	United Kingdom,United States	gb,us	Adventure,Sci-Fi	movie	en,ru	English,Russian	8.3	149	2001: A Space Odyssey	557938	1968
+0064116	Italy,United States	it,us	Western	movie	it,es	Italian,Spanish	8.5	165	Once Upon a Time in the West	279068	1968
+0065234	France,Algeria	fr,dz	Crime,Drama,History,Thriller	movie	fr,ru,en	French,Russian,English	8.3	127	Z	21860	1969
+0065531	France,Italy	fr,it	Crime,Drama,Thriller	movie	fr	French	8.0	140	Le Cercle Rouge	19715	1970
+0068182	West Germany,Mexico,Peru	xwg,mx,pe	Action,Adventure,Biography,Drama,History	movie	en,qu,es,de	English,Quechua,Spanish,German	8.0	95	Aguirre, the Wrath of God	47955	1972
+0068646	United States	us	Crime,Drama	movie	en,it,la	English,Italian,Latin	9.2	175	The Godfather	1481532	1972
+0069467	Sweden	se	Drama	movie	sv,de,da	Swedish,German,Danish	8.1	91	Cries & Whispers	26728	1972
+0071562	United States	us	Crime,Drama	movie	en,it,es,la,scn	English,Italian,Spanish,Latin,Sicilian	9.0	202	The Godfather: Part II	1031541	1974
+0072241	Hungary	hu	Drama	movie	hu	Hungarian	7.0	70	Electra, My Love	575	1974
+0074896	Lebanon,Libya,Kuwait,Morocco,United Kingdom,Saudi Arabia	lb,ly,kw,ma,gb,sa	Biography,Drama,History,War	movie	en,ar	English,Arabic	8.2	177	The Message	40865	1976
+0075314	United States	us	Crime,Drama	movie	en,es	English,Spanish	8.3	114	Taxi Driver	660829	1976
 0078763	Poland	pl	Comedy,Drama,Romance	movie	pl	Polish	7.9	112	Camera Buff	5538	1979
-0078788	United States	us	Drama,Mystery,War	movie	en,fr,vi	English,French,Vietnamese	8.4	147	Apocalypse Now	562888	1979
-0078875	West Germany,France,Poland,Yugoslavia	xwg,fr,pl,xyu	Drama,War	movie	de,it,he,pl,ru,la	German,Italian,Hebrew,Polish,Russian,Latin	7.5	142	The Tin Drum	20868	1979
-0079116	United States	us	Biography,Crime,Drama,Thriller	movie	en	English	7.6	112	Escape from Alcatraz	107358	1979
+0078788	United States	us	Drama,Mystery,War	movie	en,fr,vi	English,French,Vietnamese	8.4	147	Apocalypse Now	563019	1979
+0078875	West Germany,France,Poland,Yugoslavia	xwg,fr,pl,xyu	Drama,War	movie	de,it,he,pl,ru,la	German,Italian,Hebrew,Polish,Russian,Latin	7.5	142	The Tin Drum	20876	1979
+0079116	United States	us	Biography,Crime,Drama,Thriller	movie	en	English	7.6	112	Escape from Alcatraz	107388	1979
 0081059	Libya,United States	ly,us	Biography,Drama,History,War	movie	ar,it,en	Arabic,Italian,English	8.4	173	Lion of the Desert	12846	1980
-0082971	United States	us	Action,Adventure	movie	en,de,he,es,ar,ne	English,German,Hebrew,Spanish,Arabic,Nepali	8.4	115	Raiders of the Lost Ark	830375	1981
-0083987	United Kingdom,India	gb,in	Biography,Drama,History	movie	en	English	8.0	191	Gandhi	209887	1982
+0082971	United States	us	Action,Adventure	movie	en,de,he,es,ar,ne	English,German,Hebrew,Spanish,Arabic,Nepali	8.4	115	Raiders of the Lost Ark	830504	1981
+0083987	United Kingdom,India	gb,in	Biography,Drama,History	movie	en	English	8.0	191	Gandhi	209904	1982
 0084549	Poland	pl	Drama	movie	pl	Polish	7.9	114	Blind Chance	7430	1987
-0084934	Turkey,Switzerland,France	tr,ch,fr	Drama	movie	tr,ku	Turkish,Kurdish	8.2	114	Yol	11288	1982
-0087469	United States	us	Action,Adventure	movie	en,si,hi	English,Sinhalese,Hindi	7.6	118	Indiana Jones and the Temple of Doom	415971	1984
-0089960	France	fr	Drama,Romance	movie	fr,ar,en	French,Arabic,English	7.7	105	Vagabond	7340	1985
-0092337	Poland,West Germany	pl,xwg	Drama	tv mini series	pl	Polish	9.0	572	Dekalog	19267	1989
-0092651	Iran	ir	Drama	movie	fa	Persian	7.3	82	The Cyclist	1704	1989
-0093342	Iran	ir	Drama,Family	movie	fa	Persian	8.1	83	Where Is the Friend's House?	8324	1987
-0093389	United Kingdom,Italy,China,France	gb,it,cn,fr	Biography,Drama,History	movie	en,cmn,ja	English,Mandarin,Japanese	7.7	163	The Last Emperor	86771	1987
-0094675	Finland	fi	Comedy,Crime,Romance	movie	fi	Finnish	7.5	72	Ariel	5537	1988
-0094716	United States	us	Adventure,Drama,War	movie	en,ps	English,Pushto	7.3	111	The Beast of War	8248	1988
-0095327	Japan	jp	Animation,Drama,War	movie	ja	Japanese	8.5	89	Grave of the Fireflies	205712	1988
-0095467	Poland	pl	Drama,Romance	movie	pl,pt	Polish,Portuguese	8.2	87	A Short Film About Love	17220	1988
-0095468	Poland	pl	Crime,Drama	movie	pl	Polish	8.1	84	A Short Film About Killing	15259	1988
-0095497	Canada,United States	ca,us	Drama	movie	en	English	7.6	164	The Last Temptation of Christ	47586	1988
-0095765	Italy,France	it,fr	Drama	movie	it	Italian	8.5	155	Cinema Paradiso	208338	1988
-0097576	United States	us	Action,Adventure	movie	en,de,el,ar	English,German,Greek,Arabic	8.2	127	Indiana Jones and the Last Crusade	648474	1989
-0098532	Finland,Sweden	fi,se	Drama,Comedy	movie	fi	Finnish	7.6	69	The Match Factory Girl	8128	1990
-0100998	Japan,United States	jp,us	Drama,Fantasy	movie	ja,fr,en	Japanese,French,English	7.8	119	Dreams	22146	1990
-0101765	France,Poland,Norway	fr,pl,no	Drama,Fantasy,Music,Mystery,Romance	movie	fr,pl,it	French,Polish,Italian	7.8	98	The Double Life of Véronique	37611	1991
+0084934	Turkey,Switzerland,France	tr,ch,fr	Drama	movie	tr,ku	Turkish,Kurdish	8.2	114	Yol	11291	1982
+0087469	United States	us	Action,Adventure	movie	en,si,hi	English,Sinhalese,Hindi	7.6	118	Indiana Jones and the Temple of Doom	416072	1984
+0089960	France	fr	Drama,Romance	movie	fr,ar,en	French,Arabic,English	7.7	105	Vagabond	7345	1985
+0092337	Poland,West Germany	pl,xwg	Drama	tv mini series	pl	Polish	9.0	572	Dekalog	19275	1989
+0092651	Iran	ir	Drama	movie	fa	Persian	7.3	82	The Cyclist	1705	1989
+0093342	Iran	ir	Drama,Family	movie	fa	Persian	8.1	83	Where Is the Friend's House?	8331	1987
+0093389	United Kingdom,Italy,China,France	gb,it,cn,fr	Biography,Drama,History	movie	en,cmn,ja	English,Mandarin,Japanese	7.7	163	The Last Emperor	86797	1987
+0094675	Finland	fi	Comedy,Crime,Romance	movie	fi	Finnish	7.5	72	Ariel	5538	1988
+0094716	United States	us	Adventure,Drama,War	movie	en,ps	English,Pushto	7.3	111	The Beast of War	8249	1988
+0095327	Japan	jp	Animation,Drama,War	movie	ja	Japanese	8.5	89	Grave of the Fireflies	205788	1988
+0095467	Poland	pl	Drama,Romance	movie	pl,pt	Polish,Portuguese	8.2	87	A Short Film About Love	17223	1988
+0095468	Poland	pl	Crime,Drama	movie	pl	Polish	8.1	84	A Short Film About Killing	15264	1988
+0095497	Canada,United States	ca,us	Drama	movie	en	English	7.6	164	The Last Temptation of Christ	47604	1988
+0095765	Italy,France	it,fr	Drama	movie	it	Italian	8.5	155	Cinema Paradiso	208382	1988
+0097576	United States	us	Action,Adventure	movie	en,de,el,ar	English,German,Greek,Arabic	8.2	127	Indiana Jones and the Last Crusade	648593	1989
+0098532	Finland,Sweden	fi,se	Drama,Comedy	movie	fi	Finnish	7.6	69	The Match Factory Girl	8129	1990
+0100998	Japan,United States	jp,us	Drama,Fantasy	movie	ja,fr,en	Japanese,French,English	7.8	119	Dreams	22148	1990
+0101765	France,Poland,Norway	fr,pl,no	Drama,Fantasy,Music,Mystery,Romance	movie	fr,pl,it	French,Polish,Italian	7.8	98	The Double Life of Véronique	37629	1991
 0101991	Japan	jp	Drama	movie	ja	Japanese	7.2	98	Rhapsody in August	5798	1991
-0102050	France,Germany,Greece,United Kingdom	fr,de,gr,gb	Drama,Romance	movie	de,en,es,fr,el	German,English,Spanish,French,Greek	6.7	117	Voyager	2813	1991
-0102926	United States	us	Crime,Drama,Thriller	movie	en,la	English,Latin	8.6	118	The Silence of the Lambs	1168957	1991
-0103064	United States	us	Action,Sci-Fi	movie	en,es	English,Spanish	8.5	137	Terminator 2: Judgment Day	933656	1991
-0103874	United States	us	Horror	movie	en,ro,el,bg,la	English,Romanian,Greek,Bulgarian,Latin	7.4	128	Bram Stoker's Dracula	178079	1992
-0108052	United States	us	Biography,Drama,History	movie	en,he,de,pl	English,Hebrew,German,Polish	8.9	195	Schindler's List	1119410	1993
-0108394	France,Poland,Switzerland	fr,pl,ch	Drama,Music,Mystery,Romance	movie	fr,ro,pl	French,Romanian,Polish	7.9	98	Three Colors: Blue	80374	1993
-0109830	United States	us	Drama,Romance	movie	en	English	8.8	142	Forrest Gump	1661336	1994
-0110413	France	fr	Action,Crime,Drama,Thriller	movie	en,it,fr	English,Italian,French	8.5	110	Léon: The Professional	954536	1994
-0110912	United States	us	Crime,Drama	movie	en,es,fr	English,Spanish,French	8.9	154	Pulp Fiction	1693877	1994
-0111161	United States	us	Drama	movie	en	English	9.3	142	The Shawshank Redemption	2158253	1994
-0111495	Switzerland,France,Poland	ch,fr,pl	Drama,Mystery,Romance	movie	fr	French	8.1	99	Three Colors: Red	82289	1994
-0111507	Switzerland,France,Poland	ch,fr,pl	Comedy,Drama,Romance	movie	pl,fr,en	Polish,French,English	7.7	92	Three Colors: White	57351	1994
-0112573	United States	us	Biography,Drama,History,War	movie	en,fr,la,gd,it	English,French,Latin,Scottish Gaelic,Italian	8.3	178	Braveheart	908564	1995
-0114369	United States	us	Crime,Drama,Mystery,Thriller	movie	en	English	8.6	127	Se7en	1326413	1995
-0114814	United States,Germany	us,de	Crime,Mystery,Thriller	movie	en,hu,es,fr	English,Hungarian,Spanish,French	8.5	106	The Usual Suspects	927943	1995
-0116282	United States,United Kingdom	us,gb	Crime,Drama,Thriller	movie	en	English	8.1	98	Fargo	574053	1996
+0102050	France,Germany,Greece,United Kingdom	fr,de,gr,gb	Drama,Romance	movie	de,en,es,fr,el	German,English,Spanish,French,Greek	6.7	117	Voyager	2814	1991
+0102926	United States	us	Crime,Drama,Thriller	movie	en,la	English,Latin	8.6	118	The Silence of the Lambs	1169256	1991
+0103064	United States	us	Action,Sci-Fi	movie	en,es	English,Spanish	8.5	137	Terminator 2: Judgment Day	934060	1991
+0103874	United States	us	Horror	movie	en,ro,el,bg,la	English,Romanian,Greek,Bulgarian,Latin	7.4	128	Bram Stoker's Dracula	178116	1992
+0108052	United States	us	Biography,Drama,History	movie	en,he,de,pl	English,Hebrew,German,Polish	8.9	195	Schindler's List	1119711	1993
+0108394	France,Poland,Switzerland	fr,pl,ch	Drama,Music,Mystery,Romance	movie	fr,ro,pl	French,Romanian,Polish	7.9	98	Three Colors: Blue	80398	1993
+0109830	United States	us	Drama,Romance	movie	en	English	8.8	142	Forrest Gump	1661788	1994
+0110413	France	fr	Action,Crime,Drama,Thriller	movie	en,it,fr	English,Italian,French	8.5	110	Léon: The Professional	954778	1994
+0110912	United States	us	Crime,Drama	movie	en,es,fr	English,Spanish,French	8.9	154	Pulp Fiction	1694336	1994
+0111161	United States	us	Drama	movie	en	English	9.3	142	The Shawshank Redemption	2158794	1994
+0111495	Switzerland,France,Poland	ch,fr,pl	Drama,Mystery,Romance	movie	fr	French	8.1	99	Three Colors: Red	82311	1994
+0111507	Switzerland,France,Poland	ch,fr,pl	Comedy,Drama,Romance	movie	pl,fr,en	Polish,French,English	7.7	92	Three Colors: White	57378	1994
+0112573	United States	us	Biography,Drama,History,War	movie	en,fr,la,gd,it	English,French,Latin,Scottish Gaelic,Italian	8.3	178	Braveheart	908695	1995
+0114369	United States	us	Crime,Drama,Mystery,Thriller	movie	en	English	8.6	127	Se7en	1326760	1995
+0114814	United States,Germany	us,de	Crime,Mystery,Thriller	movie	en,hu,es,fr	English,Hungarian,Spanish,French	8.5	106	The Usual Suspects	928128	1995
+0116282	United States,United Kingdom	us,gb	Crime,Drama,Thriller	movie	en	English	8.1	98	Fargo	574161	1996
 0117315	Iran	ir	Drama	movie	fa	Persian	7.5	91	The Father	1254	1996
-0118694	Hong Kong,China	hk,cn	Drama,Romance	movie	yue,qad,fr,es	Cantonese,Shanghainese,French,Spanish	8.1	98	In the Mood for Love	109648	2000
-0118799	Italy	it	Comedy,Drama,Romance,War	movie	it,de,en	Italian,German,English	8.6	116	Life Is Beautiful	570251	1997
-0118849	Iran	ir	Drama,Family,Sport	movie	fa	Persian	8.3	89	Children of Heaven	56326	1997
-0120265	Iran,France	ir,fr	Drama	movie	fa	Persian	7.7	95	Taste of Cherry	19737	1997
-0120586	United States	us	Drama	movie	en	English	8.5	119	American History X	973124	1998
-0120689	United States	us	Crime,Drama,Fantasy,Mystery	movie	en,fr	English,French	8.6	189	The Green Mile	1049271	1999
-0120737	New Zealand,United States	nz,us	Adventure,Drama,Fantasy	movie	en,sjn	English,Sindarin	8.8	178	The Lord of the Rings: The Fellowship of the Ring	1547915	2001
-0130827	Germany	de	Crime,Drama,Thriller	movie	de,en,ja	German,English,Japanese	7.7	81	Run Lola Run	181170	1998
-0133093	United States	us	Action,Sci-Fi	movie	en	English	8.7	136	The Matrix	1553172	1999
-0137523	United States,Germany	us,de	Drama	movie	en	English	8.8	139	Fight Club	1724248	1999
-0156794	France,Italy,Greece,Germany	fr,it,gr,de	Drama	movie	el,en,it	Greek,English,Italian	7.9	137	Eternity and a Day	9056	1998
-0168629	Denmark,Germany,Netherlands,Italy,United States,United Kingdom,France,Sweden,Finland,Iceland,Argentina,Norway,Taiwan,Belgium	dk,de,nl,it,us,gb,fr,se,fi,is,ar,no,tw,be	Crime,Drama,Musical	movie	en,de,cs	English,German,Czech	8.0	140	Dancer in the Dark	95521	2000
-0177858	Germany	de	Adventure,Comedy,Romance	movie	de,en,tr,bg,qbo,ro	German,English,Turkish,Bulgarian,Serbo-Croatian,Romanian	7.7	99	In July	19845	2000
-0185125	Spain,France	es,fr	Drama	movie	es,ca	Spanish,Catalan	7.8	101	All About My Mother	82698	1999
-0191043	Iran	ir	Drama,Family	movie	fa,az	Persian,Azerbaijani	8.2	90	The Color of Paradise	14413	1999
-0196811	Brazil	br	Biography,Drama,History,Romance,War	movie	pt,de	Portuguese,German	6.5	141	Olga	2920	2004
-0199683	Japan	jp	Drama,Comedy	movie	ja	Japanese	7.8	122	Kikujiro	17283	1999
-0209144	United States	us	Mystery,Thriller	movie	en	English	8.4	113	Memento	1052311	2000
-0213847	Italy,United States	it,us	Comedy,Drama,Romance,War	movie	it,en,la,grc	Italian,English,Latin,Greek, Ancient (to 1453)	7.5	108	Malena	82304	2000
-0215750	Ireland,United Kingdom,France,Germany,United States	ie,gb,fr,de,us	Drama,History,War	movie	en,de,ru	English,German,Russian	7.6	131	Enemy at the Gates	228734	2001
-0230600	Spain,United States,France,Italy	es,us,fr,it	Horror,Mystery,Thriller	movie	en,fr	English,French	7.6	101	The Others	319443	2001
+0118694	Hong Kong,China	hk,cn	Drama,Romance	movie	yue,qad,fr,es	Cantonese,Shanghainese,French,Spanish	8.1	98	In the Mood for Love	109692	2000
+0118799	Italy	it	Comedy,Drama,Romance,War	movie	it,de,en	Italian,German,English	8.6	116	Life Is Beautiful	570409	1997
+0118849	Iran	ir	Drama,Family,Sport	movie	fa	Persian	8.3	89	Children of Heaven	56355	1997
+0120265	Iran,France	ir,fr	Drama	movie	fa	Persian	7.7	95	Taste of Cherry	19740	1997
+0120586	United States	us	Drama	movie	en	English	8.5	119	American History X	973380	1998
+0120689	United States	us	Crime,Drama,Fantasy,Mystery	movie	en,fr	English,French	8.6	189	The Green Mile	1049565	1999
+0120737	New Zealand,United States	nz,us	Adventure,Drama,Fantasy	movie	en,sjn	English,Sindarin	8.8	178	The Lord of the Rings: The Fellowship of the Ring	1548267	2001
+0130827	Germany	de	Crime,Drama,Thriller	movie	de,en,ja	German,English,Japanese	7.7	81	Run Lola Run	181198	1998
+0133093	United States	us	Action,Sci-Fi	movie	en	English	8.7	136	The Matrix	1553566	1999
+0137523	United States,Germany	us,de	Drama	movie	en	English	8.8	139	Fight Club	1724678	1999
+0156794	France,Italy,Greece,Germany	fr,it,gr,de	Drama	movie	el,en,it	Greek,English,Italian	7.9	137	Eternity and a Day	9059	1998
+0168629	Denmark,Germany,Netherlands,Italy,United States,United Kingdom,France,Sweden,Finland,Iceland,Argentina,Norway,Taiwan,Belgium	dk,de,nl,it,us,gb,fr,se,fi,is,ar,no,tw,be	Crime,Drama,Musical	movie	en,de,cs	English,German,Czech	8.0	140	Dancer in the Dark	95543	2000
+0177858	Germany	de	Adventure,Comedy,Romance	movie	de,en,tr,bg,qbo,ro	German,English,Turkish,Bulgarian,Serbo-Croatian,Romanian	7.7	99	In July	19847	2000
+0185125	Spain,France	es,fr	Drama	movie	es,ca	Spanish,Catalan	7.8	101	All About My Mother	82712	1999
+0191043	Iran	ir	Drama,Family	movie	fa,az	Persian,Azerbaijani	8.2	90	The Color of Paradise	14416	1999
+0196811	Brazil	br	Biography,Drama,History,Romance,War	movie	pt,de	Portuguese,German	6.5	141	Olga	2921	2004
+0199683	Japan	jp	Drama,Comedy	movie	ja	Japanese	7.8	122	Kikujiro	17288	1999
+0209144	United States	us	Mystery,Thriller	movie	en	English	8.4	113	Memento	1052492	2000
+0213847	Italy,United States	it,us	Comedy,Drama,Romance,War	movie	it,en,la,grc	Italian,English,Latin,Greek, Ancient (to 1453)	7.5	108	Malena	82328	2000
+0215750	Ireland,United Kingdom,France,Germany,United States	ie,gb,fr,de,us	Drama,History,War	movie	en,de,ru	English,German,Russian	7.6	131	Enemy at the Gates	228774	2001
+0230600	Spain,United States,France,Italy	es,us,fr,it	Horror,Mystery,Thriller	movie	en,fr	English,French	7.6	101	The Others	319501	2001
 0233841	Iran	ir	Drama,Romance	movie	fa,az	Persian,Azerbaijani	7.8	94	Baran	7396	2001
-0241527	United Kingdom,United States	gb,us	Adventure,Family,Fantasy	movie	en	English	7.6	152	Harry Potter and the Sorcerer's Stone	584276	2001
-0247613	South Korea,Japan	kr,jp	Drama	movie	ko	Korean	7.7	129	Peppermint Candy	6886	1999
-0252444	Australia	au	Adventure,Biography,Drama,History	movie	qac,en	Aboriginal,English	7.4	94	Rabbit-Proof Fence	26300	2002
-0253474	United Kingdom,France,Poland,Germany	gb,fr,pl,de	Biography,Drama,Music,War	movie	en,de,ru	English,German,Russian	8.5	150	The Pianist	664595	2002
-0255589	South Korea	kr	Drama,Thriller	movie	ko	Korean	7.0	90	The Isle	11867	2000
-0266697	United States,Japan	us,jp	Action,Crime,Thriller	movie	en,ja,fr	English,Japanese,French	8.1	111	Kill Bill: Vol. 1	931679	2003
-0278504	United States,United Kingdom	us,gb	Drama,Mystery,Thriller	movie	en	English	7.2	118	Insomnia	257989	2002
-0283509	France,Bosnia and Herzegovina,Italy,Belgium,United Kingdom,Slovenia	fr,ba,it,be,gb,si	Drama,War	movie	bs,fr,en,sr	Bosnian,French,English,Serbian	7.9	98	No Man's Land	42637	2001
-0284815	South Korea	kr	Drama,War	movie	ko,en	Korean,English	7.2	117	Address Unknown	3199	2001
-0295297	United Kingdom,United States,Germany	gb,us,de	Adventure,Family,Fantasy,Mystery	movie	en	English	7.4	161	Harry Potter and the Chamber of Secrets	506001	2002
-0298130	United States	us	Horror,Mystery	movie	en	English	7.1	115	The Ring	303937	2002
-0301357	Germany	de	Comedy,Drama,Romance	movie	de,en,ru	German,English,Russian	7.7	121	Good Bye Lenin!	131054	2003
-0304141	United Kingdom,United States	gb,us	Adventure,Family,Fantasy,Mystery	movie	en	English	7.9	142	Harry Potter and the Prisoner of Azkaban	502644	2004
-0309698	United States	us	Mystery,Thriller	movie	en	English	7.3	90	Identity	213369	2003
-0311519	Finland,Germany,France	fi,de,fr	Comedy,Drama,Romance	movie	fi	Finnish	7.7	97	The Man Without a Past	20753	2002
-0312843	Japan	jp	Crime,Drama,Horror,Mystery,Thriller	movie	ja	Japanese	6.6	99	Suicide Club	17592	2001
-0317248	Brazil,France,Germany	br,fr,de	Crime,Drama	movie	pt	Portuguese	8.6	130	City of God	658856	2002
-0318462	Argentina,United States,Chile,Peru,Brazil,United Kingdom,Germany,France	ar,us,cl,pe,br,gb,de,fr	Adventure,Biography,Drama	movie	es,qu,arn	Spanish,Quechua,Mapudungun	7.8	126	The Motorcycle Diaries	92679	2004
-0330373	United Kingdom,United States	gb,us	Adventure,Family,Fantasy,Mystery	movie	en,fr	English,French	7.7	157	Harry Potter and the Goblet of Fire	501409	2005
-0332452	United States,Malta,United Kingdom	us,mt,gb	Drama,History	movie	en	English	7.2	163	Troy	461370	2004
-0335345	United States	us	Drama	movie	arc,la,he	Aramaic,Latin,Hebrew	7.1	127	The Passion of the Christ	203670	2004
-0338564	Hong Kong	hk	Crime,Drama,Mystery,Thriller	movie	yue,en,th	Cantonese,English,Thai	8.1	101	Infernal Affairs	113012	2002
-0343818	United States,Germany	us,de	Action,Crime,Drama,Mystery,Sci-Fi,Thriller	movie	en	English	7.1	115	I, Robot	473439	2004
-0353969	South Korea	kr	Action,Crime,Drama,Mystery,Thriller	movie	ko,en	Korean,English	8.1	131	Memories of Murder	107637	2003
-0361862	Spain,France,United Kingdom,United States	es,fr,gb,us	Drama,Thriller	movie	en,es	English,Spanish	7.7	101	The Machinist	335922	2004
-0363163	Germany,Austria,Italy	de,at,it	Biography,Drama,History,War	movie	de,ru,hu	German,Russian,Hungarian	8.2	156	Downfall	311940	2004
-0364569	South Korea	kr	Action,Drama,Mystery,Thriller	movie	ko	Korean	8.4	120	Oldboy	472075	2003
-0367882	United States	us	Action,Adventure	movie	en,de,ru	English,German,Russian	6.1	122	Indiana Jones and the Kingdom of the Crystal Skull	400826	2008
-0372784	United States,United Kingdom	us,gb	Action,Adventure	movie	en,ur,cmn	English,Urdu,Mandarin	8.2	140	Batman Begins	1224246	2005
-0374546	South Korea,Germany	kr,de	Drama,Romance	movie	ko	Korean	8.0	103	Spring, Summer, Fall, Winter... and Spring	72353	2003
-0374887	India	in	Comedy,Drama,Musical	movie	hi	Hindi	8.1	156	Munna Bhai M.B.B.S.	67193	2003
-0376968	Russia	ru	Drama	movie	ru	Russian	8.0	110	The Return	39103	2003
-0378194	United States	us	Action,Crime,Thriller	movie	en,yue,cmn,es	English,Cantonese,Mandarin,Spanish	8.0	137	Kill Bill: Vol. 2	635568	2004
-0382625	United States,Malta,France,United Kingdom	us,mt,fr,gb	Mystery,Thriller	movie	en,fr,la,es	English,French,Latin,Spanish	6.6	149	The Da Vinci Code	378921	2006
-0383574	United States	us	Action,Adventure,Fantasy	movie	en,tr,el,cmn,fr	English,Turkish,Greek,Mandarin,French	7.3	151	Pirates of the Caribbean: Dead Man's Chest	623120	2006
-0395169	United Kingdom,South Africa,Italy	gb,za,it	Biography,Drama,History,War	movie	en,fr	English,French	8.1	121	Hotel Rwanda	318478	2004
-0396171	Germany,France,Spain,United States,Czech Republic,Belgium,Netherlands,Luxembourg,Latvia,United Kingdom	de,fr,es,us,cz,be,nl,lu,lv,gb	Crime,Drama	movie	en	English	7.5	147	Perfume: The Story of a Murderer	223384	2006
-0397619	South Korea	kr	Drama	movie	ko	Korean	7.1	95	Samaritan Girl	12538	2004
-0405094	Germany	de	Drama,Thriller	movie	de	German	8.4	137	The Lives of Others	331524	2006
-0405508	India	in	Comedy,Drama	movie	hi,pa,en	Hindi,Punjabi,English	8.2	167	Rang De Basanti	103106	2006
-0414993	Canada,United States	ca,us	Drama,Mystery,Romance,Sci-Fi	movie	en,myn	English,Maya	7.2	97	The Fountain	218953	2006
-0415607	Iran	ir	Drama	movie	fa	Persian	7.4	96	The Willow Tree	3779	2005
-0417741	United Kingdom,United States	gb,us	Action,Adventure,Family,Fantasy,Mystery	movie	en	English	7.6	153	Harry Potter and the Half-Blood Prince	430340	2009
-0423866	South Korea,Japan	kr,jp	Crime,Drama,Romance	movie	ko	Korean	8.0	88	3-Iron	45865	2004
-0424227	Iran,France,Iraq	ir,fr,iq	Drama,War	movie	ku,ar,en	Kurdish,Arabic,English	8.1	98	Turtles Can Fly	16712	2004
-0431197	United States,Germany,United Arab Emirates	us,de,ae	Action,Drama,Thriller	movie	en,ar	English,Arabic	7.0	110	The Kingdom	113597	2007
-0440803	Thailand	th	Horror,Mystery,Thriller	movie	th	Thai	7.1	97	Shutter	38152	2004
-0440963	United States,Germany,France,Spain	us,de,fr,es	Action,Mystery,Thriller	movie	en,fr,ar,ru,es	English,French,Arabic,Russian,Spanish	8.0	115	The Bourne Ultimatum	585010	2007
-0450259	United States,Germany	us,de	Adventure,Drama,Thriller	movie	en,men,af	English,Mende,Afrikaans	8.0	143	Blood Diamond	470645	2006
-0454876	United States,Taiwan,United Kingdom,Canada	us,tw,gb,ca	Adventure,Drama,Fantasy	movie	ar,en,ta,fr,ja,hi,zh	Arabic,English,Tamil,French,Japanese,Hindi,Chinese	7.9	127	Life of Pi	546982	2012
-0456912	South Korea	kr	Action,Drama	movie	ko,ru	Korean,Russian	7.6	120	A Bittersweet Life	32759	2005
-0457430	Mexico,Spain	mx,es	Drama,Fantasy,War	movie	es	Spanish	8.2	118	Pan's Labyrinth	583585	2006
-0468569	United States,United Kingdom	us,gb	Action,Crime,Drama,Thriller	movie	en,cmn	English,Mandarin	9.0	152	The Dark Knight	2132889	2008
-0472043	United States	us	Action,Adventure,Drama,Thriller	movie	myn	Maya	7.8	139	Apocalypto	274677	2006
-0477348	United States	us	Crime,Drama,Thriller	movie	en,es	English,Spanish	8.1	122	No Country for Old Men	785901	2007
-0480669	Spain	es	Horror,Mystery,Sci-Fi,Thriller	movie	es	Spanish	7.2	92	Timecrimes	53483	2007
-0482571	United States,United Kingdom	us,gb	Drama,Mystery,Sci-Fi,Thriller	movie	en	English	8.5	130	The Prestige	1094489	2006
-0485947	Belgium,Germany,Canada,France,United States,United Kingdom	be,de,ca,fr,us,gb	Drama,Fantasy,Romance,Sci-Fi	movie	en,moh	English,Mohawk	7.8	141	Mr. Nobody	201936	2009
-0497986	South Korea,Japan	kr,jp	Drama,Mystery,Romance	movie	ko	Korean	7.2	97	Time	11256	2006
-0499537	Iran	ir	Comedy,Drama,Sport	movie	fa	Persian	7.3	93	Offside	6979	2006
-0499549	United States	us	Action,Adventure,Fantasy,Sci-Fi	movie	en,es	English,Spanish	7.8	162	Avatar	1066005	2009
-0758758	United States	us	Adventure,Biography,Drama	movie	en,da	English,Danish	8.1	148	Into the Wild	534888	2007
-0770828	United States,United Kingdom	us,gb	Action,Adventure,Sci-Fi	movie	en	English	7.1	143	Man of Steel	658688	2013
+0241527	United Kingdom,United States	gb,us	Adventure,Family,Fantasy	movie	en	English	7.6	152	Harry Potter and the Sorcerer's Stone	584425	2001
+0247613	South Korea,Japan	kr,jp	Drama	movie	ko	Korean	7.7	129	Peppermint Candy	6890	1999
+0252444	Australia	au	Adventure,Biography,Drama,History	movie	qac,en	Aboriginal,English	7.4	94	Rabbit-Proof Fence	26306	2002
+0253474	United Kingdom,France,Poland,Germany	gb,fr,pl,de	Biography,Drama,Music,War	movie	en,de,ru	English,German,Russian	8.5	150	The Pianist	664799	2002
+0255589	South Korea	kr	Drama,Thriller	movie	ko	Korean	7.0	90	The Isle	11868	2000
+0266697	United States,Japan	us,jp	Action,Crime,Thriller	movie	en,ja,fr	English,Japanese,French	8.1	111	Kill Bill: Vol. 1	931868	2003
+0278504	United States,United Kingdom	us,gb	Drama,Mystery,Thriller	movie	en	English	7.2	118	Insomnia	258038	2002
+0283509	France,Bosnia and Herzegovina,Italy,Belgium,United Kingdom,Slovenia	fr,ba,it,be,gb,si	Drama,War	movie	bs,fr,en,sr	Bosnian,French,English,Serbian	7.9	98	No Man's Land	42647	2001
+0284815	South Korea	kr	Drama,War	movie	ko,en	Korean,English	7.2	117	Address Unknown	3200	2001
+0295297	United Kingdom,United States,Germany	gb,us,de	Adventure,Family,Fantasy,Mystery	movie	en	English	7.4	161	Harry Potter and the Chamber of Secrets	506118	2002
+0298130	United States	us	Horror,Mystery	movie	en	English	7.1	115	The Ring	304003	2002
+0301357	Germany	de	Comedy,Drama,Romance	movie	de,en,ru	German,English,Russian	7.7	121	Good Bye Lenin!	131078	2003
+0304141	United Kingdom,United States	gb,us	Adventure,Family,Fantasy,Mystery	movie	en	English	7.9	142	Harry Potter and the Prisoner of Azkaban	502749	2004
+0309698	United States	us	Mystery,Thriller	movie	en	English	7.3	90	Identity	213403	2003
+0311519	Finland,Germany,France	fi,de,fr	Comedy,Drama,Romance	movie	fi	Finnish	7.7	97	The Man Without a Past	20756	2002
+0312843	Japan	jp	Crime,Drama,Horror,Mystery,Thriller	movie	ja	Japanese	6.6	99	Suicide Club	17596	2001
+0317248	Brazil,France,Germany	br,fr,de	Crime,Drama	movie	pt	Portuguese	8.6	130	City of God	658982	2002
+0318462	Argentina,United States,Chile,Peru,Brazil,United Kingdom,Germany,France	ar,us,cl,pe,br,gb,de,fr	Adventure,Biography,Drama	movie	es,qu,arn	Spanish,Quechua,Mapudungun	7.8	126	The Motorcycle Diaries	92691	2004
+0330373	United Kingdom,United States	gb,us	Adventure,Family,Fantasy,Mystery	movie	en,fr	English,French	7.7	157	Harry Potter and the Goblet of Fire	501515	2005
+0332452	United States,Malta,United Kingdom	us,mt,gb	Drama,History	movie	en	English	7.2	163	Troy	461468	2004
+0335345	United States	us	Drama	movie	arc,la,he	Aramaic,Latin,Hebrew	7.1	127	The Passion of the Christ	203698	2004
+0338564	Hong Kong	hk	Crime,Drama,Mystery,Thriller	movie	yue,en,th	Cantonese,English,Thai	8.1	101	Infernal Affairs	113036	2002
+0343818	United States,Germany	us,de	Action,Crime,Drama,Mystery,Sci-Fi,Thriller	movie	en	English	7.1	115	I, Robot	473517	2004
+0353969	South Korea	kr	Action,Crime,Drama,Mystery,Thriller	movie	ko,en	Korean,English	8.1	131	Memories of Murder	107721	2003
+0361862	Spain,France,United Kingdom,United States	es,fr,gb,us	Drama,Thriller	movie	en,es	English,Spanish	7.7	101	The Machinist	335987	2004
+0363163	Germany,Austria,Italy	de,at,it	Biography,Drama,History,War	movie	de,ru,hu	German,Russian,Hungarian	8.2	156	Downfall	311992	2004
+0364569	South Korea	kr	Action,Drama,Mystery,Thriller	movie	ko	Korean	8.4	120	Oldboy	472205	2003
+0367882	United States	us	Action,Adventure	movie	en,de,ru	English,German,Russian	6.1	122	Indiana Jones and the Kingdom of the Crystal Skull	400903	2008
+0372784	United States,United Kingdom	us,gb	Action,Adventure	movie	en,ur,cmn	English,Urdu,Mandarin	8.2	140	Batman Begins	1224475	2005
+0374546	South Korea,Germany	kr,de	Drama,Romance	movie	ko	Korean	8.0	103	Spring, Summer, Fall, Winter... and Spring	72366	2003
+0374887	India	in	Comedy,Drama,Musical	movie	hi	Hindi	8.1	156	Munna Bhai M.B.B.S.	67216	2003
+0376968	Russia	ru	Drama	movie	ru	Russian	8.0	110	The Return	39113	2003
+0378194	United States	us	Action,Crime,Thriller	movie	en,yue,cmn,es	English,Cantonese,Mandarin,Spanish	8.0	137	Kill Bill: Vol. 2	635748	2004
+0382625	United States,Malta,France,United Kingdom	us,mt,fr,gb	Mystery,Thriller	movie	en,fr,la,es	English,French,Latin,Spanish	6.6	149	The Da Vinci Code	378976	2006
+0383574	United States	us	Action,Adventure,Fantasy	movie	en,tr,el,cmn,fr	English,Turkish,Greek,Mandarin,French	7.3	151	Pirates of the Caribbean: Dead Man's Chest	623196	2006
+0395169	United Kingdom,South Africa,Italy	gb,za,it	Biography,Drama,History,War	movie	en,fr	English,French	8.1	121	Hotel Rwanda	318530	2004
+0396171	Germany,France,Spain,United States,Czech Republic,Belgium,Netherlands,Luxembourg,Latvia,United Kingdom	de,fr,es,us,cz,be,nl,lu,lv,gb	Crime,Drama	movie	en	English	7.5	147	Perfume: The Story of a Murderer	223425	2006
+0397619	South Korea	kr	Drama	movie	ko	Korean	7.1	95	Samaritan Girl	12540	2004
+0405094	Germany	de	Drama,Thriller	movie	de	German	8.4	137	The Lives of Others	331603	2006
+0405508	India	in	Comedy,Drama	movie	hi,pa,en	Hindi,Punjabi,English	8.2	167	Rang De Basanti	103133	2006
+0414993	Canada,United States	ca,us	Drama,Mystery,Romance,Sci-Fi	movie	en,myn	English,Maya	7.2	97	The Fountain	218986	2006
+0415607	Iran	ir	Drama	movie	fa	Persian	7.4	96	The Willow Tree	3780	2005
+0417741	United Kingdom,United States	gb,us	Action,Adventure,Family,Fantasy,Mystery	movie	en	English	7.6	153	Harry Potter and the Half-Blood Prince	430453	2009
+0423866	South Korea,Japan	kr,jp	Crime,Drama,Romance	movie	ko	Korean	8.0	88	3-Iron	45882	2004
+0424227	Iran,France,Iraq	ir,fr,iq	Drama,War	movie	ku,ar,en	Kurdish,Arabic,English	8.1	98	Turtles Can Fly	16717	2004
+0431197	United States,Germany,United Arab Emirates	us,de,ae	Action,Drama,Thriller	movie	en,ar	English,Arabic	7.0	110	The Kingdom	113608	2007
+0440803	Thailand	th	Horror,Mystery,Thriller	movie	th	Thai	7.1	97	Shutter	38157	2004
+0440963	United States,Germany,France,Spain	us,de,fr,es	Action,Mystery,Thriller	movie	en,fr,ar,ru,es	English,French,Arabic,Russian,Spanish	8.0	115	The Bourne Ultimatum	585069	2007
+0450259	United States,Germany	us,de	Adventure,Drama,Thriller	movie	en,men,af	English,Mende,Afrikaans	8.0	143	Blood Diamond	470739	2006
+0454876	United States,Taiwan,United Kingdom,Canada	us,tw,gb,ca	Adventure,Drama,Fantasy	movie	ar,en,ta,fr,ja,hi,zh	Arabic,English,Tamil,French,Japanese,Hindi,Chinese	7.9	127	Life of Pi	547091	2012
+0456912	South Korea	kr	Action,Drama	movie	ko,ru	Korean,Russian	7.6	120	A Bittersweet Life	32770	2005
+0457430	Mexico,Spain	mx,es	Drama,Fantasy,War	movie	es	Spanish	8.2	118	Pan's Labyrinth	583679	2006
+0468569	United States,United Kingdom	us,gb	Action,Crime,Drama,Thriller	movie	en,cmn	English,Mandarin	9.0	152	The Dark Knight	2133502	2008
+0472043	United States	us	Action,Adventure,Drama,Thriller	movie	myn	Maya	7.8	139	Apocalypto	274715	2006
+0477348	United States	us	Crime,Drama,Thriller	movie	en,es	English,Spanish	8.1	122	No Country for Old Men	786067	2007
+0480669	Spain	es	Horror,Mystery,Sci-Fi,Thriller	movie	es	Spanish	7.2	92	Timecrimes	53492	2007
+0482571	United States,United Kingdom	us,gb	Drama,Mystery,Sci-Fi,Thriller	movie	en	English	8.5	130	The Prestige	1094721	2006
+0485947	Belgium,Germany,Canada,France,United States,United Kingdom	be,de,ca,fr,us,gb	Drama,Fantasy,Romance,Sci-Fi	movie	en,moh	English,Mohawk	7.8	141	Mr. Nobody	201976	2009
+0497986	South Korea,Japan	kr,jp	Drama,Mystery,Romance	movie	ko	Korean	7.2	97	Time	11257	2006
+0499537	Iran	ir	Comedy,Drama,Sport	movie	fa	Persian	7.3	93	Offside	6981	2006
+0499549	United States	us	Action,Adventure,Fantasy,Sci-Fi	movie	en,es	English,Spanish	7.8	162	Avatar	1066217	2009
+0758758	United States	us	Adventure,Biography,Drama	movie	en,da	English,Danish	8.1	148	Into the Wild	534999	2007
+0770828	United States,United Kingdom	us,gb	Action,Adventure,Sci-Fi	movie	en	English	7.1	143	Man of Steel	658775	2013
 0783475	China,Hong Kong	cn,hk	Comedy,Drama	movie	cmn	Mandarin	7.4	110	Getting Home	1491	2007
-0790663	United Kingdom,United States,Kenya	gb,us,ke	Biography,Drama,Romance	movie	en	English	7.5	103	The First Grader	4131	2010
-0797601			Documentary	episode			8.8	49	Fresh Water	2648	2006
-0797602			Documentary	episode			8.8	48	Mountains	2822	2006
-0797603			Documentary	episode			9.0	49	From Pole to Pole	3256	2006
-0799305			Documentary	episode			8.8	49	Caves	2549	2006
-0816692	United States,United Kingdom,Canada	us,gb,ca	Adventure,Drama,Sci-Fi	movie	en	English	8.6	169	Interstellar	1346947	2014
-0816711	United States,United Kingdom,Malta	us,gb,mt	Action,Adventure,Horror,Sci-Fi,Thriller	movie	en,es,he,ar	English,Spanish,Hebrew,Arabic	7.0	116	World War Z	564863	2013
+0790663	United Kingdom,United States,Kenya	gb,us,ke	Biography,Drama,Romance	movie	en	English	7.5	103	The First Grader	4134	2010
+0797601			Documentary	episode			8.8	49	Fresh Water	2647	2006
+0797602			Documentary	episode			8.8	48	Mountains	2821	2006
+0797603			Documentary	episode			9.0	49	From Pole to Pole	3255	2006
+0799305			Documentary	episode			8.8	49	Caves	2548	2006
+0816692	United States,United Kingdom,Canada	us,gb,ca	Adventure,Drama,Sci-Fi	movie	en	English	8.6	169	Interstellar	1347311	2014
+0816711	United States,United Kingdom,Malta	us,gb,mt	Action,Adventure,Horror,Sci-Fi,Thriller	movie	en,es,he,ar	English,Spanish,Hebrew,Arabic	7.0	116	World War Z	564940	2013
 0818059			Documentary	episode			8.7	49	Deserts	2409	2006
 0847817	United Kingdom	gb	Documentary	movie	en	English	7.2	80	Helvetica	7129	2007
-0848228	United States	us	Action,Adventure,Sci-Fi	movie	en,ru,hi	English,Russian,Hindi	8.0	143	The Avengers	1206410	2012
-0880502	Germany,Turkey,Italy	de,tr,it	Drama	movie	de,tr,en	German,Turkish,English	7.8	122	The Edge of Heaven	29248	2007
-0892255	France,Spain,Mexico	fr,es,mx	Biography,Drama,History,War	movie	es,en	Spanish,English	7.2	134	Che: Part One	42614	2008
+0848228	United States	us	Action,Adventure,Sci-Fi	movie	en,ru,hi	English,Russian,Hindi	8.0	143	The Avengers	1206599	2012
+0880502	Germany,Turkey,Italy	de,tr,it	Drama	movie	de,tr,en	German,Turkish,English	7.8	122	The Edge of Heaven	29253	2007
+0892255	France,Spain,Mexico	fr,es,mx	Biography,Drama,History,War	movie	es,en	Spanish,English	7.2	134	Che: Part One	42620	2008
 0901475	South Korea	kr	Drama	movie	ko	Korean	6.9	84	Breath	4333	2007
-0903624	New Zealand,United States	nz,us	Adventure,Family,Fantasy	movie	en	English	7.8	169	The Hobbit: An Unexpected Journey	728270	2012
-0905875			Documentary	episode			8.7	49	Great Plains	2230	2006
+0903624	New Zealand,United States	nz,us	Adventure,Family,Fantasy	movie	en	English	7.8	169	The Hobbit: An Unexpected Journey	728335	2012
+0905875			Documentary	episode			8.7	49	Great Plains	2232	2006
 0905876			Documentary	episode			8.8	49	Ice Worlds	2374	2006
 0905877			Documentary	episode			8.8	49	Jungles	2262	2006
 0905879			Documentary	episode			8.8	49	Seasonal Forests	2110	2006
 0905880			Documentary	episode			8.8	49	The Shallow Seas	2161	2006
-0914798	United Kingdom,United States	gb,us	Drama,War	movie	en,es	English,Spanish	7.8	94	The Boy in the Striped Pajamas	175362	2008
-0948470	United States	us	Action,Sci-Fi	movie	en	English	6.9	136	The Amazing Spider-Man	535062	2012
+0914798	United Kingdom,United States	gb,us	Drama,War	movie	en,es	English,Spanish	7.8	94	The Boy in the Striped Pajamas	175417	2008
+0948470	United States	us	Action,Sci-Fi	movie	en	English	6.9	136	The Amazing Spider-Man	535122	2012
 0951297	Ecuador	ec	Drama	movie	es	Spanish	7.0	92	How Much Further	676	2006
-0959621	United States	us	Crime,Drama,Thriller	episode	en	English	9.0	58	Pilot	21559	2008
-0970179	United Kingdom,United States,France	gb,us,fr	Drama,Family,Fantasy,Mystery	movie	en	English	7.5	126	Hugo	288963	2011
-0976051	Germany,United States	de,us	Drama,Romance	movie	en,de,el,la	English,German,Greek,Latin	7.6	124	The Reader	220698	2008
-0997246	Iran	ir	Drama,Family	movie	fa,az	Persian,Azerbaijani	7.9	96	The Song of Sparrows	8532	2008
-1010048	United Kingdom,India	gb,in	Drama,Romance	movie	en,hi,fr,de	English,Hindi,French,German	8.0	120	Slumdog Millionaire	759232	2008
-1014762	France	fr	Documentary,Drama,Family	movie	fr,en,ru,es,de	French,English,Russian,Spanish,German	8.6	120	Home	20723	2009
-1023114	United States,United Arab Emirates,Poland,India	us,ae,pl,in	Adventure,Drama,History	movie	bo,mn,en,ru,pl	Tibetan,Mongolian,English,Russian,Polish	7.3	133	The Way Back	103693	2010
+0959621	United States	us	Crime,Drama,Thriller	episode	en	English	9.0	58	Pilot	21570	2008
+0970179	United Kingdom,United States,France	gb,us,fr	Drama,Family,Fantasy,Mystery	movie	en	English	7.5	126	Hugo	289024	2011
+0976051	Germany,United States	de,us	Drama,Romance	movie	en,de,el,la	English,German,Greek,Latin	7.6	124	The Reader	220735	2008
+0997246	Iran	ir	Drama,Family	movie	fa,az	Persian,Azerbaijani	7.9	96	The Song of Sparrows	8535	2008
+1010048	United Kingdom,India	gb,in	Drama,Romance	movie	en,hi,fr,de	English,Hindi,French,German	8.0	120	Slumdog Millionaire	759353	2008
+1014762	France	fr	Documentary,Drama,Family	movie	fr,en,ru,es,de	French,English,Russian,Spanish,German	8.6	120	Home	20726	2009
+1023114	United States,United Arab Emirates,Poland,India	us,ae,pl,in	Adventure,Drama,History	movie	bo,mn,en,ru,pl	Tibetan,Mongolian,English,Russian,Polish	7.3	133	The Way Back	103718	2010
 1032856	Israel,United States,France	il,us,fr	Comedy,Drama,Music,Romance	movie	he,ar,en	Hebrew,Arabic,English	7.5	87	The Band's Visit	12309	2007
-1074638	United Kingdom,United States	gb,us	Action,Adventure,Thriller	movie	en,tr,qad,pt,ja	English,Turkish,Shanghainese,Portuguese,Japanese	7.7	143	Skyfall	600131	2012
-1130884	United States	us	Mystery,Thriller	movie	en,de	English,German	8.1	138	Shutter Island	1035603	2010
-1148204	United States,Canada,Germany	us,ca,de	Horror,Mystery,Thriller	movie	en,ase,et	English,American Sign Language,Estonian	6.9	123	Orphan	180038	2009
-1170358	United States,New Zealand	us,nz	Adventure,Fantasy	movie	en	English	7.8	161	The Hobbit: The Desolation of Smaug	573883	2013
-1179933	United States	us	Drama,Horror,Mystery,Sci-Fi,Thriller	movie	en	English	7.2	103	10 Cloverfield Lane	268438	2016
-1181927	Austria	at	Comedy,Crime,Thriller	movie	de,ru,sr	German,Russian,Serbian	7.5	117	The Bone Man	4320	2009
-1187064	United Kingdom,Australia	gb,au	Fantasy,Mystery,Thriller	movie	en	English	6.9	99	Triangle	92829	2009
-1190539	South Korea	kr	Action,Crime,Thriller	movie	ko	Korean	7.9	125	The Chaser	51414	2008
+1074638	United Kingdom,United States	gb,us	Action,Adventure,Thriller	movie	en,tr,qad,pt,ja	English,Turkish,Shanghainese,Portuguese,Japanese	7.7	143	Skyfall	600212	2012
+1130884	United States	us	Mystery,Thriller	movie	en,de	English,German	8.1	138	Shutter Island	1035811	2010
+1148204	United States,Canada,Germany	us,ca,de	Horror,Mystery,Thriller	movie	en,ase,et	English,American Sign Language,Estonian	6.9	123	Orphan	180063	2009
+1170358	United States,New Zealand	us,nz	Adventure,Fantasy	movie	en	English	7.8	161	The Hobbit: The Desolation of Smaug	573951	2013
+1179933	United States	us	Drama,Horror,Mystery,Sci-Fi,Thriller	movie	en	English	7.2	103	10 Cloverfield Lane	268509	2016
+1181927	Austria	at	Comedy,Crime,Thriller	movie	de,ru,sr	German,Russian,Serbian	7.5	117	The Bone Man	4322	2009
+1187064	United Kingdom,Australia	gb,au	Fantasy,Mystery,Thriller	movie	en	English	6.9	99	Triangle	92862	2009
+1190539	South Korea	kr	Action,Crime,Thriller	movie	ko	Korean	7.9	125	The Chaser	51434	2008
 1194620	Romania,Luxembourg,France	ro,lu,fr	Comedy,Drama,History,Romance	movie	ro	Romanian	7.9	87	Silent Wedding	5077	2008
-1201607	United States,United Kingdom	us,gb	Adventure,Drama,Fantasy,Mystery	movie	en	English	8.1	130	Harry Potter and the Deathly Hallows: Part 2	707981	2011
-1230385	South Korea,United States,Hong Kong	kr,us,hk	Action,Crime,Drama,Thriller	movie	ko,cmn	Korean,Mandarin	7.3	157	The Yellow Sea	16771	2010
-1233381	Turkey,France,Italy	tr,fr,it	Drama	movie	tr	Turkish	7.4	109	Three Monkeys	17886	2008
-1242422	Spain,France	es,fr	Action,Crime,Drama,Thriller	movie	es,eu,en	Spanish,Basque,English	7.6	113	Cell 211	60502	2009
-1255953	Canada,France	ca,fr	Drama,Mystery,War	movie	fr,ar,en	French,Arabic,English	8.3	131	Incendies	129175	2010
-1263750	Spain	es	Drama,Romance	movie	en,es,it,ru,eu,ar	English,Spanish,Italian,Russian,Basque,Arabic	6.1	107	Room in Rome	20904	2010
-1277737	United States	us	Drama	movie	fa,en	Persian,English	8.0	114	The Stoning of Soraya M.	17598	2008
-1302011	United States	us	Animation,Action,Adventure,Comedy,Family,Fantasy	movie	en	English	7.2	90	Kung Fu Panda 2	235086	2011
-1316540	Hungary,France,Switzerland,Germany,United States	hu,fr,ch,de,us	Drama	movie	hu,de	Hungarian,German	7.8	155	The Turin Horse	13960	2011
-1318514	United States,United Kingdom,Canada	us,gb,ca	Action,Drama,Sci-Fi,Thriller	movie	en,sgn	English,Sign Languages	7.6	105	Rise of the Planet of the Apes	478905	2011
-1327035	India	in	Comedy,Drama,Romance	movie	hi,pa,en,fr,ta	Hindi,Punjabi,English,French,Tamil	8.0	144	Dev.D	26702	2009
-1332128	United States	us	Documentary,History,War	video movie	en	English	8.3	123	Zeitgeist: Addendum	17273	2008
-1345836	United Kingdom,United States	gb,us	Action,Thriller	movie	en,ar	English,Arabic	8.4	164	The Dark Knight Rises	1420616	2012
-1365050	United States	us	Drama,War	movie	en,ak	English,Akan	7.7	137	Beasts of No Nation	66116	2015
-1369706	United States	us	Horror,Mystery,Thriller	movie	en	English	5.6	89	The Ward	38828	2010
-1375666	United States,United Kingdom	us,gb	Action,Adventure,Sci-Fi,Thriller	movie	en,ja,fr	English,Japanese,French	8.8	148	Inception	1891647	2010
-1386932	Hong Kong,China	hk,cn	Action,Biography,Drama,History	movie	yue,cmn,en	Cantonese,Mandarin,English	7.5	108	Ip Man 2	88503	2010
-1392190	Australia,United States,South Africa	au,us,za	Action,Adventure,Sci-Fi,Thriller	movie	en,ru	English,Russian	8.1	120	Mad Max: Fury Road	804337	2015
-1410063	China,Hong Kong	cn,hk	Drama,History,Romance,War	movie	cmn,en,ja,qad	Mandarin,English,Japanese,Shanghainese	7.6	146	The Flowers of War	46541	2011
-1422032	Spain,Mexico,France	es,mx,fr	Drama,History	movie	es,qu,en	Spanish,Quechua,English	7.4	103	Even the Rain	12025	2010
-1440728	United States,United Kingdom	us,gb	Crime,Drama,Thriller	movie	en,it	English,Italian	6.3	105	The American	87965	2010
-1446714	United States,United Kingdom	us,gb	Adventure,Mystery,Sci-Fi	movie	en,gd	English,Scottish Gaelic	7.0	124	Prometheus	546153	2012
-1454029	United States,India,United Arab Emirates,United Kingdom,France,Canada,Germany	us,in,ae,gb,fr,ca,de	Drama	movie	en	English	8.1	146	The Help	400383	2011
-1499666	South Korea	kr	Drama,Romance	movie	ko,en	Korean,English	8.1	116	Castaway on the Moon	14782	2009
-1512685	Spain	es	Horror,Mystery,Thriller	movie	es	Spanish	6.7	118	Julia's Eyes	30094	2010
-1542344	United States,United Kingdom,France	us,gb,fr	Biography,Drama	movie	en,it	English,Italian	7.6	94	127 Hours	330024	2010
-1571724	Turkey,Germany,France	tr,de,fr	Drama	movie	tr	Turkish	7.2	103	Honey	6360	2010
-1588170	South Korea	kr	Action,Crime,Drama,Horror,Thriller	movie	ko	Korean	7.8	142	I Saw the Devil	97372	2010
-1602620	Austria,France,Germany	at,fr,de	Drama,Romance	movie	fr,en	French,English	7.9	127	Amour	86571	2012
-1614989	Norway,Sweden,Denmark,Germany	no,se,dk,de	Action,Crime,Thriller	movie	no,da,ru,en	Norwegian,Danish,Russian,English	7.5	96	Headhunters	92409	2011
-1623205	United States	us	Adventure,Family,Fantasy	movie	en	English	6.3	130	Oz the Great and Powerful	193840	2013
+1201607	United States,United Kingdom	us,gb	Adventure,Drama,Fantasy,Mystery	movie	en	English	8.1	130	Harry Potter and the Deathly Hallows: Part 2	708112	2011
+1230385	South Korea,United States,Hong Kong	kr,us,hk	Action,Crime,Drama,Thriller	movie	ko,cmn	Korean,Mandarin	7.3	157	The Yellow Sea	16779	2010
+1233381	Turkey,France,Italy	tr,fr,it	Drama	movie	tr	Turkish	7.4	109	Three Monkeys	17891	2008
+1242422	Spain,France	es,fr	Action,Crime,Drama,Thriller	movie	es,eu,en	Spanish,Basque,English	7.6	113	Cell 211	60512	2009
+1255953	Canada,France	ca,fr	Drama,Mystery,War	movie	fr,ar,en	French,Arabic,English	8.3	131	Incendies	129218	2010
+1263750	Spain	es	Drama,Romance	movie	en,es,it,ru,eu,ar	English,Spanish,Italian,Russian,Basque,Arabic	6.1	107	Room in Rome	20906	2010
+1277737	United States	us	Drama	movie	fa,en	Persian,English	8.0	114	The Stoning of Soraya M.	17603	2008
+1302011	United States	us	Animation,Action,Adventure,Comedy,Family,Fantasy	movie	en	English	7.2	90	Kung Fu Panda 2	235151	2011
+1316540	Hungary,France,Switzerland,Germany,United States	hu,fr,ch,de,us	Drama	movie	hu,de	Hungarian,German	7.8	155	The Turin Horse	13963	2011
+1318514	United States,United Kingdom,Canada	us,gb,ca	Action,Drama,Sci-Fi,Thriller	movie	en,sgn	English,Sign Languages	7.6	105	Rise of the Planet of the Apes	478962	2011
+1327035	India	in	Comedy,Drama,Romance	movie	hi,pa,en,fr,ta	Hindi,Punjabi,English,French,Tamil	8.0	144	Dev.D	26708	2009
+1332128	United States	us	Documentary,History,War	video movie	en	English	8.3	123	Zeitgeist: Addendum	17276	2008
+1345836	United Kingdom,United States	gb,us	Action,Thriller	movie	en,ar	English,Arabic	8.4	164	The Dark Knight Rises	1420900	2012
+1365050	United States	us	Drama,War	movie	en,ak	English,Akan	7.7	137	Beasts of No Nation	66147	2015
+1369706	United States	us	Horror,Mystery,Thriller	movie	en	English	5.6	89	The Ward	38832	2010
+1375666	United States,United Kingdom	us,gb	Action,Adventure,Sci-Fi,Thriller	movie	en,ja,fr	English,Japanese,French	8.8	148	Inception	1892084	2010
+1386932	Hong Kong,China	hk,cn	Action,Biography,Drama,History	movie	yue,cmn,en	Cantonese,Mandarin,English	7.5	108	Ip Man 2	88516	2010
+1392190	Australia,United States,South Africa	au,us,za	Action,Adventure,Sci-Fi,Thriller	movie	en,ru	English,Russian	8.1	120	Mad Max: Fury Road	804588	2015
+1410063	China,Hong Kong	cn,hk	Drama,History,Romance,War	movie	cmn,en,ja,qad	Mandarin,English,Japanese,Shanghainese	7.6	146	The Flowers of War	46547	2011
+1422032	Spain,Mexico,France	es,mx,fr	Drama,History	movie	es,qu,en	Spanish,Quechua,English	7.4	103	Even the Rain	12032	2010
+1440728	United States,United Kingdom	us,gb	Crime,Drama,Thriller	movie	en,it	English,Italian	6.3	105	The American	87973	2010
+1446714	United States,United Kingdom	us,gb	Adventure,Mystery,Sci-Fi	movie	en,gd	English,Scottish Gaelic	7.0	124	Prometheus	546228	2012
+1454029	United States,India,United Arab Emirates,United Kingdom,France,Canada,Germany	us,in,ae,gb,fr,ca,de	Drama	movie	en	English	8.1	146	The Help	400463	2011
+1499666	South Korea	kr	Drama,Romance	movie	ko,en	Korean,English	8.1	116	Castaway on the Moon	14792	2009
+1512685	Spain	es	Horror,Mystery,Thriller	movie	es	Spanish	6.7	118	Julia's Eyes	30101	2010
+1542344	United States,United Kingdom,France	us,gb,fr	Biography,Drama	movie	en,it	English,Italian	7.6	94	127 Hours	330073	2010
+1571724	Turkey,Germany,France	tr,de,fr	Drama	movie	tr	Turkish	7.2	103	Honey	6361	2010
+1588170	South Korea	kr	Action,Crime,Drama,Horror,Thriller	movie	ko	Korean	7.8	142	I Saw the Devil	97409	2010
+1602620	Austria,France,Germany	at,fr,de	Drama,Romance	movie	fr,en	French,English	7.9	127	Amour	86597	2012
+1614989	Norway,Sweden,Denmark,Germany	no,se,dk,de	Action,Crime,Thriller	movie	no,da,ru,en	Norwegian,Danish,Russian,English	7.5	96	Headhunters	92425	2011
+1623205	United States	us	Adventure,Family,Fantasy	movie	en	English	6.3	130	Oz the Great and Powerful	193856	2013
 1638353	Afghanistan,France,Germany,United Kingdom	af,fr,de,gb	Drama,War	movie	fa	Persian	7.1	102	The Patience Stone	4194	2012
-1645170	United States	us	Comedy	movie	en,he,ar	English,Hebrew,Arabic	6.4	83	The Dictator	255954	2012
-1646959	South Korea	kr	Drama,Horror,Thriller	movie	ko	Korean	7.3	115	Bedevilled	11936	2010
-1662557	South Korea	kr	Action,Crime,Thriller	movie	ko	Korean	7.4	125	No Mercy	5230	2010
-1663202	United States,Hong Kong,Taiwan	us,hk,tw	Action,Adventure,Biography,Drama,History,Western	movie	en,paw,fr	English,Pawnee,French	8.0	156	The Revenant	642643	2015
-1665071	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	9.1	88	A Study in Pink	26080	2010
-1700841	United States	us	Animation,Adventure,Comedy,Fantasy	movie	en	English	6.2	89	Sausage Party	163525	2016
-1706620	South Korea,Czech Republic	kr,cz	Action,Drama,Sci-Fi	movie	en,ko,fr,ja,cs,de	English,Korean,French,Japanese,Czech,German	7.1	126	Snowpiercer	251291	2013
-1726888	Argentina,Spain,Brazil	ar,es,br	Drama	movie	es,pt	Spanish,Portuguese	7.0	112	Clandestine Childhood	2222	2011
+1645170	United States	us	Comedy	movie	en,he,ar	English,Hebrew,Arabic	6.4	83	The Dictator	255997	2012
+1646959	South Korea	kr	Drama,Horror,Thriller	movie	ko	Korean	7.3	115	Bedevilled	11938	2010
+1662557	South Korea	kr	Action,Crime,Thriller	movie	ko	Korean	7.4	125	No Mercy	5235	2010
+1663202	United States,Hong Kong,Taiwan	us,hk,tw	Action,Adventure,Biography,Drama,History,Western	movie	en,paw,fr	English,Pawnee,French	8.0	156	The Revenant	642858	2015
+1665071	United Kingdom	gb	Crime,Drama,Mystery,Thriller	episode	en	English	9.1	88	A Study in Pink	26083	2010
+1700841	United States	us	Animation,Adventure,Comedy,Fantasy	movie	en	English	6.2	89	Sausage Party	163561	2016
+1706620	South Korea,Czech Republic	kr,cz	Action,Drama,Sci-Fi	movie	en,ko,fr,ja,cs,de	English,Korean,French,Japanese,Czech,German	7.1	126	Snowpiercer	251428	2013
+1726888	Argentina,Spain,Brazil	ar,es,br	Drama	movie	es,pt	Spanish,Portuguese	7.0	112	Clandestine Childhood	2223	2011
 1727587	Netherlands	nl	Animation,Short,Fantasy	movie	en	English	7.5	14	Sintel	3229	2010
 1757772	India	in	Action	movie	kn	Kannada	7.1	126	Jackie	1360	2010
-1815862	United States	us	Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi	movie	en	English	4.8	100	After Earth	184453	2013
-1816518	France,Belgium,Luxembourg	fr,be,lu	Animation,Adventure,Comedy,Crime,Drama,Family,Fantasy	movie	fr,en	French,English	7.9	80	Ernest & Celestine	16421	2012
-1843866	United States	us	Action,Adventure,Sci-Fi	movie	en,fr	English,French	7.7	136	Captain America: The Winter Soldier	687202	2014
-1853728	United States	us	Drama,Western	movie	en,de,fr,it	English,German,French,Italian	8.4	165	Django Unchained	1248487	2012
-1863192	Georgia,Germany,France,Czech Republic,Kazakhstan,Hungary	ge,de,fr,cz,kz,hu	Drama,War	movie	ka,ab,ru	Georgian,Abkhazian,Russian	7.6	100	Corn Island	3669	2014
-1891769	France,Belgium,Canada	fr,be,ca	Animation,Adventure,Drama,Family,Fantasy	movie	fr	French	7.4	76	The Painting	3471	2011
-1895587	United States	us	Biography,Crime,Drama	movie	en	English	8.1	129	Spotlight	377956	2015
-1899353	Indonesia,France,United States	id,fr,us	Action,Thriller	movie	id	Indonesian	7.6	101	The Raid: Redemption	179363	2011
-1937149	Spain	es	Mystery,Thriller	movie	es	Spanish	7.6	108	The Body	47207	2012
-1937390	Denmark,Germany,Belgium,United Kingdom,France,Sweden,United States	dk,de,be,gb,fr,se,us	Drama	movie	en	English	6.9	117	Nymphomaniac: Vol. I	109540	2013
-1951181	United States	us	Drama,Romance	movie	en,pl,la	English,Polish,Latin	6.6	120	The Immigrant	27510	2013
-1954470	India	in	Action,Comedy,Crime,Drama,Thriller	movie	hi	Hindi	8.2	321	Gangs of Wasseypur	71687	2012
-2015381	United States	us	Action,Adventure,Comedy,Sci-Fi	movie	en	English	8.0	121	Guardians of the Galaxy	980131	2014
+1815862	United States	us	Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi	movie	en	English	4.8	100	After Earth	184468	2013
+1816518	France,Belgium,Luxembourg	fr,be,lu	Animation,Adventure,Comedy,Crime,Drama,Family,Fantasy	movie	fr,en	French,English	7.9	80	Ernest & Celestine	16430	2012
+1843866	United States	us	Action,Adventure,Sci-Fi	movie	en,fr	English,French	7.7	136	Captain America: The Winter Soldier	687366	2014
+1853728	United States	us	Drama,Western	movie	en,de,fr,it	English,German,French,Italian	8.4	165	Django Unchained	1248780	2012
+1863192	Georgia,Germany,France,Czech Republic,Kazakhstan,Hungary	ge,de,fr,cz,kz,hu	Drama,War	movie	ka,ab,ru	Georgian,Abkhazian,Russian	7.6	100	Corn Island	3668	2014
+1891769	France,Belgium,Canada	fr,be,ca	Animation,Adventure,Drama,Family,Fantasy	movie	fr	French	7.4	76	The Painting	3473	2011
+1895587	United States	us	Biography,Crime,Drama	movie	en	English	8.1	129	Spotlight	378057	2015
+1899353	Indonesia,France,United States	id,fr,us	Action,Thriller	movie	id	Indonesian	7.6	101	The Raid: Redemption	179387	2011
+1937149	Spain	es	Mystery,Thriller	movie	es	Spanish	7.6	108	The Body	47241	2012
+1937390	Denmark,Germany,Belgium,United Kingdom,France,Sweden,United States	dk,de,be,gb,fr,se,us	Drama	movie	en	English	6.9	117	Nymphomaniac: Vol. I	109561	2013
+1951181	United States	us	Drama,Romance	movie	en,pl,la	English,Polish,Latin	6.6	120	The Immigrant	27515	2013
+1954470	India	in	Action,Comedy,Crime,Drama,Thriller	movie	hi	Hindi	8.2	321	Gangs of Wasseypur	71713	2012
+2015381	United States	us	Action,Adventure,Comedy,Sci-Fi	movie	en	English	8.0	121	Guardians of the Galaxy	980374	2014
 2019107			Documentary	episode			8.4	52	Born of Fire	45	2006
 2019108			Documentary	episode			8.5	51	Forces of Change	33	2006
 2019109			Documentary	episode	en	English	8.0	51	Islands That Changed the World	47	2006
-2024544	United States,United Kingdom	us,gb	Biography,Drama,History	movie	en	English	8.1	134	12 Years a Slave	591549	2013
-2063782	Thailand	th	Drama,Horror	movie	th	Thai	6.3	113	Laddaland	1666	2011
+2024544	United States,United Kingdom	us,gb	Biography,Drama,History	movie	en	English	8.1	134	12 Years a Slave	591670	2013
+2063782	Thailand	th	Drama,Horror	movie	th	Thai	6.3	113	Laddaland	1668	2011
 2085752	Austria,United States	at,us	Drama,Thriller	movie	en	English	5.3	100	Autumn Blood	1656	2013
-2106476	Denmark,Sweden	dk,se	Drama	movie	da,en,pl	Danish,English,Polish	8.3	115	The Hunt	250639	2012
+2106476	Denmark,Sweden	dk,se	Drama	movie	da,en,pl	Danish,English,Polish	8.3	115	The Hunt	250710	2012
 2140037984											
 2150332	France	fr	Biography,Drama,History,Romance	movie	fr,it	French,Italian	6.5	111	Renoir	4888	2012
-2177827	France,Georgia	fr,ge	Drama,War	movie	fr,en,ru,ce	French,English,Russian,Chechen	6.8	135	The Search	2306	2014
+2177827	France,Georgia	fr,ge	Drama,War	movie	fr,en,ru,ce	French,English,Russian,Chechen	6.8	135	The Search	2307	2014
 2186873	Turkey	tr	Drama	movie	tr	Turkish	6.3	92	Night of Silence	396	2012
-2258858	Saudi Arabia,Netherlands,Germany,Jordan,United Arab Emirates,United States	sa,nl,de,jo,ae,us	Comedy,Drama	movie	ar	Arabic	7.5	98	Wadjda	16744	2012
-2283748	India	in	Comedy,Drama,Fantasy	movie	hi,en	Hindi,English	8.2	125	OMG: Oh My God!	46100	2012
-2294629	United States	us	Animation,Adventure,Comedy,Family,Fantasy,Musical	movie	en,no	English,Norwegian	7.5	102	Frozen	528257	2013
-2299842	South Korea	kr	Crime,Drama	movie	ko	Korean	7.2	103	Pieta	11826	2012
-2304771	United Kingdom,South Africa,France	gb,za,fr	Biography,Drama,History	movie	en,af,xh	English,Afrikaans,Xhosa	7.1	141	Mandela: Long Walk to Freedom	25418	2013
-2338151	India	in	Comedy,Drama,Fantasy	movie	hi,en,ur,fa,ku	Hindi,English,Urdu,Persian,Kurdish	8.1	153	PK	143708	2014
-2350496	India,France,Germany,United States,Canada	in,fr,de,us,ca	Drama,Romance	movie	hi,en	Hindi,English	7.8	104	The Lunchbox	43799	2013
+2258858	Saudi Arabia,Netherlands,Germany,Jordan,United Arab Emirates,United States	sa,nl,de,jo,ae,us	Comedy,Drama	movie	ar	Arabic	7.5	98	Wadjda	16746	2012
+2283748	India	in	Comedy,Drama,Fantasy	movie	hi,en	Hindi,English	8.2	125	OMG: Oh My God!	46114	2012
+2294629	United States	us	Animation,Adventure,Comedy,Family,Fantasy,Musical	movie	en,no	English,Norwegian	7.5	102	Frozen	528412	2013
+2299842	South Korea	kr	Crime,Drama	movie	ko	Korean	7.2	103	Pieta	11827	2012
+2304771	United Kingdom,South Africa,France	gb,za,fr	Biography,Drama,History	movie	en,af,xh	English,Afrikaans,Xhosa	7.1	141	Mandela: Long Walk to Freedom	25424	2013
+2338151	India	in	Comedy,Drama,Fantasy	movie	hi,en,ur,fa,ku	Hindi,English,Urdu,Persian,Kurdish	8.1	153	PK	143767	2014
+2350496	India,France,Germany,United States,Canada	in,fr,de,us,ca	Drama,Romance	movie	hi,en	Hindi,English	7.8	104	The Lunchbox	43810	2013
 2355775	United States	us	Documentary,Short	movie	en	English	8.1	45	Paradise or Oblivion	866	2012
-2358592	India	in	Drama,Romance,Sci-Fi,Thriller	movie	kn	Kannada	8.3	135	Lucia	10780	2013
-2358891	Italy,France	it,fr	Drama	movie	it,ja,es,zh	Italian,Japanese,Spanish,Chinese	7.8	141	The Great Beauty	74059	2013
+2358592	India	in	Drama,Romance,Sci-Fi,Thriller	movie	kn	Kannada	8.3	135	Lucia	10781	2013
+2358891	Italy,France	it,fr	Drama	movie	it,ja,es,zh	Italian,Japanese,Spanish,Chinese	7.8	141	The Great Beauty	74075	2013
 2369543	Palestine,Jordan,Greece,United Arab Emirates	ps,jo,gr,ae	Drama	movie	ar,en	Arabic,English	6.6	98	When I Saw You	545	2012
-2377938	India	in	Crime,Drama,Thriller	movie	hi	Hindi	8.0	144	Special 26	46605	2013
+2377938	India	in	Crime,Drama,Thriller	movie	hi	Hindi	8.0	144	Special 26	46615	2013
 2385108			Biography,Drama,History,War	episode			8.8		Omar During His Youth	51	2012
-2395417	United Kingdom,Italy	gb,it	Drama	movie	en	English	7.4	92	Still Life	6817	2013
-2397535	Australia,United States	au,us	Action,Drama,Mystery,Sci-Fi,Thriller	movie	en	English	7.5	97	Predestination	231380	2014
-2404461	France,Italy,Belgium,Iran	fr,it,be,ir	Drama,Mystery	movie	fr,fa	French,Persian	7.8	130	The Past	41943	2013
-2452254	France,Germany,Switzerland	fr,de,ch	Drama	movie	en,fr,de,gsw	English,French,German,Swiss German	6.7	124	Clouds of Sils Maria	25360	2014
-2562232	United States	us	Comedy,Drama	movie	en	English	7.7	119	Birdman or (The Unexpected Virtue of Ignorance)	534219	2014
-2611390	Ethiopia,United States	et,us	Biography,Crime,Drama,History	movie	am	Amharic	6.8	99	Difret	1144	2014
-2637844	Kazakhstan,Russia,Estonia,Finland,Belarus	kz,ru,ee,fi,by	Drama	movie	ru,kk	Russian,Kazakh	7.1	110	Ya ne vernus	693	2014
+2395417	United Kingdom,Italy	gb,it	Drama	movie	en	English	7.4	92	Still Life	6818	2013
+2397535	Australia,United States	au,us	Action,Drama,Mystery,Sci-Fi,Thriller	movie	en	English	7.5	97	Predestination	231429	2014
+2404461	France,Italy,Belgium,Iran	fr,it,be,ir	Drama,Mystery	movie	fr,fa	French,Persian	7.8	130	The Past	41951	2013
+2452254	France,Germany,Switzerland	fr,de,ch	Drama	movie	en,fr,de,gsw	English,French,German,Swiss German	6.7	124	Clouds of Sils Maria	25364	2014
+2562232	United States	us	Comedy,Drama	movie	en	English	7.7	119	Birdman or (The Unexpected Virtue of Ignorance)	534355	2014
+2611390	Ethiopia,United States	et,us	Biography,Crime,Drama,History	movie	am	Amharic	6.8	99	Difret	1145	2014
+2637844	Kazakhstan,Russia,Estonia,Finland,Belarus	kz,ru,ee,fi,by	Drama	movie	ru,kk	Russian,Kazakh	7.1	110	Ya ne vernus	695	2014
 2658126	India	in	Action,Thriller	movie	hi	Hindi	6.1	124	Commando	3937	2013
-2737050	Belgium,France,Italy	be,fr,it	Drama	movie	fr,ar,en	French,Arabic,English	7.3	95	Two Days, One Night	41951	2014
-2758880	Turkey,France,Germany	tr,fr,de	Drama	movie	tr,en	Turkish,English	8.2	196	Winter Sleep	38850	2014
+2737050	Belgium,France,Italy	be,fr,it	Drama	movie	fr,ar,en	French,Arabic,English	7.3	95	Two Days, One Night	41955	2014
+2758880	Turkey,France,Germany	tr,fr,de	Drama	movie	tr,en	Turkish,English	8.2	196	Winter Sleep	38862	2014
 2776344	Thailand	th	Comedy,Horror,Romance	movie	th	Thai	7.3	115	Pee Mak	4195	2013
-2802154	Russia	ru	Crime,Drama	movie	ru	Russian	7.6	140	Leviathan	44548	2014
-2806788	India	in	Comedy,Drama,Romance	movie	hi	Hindi	6.9	139	Fukrey	9668	2013
-2827320	India	in	Drama,Family	movie	mr	Marathi	8.3	101	Fandry	1685	2013
-2852406	Palestine	ps	Crime,Drama,Romance,Thriller,War	movie	ar,he	Arabic,Hebrew	7.5	98	Omar	12345	2013
-2882328	India	in	Crime,Drama,Mystery,Thriller	movie	hi	Hindi	8.1	128	Ugly	17489	2013
-2884018	United Kingdom,France,United States	gb,fr,us	Drama,History,War	movie	en	English	6.6	113	Macbeth	49946	2015
+2802154	Russia	ru	Crime,Drama	movie	ru	Russian	7.6	140	Leviathan	44573	2014
+2806788	India	in	Comedy,Drama,Romance	movie	hi	Hindi	6.9	139	Fukrey	9669	2013
+2827320	India	in	Drama,Family	movie	mr	Marathi	8.3	101	Fandry	1686	2013
+2852406	Palestine	ps	Crime,Drama,Romance,Thriller,War	movie	ar,he	Arabic,Hebrew	7.5	98	Omar	12349	2013
+2882328	India	in	Crime,Drama,Mystery,Thriller	movie	hi	Hindi	8.1	128	Ugly	17493	2013
+2884018	United Kingdom,France,United States	gb,fr,us	Drama,History,War	movie	en	English	6.6	113	Macbeth	49959	2015
 2886632	Germany,Serbia	de,rs	Drama	movie	sr,de,sq,it	Serbian,German,Albanian,Italian	7.7	92	Enclave	1826	2015
-2909116	China,France	cn,fr	Adventure,Drama	movie	cmn,mn	Mandarin,Mongolian	6.7	121	Wolf Totem	5162	2015
-2911666	United States	us	Action,Crime,Thriller	movie	en,ru,hu	English,Russian,Hungarian	7.4	101	John Wick	483632	2014
-2942522	South Korea	kr	Drama,Horror	movie	zxx	None	6.4	89	Moebius	4566	2013
-2948356	United States	us	Animation,Adventure,Comedy,Crime,Family,Mystery	movie	en	English	8.0	108	Zootopia	395834	2016
+2909116	China,France	cn,fr	Adventure,Drama	movie	cmn,mn	Mandarin,Mongolian	6.7	121	Wolf Totem	5163	2015
+2911666	United States	us	Action,Crime,Thriller	movie	en,ru,hu	English,Russian,Hungarian	7.4	101	John Wick	483804	2014
+2942522	South Korea	kr	Drama,Horror	movie	zxx	None	6.4	89	Moebius	4568	2013
+2948356	United States	us	Animation,Adventure,Comedy,Crime,Family,Mystery	movie	en	English	8.0	108	Zootopia	395952	2016
 2953182	Argentina,Spain,France,Mexico	ar,es,fr,mx	Drama	movie	es	Spanish	5.7	85	Eva Doesn't Sleep	481	2015
-2957760	United States,Philippines,Puerto Rico	us,ph,pr	Action,Adventure,Crime,Drama,Thriller	movie	en	English	6.2	108	Extortion	6076	2017
-2969522	South Korea	kr	Drama,Thriller	movie	ko	Korean	7.5	120	Montage	4766	2013
-2969656	South Korea	kr	Action,Crime,Thriller	movie	ko	Korean	7.1	119	Cold Eyes	5668	2013
-2980516	United Kingdom,Japan,United States	gb,jp,us	Biography,Drama,Romance	movie	en,fr	English,French	7.7	123	The Theory of Everything	370092	2014
-2991224	Estonia,Georgia	ee,ge	Drama,War	movie	et,ru,ka	Estonian,Russian,Georgian	8.2	87	Tangerines	34420	2013
-3011894	Argentina,Spain	ar,es	Comedy,Drama,Thriller	movie	es	Spanish	8.1	122	Wild Tales	156714	2014
-3040964	United Kingdom,United States	gb,us	Adventure,Drama,Family,Fantasy	movie	en	English	7.4	106	The Jungle Book	245919	2016
-3043252	India,United Kingdom,United States	in,gb,us	Drama	movie	hi,en	Hindi,English	7.6	116	Parched	4289	2015
-3051894	India	in	Biography,Drama	movie	bn	Bengali	8.1	154	Cloud Capped Star	593	2013
-3062880	Israel,France,Germany	il,fr,de	Drama	movie	he,fr,ar	Hebrew,French,Arabic	7.7	115	Gett: The Trial of Viviane Amsalem	5634	2014
-3065204	Canada,United States,United Kingdom	ca,us,gb	Horror,Mystery,Thriller	movie	en	English	7.3	134	The Conjuring 2	204589	2016
-3078242	Greece	gr	Drama	movie	el	Greek	7.1	98	Miss Violence	6078	2013
+2957760	United States,Philippines,Puerto Rico	us,ph,pr	Action,Adventure,Crime,Drama,Thriller	movie	en	English	6.2	108	Extortion	6077	2017
+2969522	South Korea	kr	Drama,Thriller	movie	ko	Korean	7.4	120	Montage	4769	2013
+2969656	South Korea	kr	Action,Crime,Thriller	movie	ko	Korean	7.1	119	Cold Eyes	5667	2013
+2980516	United Kingdom,Japan,United States	gb,jp,us	Biography,Drama,Romance	movie	en,fr	English,French	7.7	123	The Theory of Everything	370176	2014
+2991224	Estonia,Georgia	ee,ge	Drama,War	movie	et,ru,ka	Estonian,Russian,Georgian	8.2	87	Tangerines	34434	2013
+3011894	Argentina,Spain	ar,es	Comedy,Drama,Thriller	movie	es	Spanish	8.1	122	Wild Tales	156768	2014
+3040964	United Kingdom,United States	gb,us	Adventure,Drama,Family,Fantasy	movie	en	English	7.4	106	The Jungle Book	245946	2016
+3043252	India,United Kingdom,United States	in,gb,us	Drama	movie	hi,en	Hindi,English	7.6	116	Parched	4292	2015
+3051894	India	in	Biography,Drama	movie	bn	Bengali	8.1	154	Cloud Capped Star	594	2013
+3062880	Israel,France,Germany	il,fr,de	Drama	movie	he,fr,ar	Hebrew,French,Arabic	7.7	115	Gett: The Trial of Viviane Amsalem	5635	2014
+3065204	Canada,United States,United Kingdom	ca,us,gb	Horror,Mystery,Thriller	movie	en	English	7.3	134	The Conjuring 2	204651	2016
+3078242	Greece	gr	Drama	movie	el	Greek	7.1	98	Miss Violence	6080	2013
 3153634	South Korea	kr	Drama	movie	ko	Korean	8.3	122	Hope	4351	2013
 3230162	France,Japan,Spain	fr,jp,es	Drama,Romance	movie	ja	Japanese	6.7	121	Still the Water	2357	2014
-3253930	Spain	es	Adventure,Crime,Horror,Mystery,Thriller	movie	es	Spanish	7.3	105	Marshland	27267	2014
-3289956	United Kingdom	gb	Horror,Mystery,Thriller	movie	en	English	6.8	86	The Autopsy of Jane Doe	82786	2016
-3322420	India	in	Comedy,Drama	movie	hi,en,fr,ja,nl	Hindi,English,French,Japanese,Dutch	8.2	146	Queen	56422	2013
-3327994	France	fr	Documentary	movie	en,fr,ar,es,pt,it,zh,ru,el,he,sgn	English,French,Arabic,Spanish,Portuguese,Italian,Chinese,Russian,Greek,Hebrew,Sign Languages	8.7	190	Human	6542	2015
-3390572	India	in	Action,Crime,Drama,Thriller	movie	hi	Hindi	8.1	160	Haider	46923	2014
-3394420	India	in	Comedy,Crime,Drama,Thriller	movie	kn,tcy	Kannada,Tulu	8.4	154	Ulidavaru Kandanthe	5961	2014
-3409392	Mauritania,France	mr,fr	Drama,War	movie	fr,ar,bm,en,son,tmh	French,Arabic,Bambara,English,Songhay,Tamashek	7.1	97	Timbuktu	15036	2014
-3447364	India	in	Action,Mystery,Thriller	movie	hi,en,cmn,ja	Hindi,English,Mandarin,Japanese	7.6	139	Detective Byomkesh Bakshy!	14681	2015
-3630276	Sweden,France,Norway,Denmark	se,fr,no,dk	Comedy,Drama	movie	sv,en,fr,no	Swedish,English,French,Norwegian	7.3	120	Force Majeure	43030	2014
-3659388	United Kingdom,United States,Hungary	gb,us,hu	Adventure,Drama,Sci-Fi	movie	en,cmn	English,Mandarin	8.0	144	The Martian	701200	2015
-3682448	Germany,India,United States	de,in,us	Drama,History,Thriller	movie	en,de,ru	English,German,Russian	7.6	142	Bridge of Spies	268621	2015
+3253930	Spain	es	Adventure,Crime,Horror,Mystery,Thriller	movie	es	Spanish	7.3	105	Marshland	27276	2014
+3289956	United Kingdom	gb	Horror,Mystery,Thriller	movie	en	English	6.8	86	The Autopsy of Jane Doe	82828	2016
+3322420	India	in	Comedy,Drama	movie	hi,en,fr,ja,nl	Hindi,English,French,Japanese,Dutch	8.2	146	Queen	56430	2013
+3327994	France	fr	Documentary	movie	en,fr,ar,es,pt,it,zh,ru,el,he,sgn	English,French,Arabic,Spanish,Portuguese,Italian,Chinese,Russian,Greek,Hebrew,Sign Languages	8.7	190	Human	6543	2015
+3390572	India	in	Action,Crime,Drama,Thriller	movie	hi	Hindi	8.1	160	Haider	46928	2014
+3394420	India	in	Comedy,Crime,Drama,Thriller	movie	kn,tcy	Kannada,Tulu	8.4	154	Ulidavaru Kandanthe	5965	2014
+3409392	Mauritania,France	mr,fr	Drama,War	movie	fr,ar,bm,en,son,tmh	French,Arabic,Bambara,English,Songhay,Tamashek	7.1	97	Timbuktu	15041	2014
+3447364	India	in	Action,Mystery,Thriller	movie	hi,en,cmn,ja	Hindi,English,Mandarin,Japanese	7.6	139	Detective Byomkesh Bakshy!	14683	2015
+3630276	Sweden,France,Norway,Denmark	se,fr,no,dk	Comedy,Drama	movie	sv,en,fr,no	Swedish,English,French,Norwegian	7.3	120	Force Majeure	43035	2014
+3659388	United Kingdom,United States,Hungary	gb,us,hu	Adventure,Drama,Sci-Fi	movie	en,cmn	English,Mandarin	8.0	144	The Martian	701387	2015
+3682448	Germany,India,United States	de,in,us	Drama,History,Thriller	movie	en,de,ru	English,German,Russian	7.6	142	Bridge of Spies	268673	2015
 3696126	South Korea	kr	Crime,Drama,Thriller	movie	ko	Korean	5.7	122	One on One	793	2014
-3704050	Canada,Mexico,Germany,South Africa	ca,mx,de,za	Drama,Mystery,Thriller	movie	en,de	English,German	7.5	94	Remember	20147	2015
-3717068	India	in	Drama	movie	mr,gu,en,hi	Marathi,Gujarati,English,Hindi	7.7	116	Court	3378	2014
-3735246	India	in	Action,Drama,History,Romance,War	movie	hi	Hindi	7.2	158	Bajirao Mastani	29148	2015
-3741834	United Kingdom,Australia,United States	gb,au,us	Biography,Drama	movie	en,hi,bn	English,Hindi,Bengali	8.0	118	Lion	188963	2016
-3742284	India	in	Action,Crime,Drama,Horror,Thriller	movie	hi,bgc	Hindi,Haryanvi	7.2	115	NH10	11379	2015
-3808342	Hungary	hu	Drama,War	movie	hu,yi,de,ru,pl,fr,el,sk,he	Hungarian,Yiddish,German,Russian,Polish,French,Greek,Slovak,Hebrew	7.5	107	Son of Saul	40372	2015
-3841424	Denmark,Germany	dk,de	Drama,History,War	movie	de,da,en	German,Danish,English	7.8	100	Land of Mine	29738	2015
+3704050	Canada,Mexico,Germany,South Africa	ca,mx,de,za	Drama,Mystery,Thriller	movie	en,de	English,German	7.5	94	Remember	20161	2015
+3717068	India	in	Drama	movie	mr,gu,en,hi	Marathi,Gujarati,English,Hindi	7.7	116	Court	3380	2014
+3735246	India	in	Action,Drama,History,Romance,War	movie	hi	Hindi	7.2	158	Bajirao Mastani	29158	2015
+3741834	United Kingdom,Australia,United States	gb,au,us	Biography,Drama	movie	en,hi,bn	English,Hindi,Bengali	8.0	118	Lion	189019	2016
+3742284	India	in	Action,Crime,Drama,Horror,Thriller	movie	hi,bgc	Hindi,Haryanvi	7.2	115	NH10	11381	2015
+3808342	Hungary	hu	Drama,War	movie	hu,yi,de,ru,pl,fr,el,sk,he	Hungarian,Yiddish,German,Russian,Polish,French,Greek,Slovak,Hebrew	7.5	107	Son of Saul	40383	2015
+3841424	Denmark,Germany	dk,de	Drama,History,War	movie	de,da,en	German,Danish,English	7.8	100	Land of Mine	29757	2015
 3954882	Germany,Iraq	de,iq	Comedy,Drama,History,War	movie	ku	Kurdish	6.9	97	Memories on Stone	120	2014
-3967856	South Korea,United States	kr,us	Action,Adventure,Drama,Sci-Fi	movie	en,ko,es	English,Korean,Spanish	7.3	120	Okja	77668	2017
-4160708	United States,Hungary	us,hu	Crime,Horror,Thriller	movie	en	English	7.1	88	Don't Breathe	195715	2016
-4226388	Germany	de	Crime,Drama,Romance,Thriller	movie	de,en,es,tr	German,English,Spanish,Turkish	7.7	138	Victoria	46331	2015
-4273292	United Kingdom,Jordan,Qatar,Iran	gb,jo,qa,ir	Drama,Horror,Thriller,War	movie	fa	Persian	6.9	84	Under the Shadow	19983	2016
-4285496	Colombia,Venezuela,Argentina	co,ve,ar	Adventure,Drama	movie	es,pt,qac,de,ca,la,en	Spanish,Portuguese,Aboriginal,German,Catalan,Latin,English	7.9	125	Embrace of the Serpent	18167	2015
+3967856	South Korea,United States	kr,us	Action,Adventure,Drama,Sci-Fi	movie	en,ko,es	English,Korean,Spanish	7.3	120	Okja	77745	2017
+4160708	United States,Hungary	us,hu	Crime,Horror,Thriller	movie	en	English	7.1	88	Don't Breathe	195770	2016
+4226388	Germany	de	Crime,Drama,Romance,Thriller	movie	de,en,es,tr	German,English,Spanish,Turkish	7.7	138	Victoria	46348	2015
+4273292	United Kingdom,Jordan,Qatar,Iran	gb,jo,qa,ir	Drama,Horror,Thriller,War	movie	fa	Persian	6.9	84	Under the Shadow	19991	2016
+4285496	Colombia,Venezuela,Argentina	co,ve,ar	Adventure,Drama	movie	es,pt,qac,de,ca,la,en	Spanish,Portuguese,Aboriginal,German,Catalan,Latin,English	7.9	125	Embrace of the Serpent	18173	2015
 4321682	India	in	Biography,Drama,Family	movie	bn	Bengali	7.7	118	A Short Story	219	2014
-4341582	United States	us	Biography,Drama,Sport	movie	en	English	7.4	124	Queen of Katwe	13566	2016
-4359416	Iran	ir	Comedy,Drama	movie	fa	Persian	7.3	82	Taxi Tehran	12273	2015
-4374460	Romania,Bulgaria,Czech Republic,France	ro,bg,cz,fr	Adventure,Comedy,Drama,History,Western	movie	ro,tr,rom	Romanian,Turkish,Romany	7.6	108	Aferim!	5906	2015
-4425200	United States,Hong Kong	us,hk	Action,Crime,Thriller	movie	en,it,ru	English,Italian,Russian	7.5	122	John Wick: Chapter 2	320418	2017
-4635372	India,France	in,fr	Drama	movie	hi	Hindi	8.1	109	Masaan	19918	2015
-4857264	Spain	es	Crime,Mystery,Thriller	movie	es	Spanish	8.1	106	The Invisible Guest	93445	2016
-5066556	South Korea	kr	Action,Adventure,Drama	movie	ja,ko	Japanese,Korean	7.3	139	The Tiger	3883	2015
-5074352	India	in	Action,Biography,Drama,Sport	movie	hi,ta,te	Hindi,Tamil,Telugu	8.4	161	Dangal	131442	2016
+4341582	United States	us	Biography,Drama,Sport	movie	en	English	7.4	124	Queen of Katwe	13573	2016
+4359416	Iran	ir	Comedy,Drama	movie	fa	Persian	7.3	82	Taxi Tehran	12279	2015
+4374460	Romania,Bulgaria,Czech Republic,France	ro,bg,cz,fr	Adventure,Comedy,Drama,History,Western	movie	ro,tr,rom	Romanian,Turkish,Romany	7.6	108	Aferim!	5907	2015
+4425200	United States,Hong Kong	us,hk	Action,Crime,Thriller	movie	en,it,ru	English,Italian,Russian	7.5	122	John Wick: Chapter 2	320591	2017
+4635372	India,France	in,fr	Drama	movie	hi	Hindi	8.1	109	Masaan	19928	2015
+4857264	Spain	es	Crime,Mystery,Thriller	movie	es	Spanish	8.1	106	The Invisible Guest	93529	2016
+5066556	South Korea	kr	Action,Adventure,Drama	movie	ja,ko	Japanese,Korean	7.3	139	The Tiger	3887	2015
+5074352	India	in	Action,Biography,Drama,Sport	movie	hi,ta,te	Hindi,Tamil,Telugu	8.4	161	Dangal	131499	2016
 5377564	India	in	Crime,Horror,Mystery,Thriller	movie	kn	Kannada	7.5	120	U Turn	2529	2016
-5700672	South Korea	kr	Action,Horror,Thriller	movie	ko,haw	Korean,Hawaiian	7.5	118	Train to Busan	117792	2016
-6027478	India	in	Action,Thriller	movie	te,hi	Telugu,Hindi	7.9	165	Dhruva	4878	2016
-6136704	United States	us	Action,Drama,Mystery,Thriller	episode	en,es	English,Spanish	7.3	43	One Hundred Days	1153	2017
-6206564	India	in	Action,Drama,Thriller	movie	hi	Hindi	7.5	105	Trapped	8305	2016
-6209130	United Kingdom	gb	Documentary	episode	en	English	8.7	50	Jungles	2660	2016
-6494052	India	in	Action,Comedy,Romance	movie	te	Telugu	6.4	150	Nenu Local	1426	2017
+5700672	South Korea	kr	Action,Horror,Thriller	movie	ko,haw	Korean,Hawaiian	7.5	118	Train to Busan	117881	2016
+6027478	India	in	Action,Thriller	movie	te,hi	Telugu,Hindi	7.9	165	Dhruva	4880	2016
+6136704	United States	us	Action,Drama,Mystery,Thriller	episode	en,es	English,Spanish	7.3	43	One Hundred Days	1154	2017
+6206564	India	in	Action,Drama,Thriller	movie	hi	Hindi	7.5	105	Trapped	8308	2016
+6209130	United Kingdom	gb	Documentary	episode	en	English	8.7	50	Jungles	2661	2016
+6494052	India	in	Action,Comedy,Romance	movie	te	Telugu	6.4	150	Nenu Local	1427	2017
